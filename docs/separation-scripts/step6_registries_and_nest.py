@@ -51,7 +51,12 @@ assert OLD.is_dir() and not NEW.exists(), (OLD, NEW)
 assert subprocess.run(['git', '-C', str(CO), 'status', '--short'], capture_output=True, text=True).stdout.strip() == '', 'checkout not clean'
 
 # 1. Registries: every installation copy must equal the checkout copy, then it is retired.
-retired = []
+# Rerun-safe: copies retired by an earlier run are already recorded in the installation's pointer; keep those records.
+prior_pointer = OLD / 'REGISTRIES.json'
+retired = list(read(prior_pointer)['files']) if prior_pointer.is_file() else []
+prior_receipt = CO / 'docs/SEPARATION-STEP6-RECEIPT.json'
+if prior_receipt.is_file():
+    receipt['prior_attempt'] = read(prior_receipt)
 for rel, reg in REGISTRY_FILES.items():
     src, dst = OLD / rel, REG / reg
     assert dst.is_file(), dst
