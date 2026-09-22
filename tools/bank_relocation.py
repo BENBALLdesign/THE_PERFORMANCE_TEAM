@@ -263,7 +263,8 @@ class Migration:
     def finish(self):
         plan = read(self.plan_path)
         receipt = read(self.meta / 'retirement-receipt.json')
-        assert receipt['files'] == plan['file_count'] and receipt['bytes'] == plan['bytes']
+        # retire() counts retired files only; kept-in-place files are copied and verified but never unlinked.
+        assert receipt['files'] + plan['kept_count'] == plan['file_count'] and receipt['bytes'] == plan['bytes'], (receipt['files'], plan['kept_count'], plan['file_count'])
         assert not (self.meta / 'storage-completion.json').exists(), 'Already completed; review before replay'
         routes = []
         for group in plan['groups']:
