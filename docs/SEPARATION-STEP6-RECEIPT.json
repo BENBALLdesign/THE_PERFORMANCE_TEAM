@@ -1,0 +1,38 @@
+{
+  "schema": "performance-team-separation-step6/1",
+  "at": "2026-09-22T07:27:07+00:00",
+  "registries": {
+    "status": "done",
+    "retired": [
+      "STUDY-GUIDE-EDITIONS.json",
+      "APPENDIX-VERSIONS.json",
+      "Sound Recordings/recordings-catalog.json",
+      "Sound Recordings/recordings-catalog.csv",
+      "Sound Recordings/recording-aliases.csv",
+      "Home Inspection Training/Library/CURRENT.json"
+    ],
+    "pointer": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\REGISTRIES.json"
+  },
+  "nest": {
+    "status": "deferred",
+    "reason": "os.rename of the installation and of Home Inspection Training returned WinError 5 (Access is denied): a process (Dropbox after 50k deletions, or this session, whose working directory is the installation) held the folders. ADMINISTRATION and CODE CARRY had moved and were moved back; the tree is as before.",
+    "moved_back": [
+      "__SORT__",
+      "ADMINISTRATION",
+      "CODE CARRY"
+    ],
+    "installation_top_level": [
+      "ADMINISTRATION",
+      "CODE CARRY",
+      "Home Inspection Training",
+      "Property Reviews",
+      "REGISTRIES.json",
+      "SHARED PRINTS",
+      "Sound Recordings",
+      "TRAINING-DOCUMENT-MAP.html",
+      "TRAINING-DOCUMENT-MAP.md",
+      "__SORT__"
+    ],
+    "next": "Run docs/separation-scripts/step6_registries_and_nest.py from a session whose working directory is NOT inside the installation, after Dropbox is idle; the registry step is idempotent (already-retired copies are skipped)."
+  }
+}
