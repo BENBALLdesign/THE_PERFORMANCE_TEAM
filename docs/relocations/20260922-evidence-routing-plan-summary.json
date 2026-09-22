@@ -1,0 +1,177 @@
+{
+  "schema": "home-inspection-bank-relocation/1",
+  "migration": "20260922-evidence-routing",
+  "created_at": "2026-09-22T05:49:49.747424+00:00",
+  "vault_id": "435ce95c-afa2-475a-b8d8-afc8db7656fe",
+  "spec": "C:\\Users\\benja\\Dropbox\\THE_PERFORMANCE_TEAM\\docs\\relocations\\20260922-evidence-routing.json",
+  "spec_sha256": "bfe031096300c0cf8cc444e8cf4dab975fcbccc3700b6b588dbaf8e56c2229a5",
+  "installation": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM",
+  "purpose": "Ben, 2026-09-22: a large volume of the installation's weight belongs in a well-documented Seed Bank folder. Move the dated session evidence (frame extracts, audio chunks, intake audio) and the six frozen SG-009 issue sets out of Dropbox, hash-verified, leaving pointers; keep the dated folders' top-level notes and records in place.",
+  "preserved": "CURRENT EDITION, every Study Guide Editions folder (SG-002 .. SG-010 and their L1/W1 cuts), Property Reviews, Library, Sound Recordings, ADMINISTRATION, the dated session folders' top-level notes, HTML, JSON and logs, and the SG-009 issue records (issue.json, README.md, Data) which stay beside their pointers",
+  "file_count": 50470,
+  "bytes": 6261728668,
+  "kept_count": 238,
+  "groups": [
+    {
+      "source": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\2026-09-10 Structural Inspection\\references",
+      "target": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Session Evidence\\2026-09-10 Structural Inspection\\references",
+      "kind": "session evidence",
+      "files": 150,
+      "bytes": 10723660
+    },
+    {
+      "source": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\2026-09-11 Training Sessions\\evidence",
+      "target": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Session Evidence\\2026-09-11 Training Sessions\\evidence",
+      "kind": "session evidence",
+      "files": 10174,
+      "bytes": 897248300
+    },
+    {
+      "source": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\2026-09-11 Training Sessions\\evidence-S05",
+      "target": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Session Evidence\\2026-09-11 Training Sessions\\evidence-S05",
+      "kind": "session evidence",
+      "files": 5523,
+      "bytes": 416488057
+    },
+    {
+      "source": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\2026-09-14 Exterior Session\\evidence-S09",
+      "target": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Session Evidence\\2026-09-14 Exterior Session\\evidence-S09",
+      "kind": "session evidence",
+      "files": 1082,
+      "bytes": 59734338
+    },
+    {
+      "source": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\2026-09-14 Exterior Session\\methods",
+      "target": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Session Evidence\\2026-09-14 Exterior Session\\methods",
+      "kind": "session evidence",
+      "files": 3,
+      "bytes": 13865
+    },
+    {
+      "source": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\2026-09-14 Exterior Session\\publication-backup-SG-005",
+      "target": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Session Evidence\\2026-09-14 Exterior Session\\publication-backup-SG-005",
+      "kind": "publication backup",
+      "files": 7,
+      "bytes": 12922355
+    },
+    {
+      "source": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\2026-09-14 Training Sessions\\evidence-S06",
+      "target": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Session Evidence\\2026-09-14 Training Sessions\\evidence-S06",
+      "kind": "session evidence",
+      "files": 4789,
+      "bytes": 376211757
+    },
+    {
+      "source": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\2026-09-14 Training Sessions\\evidence-S07",
+      "target": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Session Evidence\\2026-09-14 Training Sessions\\evidence-S07",
+      "kind": "session evidence",
+      "files": 1216,
+      "bytes": 62820174
+    },
+    {
+      "source": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\2026-09-14 Training Sessions\\evidence-S08",
+      "target": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Session Evidence\\2026-09-14 Training Sessions\\evidence-S08",
+      "kind": "session evidence",
+      "files": 7335,
+      "bytes": 503846017
+    },
+    {
+      "source": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\2026-09-14 Training Sessions\\methods",
+      "target": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Session Evidence\\2026-09-14 Training Sessions\\methods",
+      "kind": "session evidence",
+      "files": 4,
+      "bytes": 16877
+    },
+    {
+      "source": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\2026-09-14 Training Sessions\\publication-backup-SG-004",
+      "target": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Session Evidence\\2026-09-14 Training Sessions\\publication-backup-SG-004",
+      "kind": "publication backup",
+      "files": 8,
+      "bytes": 9493647
+    },
+    {
+      "source": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\2026-09-14 Late Sessions\\evidence-S10",
+      "target": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Session Evidence\\2026-09-14 Late Sessions\\evidence-S10",
+      "kind": "session evidence",
+      "files": 9725,
+      "bytes": 657175786
+    },
+    {
+      "source": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\2026-09-14 Late Sessions\\evidence-S11",
+      "target": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Session Evidence\\2026-09-14 Late Sessions\\evidence-S11",
+      "kind": "session evidence",
+      "files": 9031,
+      "bytes": 607595196
+    },
+    {
+      "source": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\2026-09-14 Late Sessions\\evidence-S12",
+      "target": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Session Evidence\\2026-09-14 Late Sessions\\evidence-S12",
+      "kind": "session evidence",
+      "files": 254,
+      "bytes": 12121371
+    },
+    {
+      "source": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\2026-09-14 Late Sessions\\methods",
+      "target": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Session Evidence\\2026-09-14 Late Sessions\\methods",
+      "kind": "session evidence",
+      "files": 4,
+      "bytes": 16779
+    },
+    {
+      "source": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\2026-09-14 Late Sessions\\publication-backup-SG-006",
+      "target": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Session Evidence\\2026-09-14 Late Sessions\\publication-backup-SG-006",
+      "kind": "publication backup",
+      "files": 8,
+      "bytes": 13054346
+    },
+    {
+      "source": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\2026-09-17 to 2026-09-19 Intake\\Audio",
+      "target": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Session Evidence\\2026-09-17 to 2026-09-19 Intake\\Audio",
+      "kind": "intake audio",
+      "files": 632,
+      "bytes": 2264449749
+    },
+    {
+      "source": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\Study Guide Editions\\SG-009 Issues\\S31-2026-09-20",
+      "target": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Issues\\S31-2026-09-20",
+      "kind": "frozen issue",
+      "files": 69,
+      "bytes": 55565320
+    },
+    {
+      "source": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\Study Guide Editions\\SG-009 Issues\\S31-E1-2026-09-21",
+      "target": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Issues\\S31-E1-2026-09-21",
+      "kind": "frozen issue",
+      "files": 69,
+      "bytes": 55604000
+    },
+    {
+      "source": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\Study Guide Editions\\SG-009 Issues\\S32-2026-09-21",
+      "target": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Issues\\S32-2026-09-21",
+      "kind": "frozen issue",
+      "files": 84,
+      "bytes": 57130105
+    },
+    {
+      "source": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\Study Guide Editions\\SG-009 Issues\\S32-C1-2026-09-21",
+      "target": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Issues\\S32-C1-2026-09-21",
+      "kind": "frozen issue",
+      "files": 123,
+      "bytes": 74791505
+    },
+    {
+      "source": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\Study Guide Editions\\SG-009 Issues\\S32-N1-2026-09-21",
+      "target": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Issues\\S32-N1-2026-09-21",
+      "kind": "frozen issue",
+      "files": 87,
+      "bytes": 57123233
+    },
+    {
+      "source": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\Study Guide Editions\\SG-009 Issues\\S32-N2-2026-09-21",
+      "target": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Issues\\S32-N2-2026-09-21",
+      "kind": "frozen issue",
+      "files": 93,
+      "bytes": 57582231
+    }
+  ]
+}

@@ -8,7 +8,7 @@ Home-inspection study-guide production (the SG editions, appendices, field cards
 | --- | --- | --- |
 | `production/sg010` | The SG-010 pipeline: prepare, render, contents, paint, cards, Walker, references, navigation, shelf, library, QA, publish. `PROGRESS.md` and `NEXT SESSION BRIEF.md` are the run record | tracked |
 | `builder` | The builder modules the production scripts import (renderers, edition, glossary, field-card bindings and concordance, Maryland marker), plus `property-505-r2` (atlas brand, marker) and `sg009-color-language/paint.py` | tracked |
-| `tools` | `team_paths.py` (where everything is), `home_inspection_storage.py` (Seed Bank routing), `home_inspection_library.py` (build, verify, lookup), `home_inspection_page_frame.py`, `recording_archive.py` | tracked |
+| `tools` | `team_paths.py` (where everything is), `home_inspection_storage.py` (Seed Bank routing), `home_inspection_library.py` (build, verify, lookup), `home_inspection_page_frame.py`, `recording_archive.py`, `bank_relocation.py` (spec-driven, hash-verified moves of bulk folders into the bank; specs and receipts under `docs/relocations`) | tracked |
 | `registries` | `STUDY-GUIDE-EDITIONS.json`, `APPENDIX-VERSIONS.json`, `recordings-catalog.json` (+ csv, aliases), `Library/CURRENT.json` | tracked |
 | `assets/brand` | Print tokens (`palette`, `typography`, `spacing`) and the canonical logo the renderers read | tracked |
 | `skills/portable-v1.2` | Recording and audio extraction skills; no machine paths | tracked |

@@ -1,0 +1,38 @@
+{
+  "schema": "performance-team-bank-relocation-spec/1",
+  "migration": "20260922-evidence-routing",
+  "purpose": "Ben, 2026-09-22: a large volume of the installation's weight belongs in a well-documented Seed Bank folder. Move the dated session evidence (frame extracts, audio chunks, intake audio) and the six frozen SG-009 issue sets out of Dropbox, hash-verified, leaving pointers; keep the dated folders' top-level notes and records in place.",
+  "preserved": "CURRENT EDITION, every Study Guide Editions folder (SG-002 .. SG-010 and their L1/W1 cuts), Property Reviews, Library, Sound Recordings, ADMINISTRATION, the dated session folders' top-level notes, HTML, JSON and logs, and the SG-009 issue records (issue.json, README.md, Data) which stay beside their pointers",
+  "bank_layout": {
+    "Session Evidence": "extracted evidence from the dated training sessions and intake runs (frames, audio chunks, exports); one folder per dated session folder, subfolders as they were in Dropbox",
+    "Issues": "frozen standalone reading sets, one folder per issue id (SG-009 issues join the SG-010 ones)",
+    "Backups": "Current Set History: the shelf as it was before each publication",
+    "Working Evidence": "build payloads, staging, QA proofs and library builds per work label",
+    "_META": "one folder per migration: relocation plan, copy and retirement journals, receipts"
+  },
+  "groups": [
+    {"source": "Home Inspection Training/2026-09-10 Structural Inspection/references", "target": "Session Evidence/2026-09-10 Structural Inspection/references", "kind": "session evidence"},
+    {"source": "Home Inspection Training/2026-09-11 Training Sessions/evidence", "target": "Session Evidence/2026-09-11 Training Sessions/evidence", "kind": "session evidence"},
+    {"source": "Home Inspection Training/2026-09-11 Training Sessions/evidence-S05", "target": "Session Evidence/2026-09-11 Training Sessions/evidence-S05", "kind": "session evidence"},
+    {"source": "Home Inspection Training/2026-09-14 Exterior Session/evidence-S09", "target": "Session Evidence/2026-09-14 Exterior Session/evidence-S09", "kind": "session evidence"},
+    {"source": "Home Inspection Training/2026-09-14 Exterior Session/methods", "target": "Session Evidence/2026-09-14 Exterior Session/methods", "kind": "session evidence"},
+    {"source": "Home Inspection Training/2026-09-14 Exterior Session/publication-backup-SG-005", "target": "Session Evidence/2026-09-14 Exterior Session/publication-backup-SG-005", "kind": "publication backup"},
+    {"source": "Home Inspection Training/2026-09-14 Training Sessions/evidence-S06", "target": "Session Evidence/2026-09-14 Training Sessions/evidence-S06", "kind": "session evidence"},
+    {"source": "Home Inspection Training/2026-09-14 Training Sessions/evidence-S07", "target": "Session Evidence/2026-09-14 Training Sessions/evidence-S07", "kind": "session evidence"},
+    {"source": "Home Inspection Training/2026-09-14 Training Sessions/evidence-S08", "target": "Session Evidence/2026-09-14 Training Sessions/evidence-S08", "kind": "session evidence"},
+    {"source": "Home Inspection Training/2026-09-14 Training Sessions/methods", "target": "Session Evidence/2026-09-14 Training Sessions/methods", "kind": "session evidence"},
+    {"source": "Home Inspection Training/2026-09-14 Training Sessions/publication-backup-SG-004", "target": "Session Evidence/2026-09-14 Training Sessions/publication-backup-SG-004", "kind": "publication backup"},
+    {"source": "Home Inspection Training/2026-09-14 Late Sessions/evidence-S10", "target": "Session Evidence/2026-09-14 Late Sessions/evidence-S10", "kind": "session evidence"},
+    {"source": "Home Inspection Training/2026-09-14 Late Sessions/evidence-S11", "target": "Session Evidence/2026-09-14 Late Sessions/evidence-S11", "kind": "session evidence"},
+    {"source": "Home Inspection Training/2026-09-14 Late Sessions/evidence-S12", "target": "Session Evidence/2026-09-14 Late Sessions/evidence-S12", "kind": "session evidence"},
+    {"source": "Home Inspection Training/2026-09-14 Late Sessions/methods", "target": "Session Evidence/2026-09-14 Late Sessions/methods", "kind": "session evidence"},
+    {"source": "Home Inspection Training/2026-09-14 Late Sessions/publication-backup-SG-006", "target": "Session Evidence/2026-09-14 Late Sessions/publication-backup-SG-006", "kind": "publication backup"},
+    {"source": "Home Inspection Training/2026-09-17 to 2026-09-19 Intake/Audio", "target": "Session Evidence/2026-09-17 to 2026-09-19 Intake/Audio", "kind": "intake audio"},
+    {"source": "Home Inspection Training/Study Guide Editions/SG-009 Issues/S31-2026-09-20", "target": "Issues/S31-2026-09-20", "kind": "frozen issue", "keep": ["issue.json", "README.md", "Data/*", "Data/*/*", "Data/*/*/*", "Data/*/*/*/*"]},
+    {"source": "Home Inspection Training/Study Guide Editions/SG-009 Issues/S31-E1-2026-09-21", "target": "Issues/S31-E1-2026-09-21", "kind": "frozen issue", "keep": ["issue.json", "README.md", "Data/*", "Data/*/*", "Data/*/*/*", "Data/*/*/*/*"]},
+    {"source": "Home Inspection Training/Study Guide Editions/SG-009 Issues/S32-2026-09-21", "target": "Issues/S32-2026-09-21", "kind": "frozen issue", "keep": ["issue.json", "README.md", "Data/*", "Data/*/*", "Data/*/*/*", "Data/*/*/*/*"]},
+    {"source": "Home Inspection Training/Study Guide Editions/SG-009 Issues/S32-C1-2026-09-21", "target": "Issues/S32-C1-2026-09-21", "kind": "frozen issue", "keep": ["issue.json", "README.md", "Data/*", "Data/*/*", "Data/*/*/*", "Data/*/*/*/*"]},
+    {"source": "Home Inspection Training/Study Guide Editions/SG-009 Issues/S32-N1-2026-09-21", "target": "Issues/S32-N1-2026-09-21", "kind": "frozen issue", "keep": ["issue.json", "README.md", "Data/*", "Data/*/*", "Data/*/*/*", "Data/*/*/*/*"]},
+    {"source": "Home Inspection Training/Study Guide Editions/SG-009 Issues/S32-N2-2026-09-21", "target": "Issues/S32-N2-2026-09-21", "kind": "frozen issue", "keep": ["issue.json", "README.md", "Data/*", "Data/*/*", "Data/*/*/*", "Data/*/*/*/*"]}
+  ]
+}
