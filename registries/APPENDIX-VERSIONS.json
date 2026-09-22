@@ -1,0 +1,1626 @@
+{
+  "schema": 1,
+  "updated_at": "2026-09-22T03:56:47.374235+00:00",
+  "current": {
+    "APP-A": "1.8-C1",
+    "APP-B": "1.7-C1",
+    "APP-C": "1.9-C1",
+    "APP-D": "1.3-C1",
+    "APP-E": "1.4-C1",
+    "APP-F": "1.3-C1",
+    "APP-G": "1.3-C1",
+    "APP-H": "1.2-C1"
+  },
+  "history": [
+    {
+      "id": "APP-A",
+      "version": "1.0",
+      "date": "2026-09-11",
+      "title": "Field tools",
+      "entries": 16,
+      "issued_with": [
+        "SG-002"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-002/Appendices/APP-A-v1.0.html",
+      "change": "Initial register from four recordings and current study-guide work."
+    },
+    {
+      "id": "APP-B",
+      "version": "1.0",
+      "date": "2026-09-11",
+      "title": "Reference and record tools",
+      "entries": 8,
+      "issued_with": [
+        "SG-002",
+        "SG-003"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-002/Appendices/APP-B-v1.0.html",
+      "change": "Initial register from four recordings and current study-guide work."
+    },
+    {
+      "id": "APP-C",
+      "version": "1.0",
+      "date": "2026-09-11",
+      "title": "Report mentions log",
+      "entries": 30,
+      "issued_with": [
+        "SG-002"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-002/Appendices/APP-C-v1.0.html",
+      "change": "Initial register from four recordings and current study-guide work."
+    },
+    {
+      "id": "APP-A",
+      "version": "1.1",
+      "date": "2026-09-11",
+      "title": "Field tools",
+      "entries": 17,
+      "issued_with": [
+        "SG-003"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-003/Appendices/APP-A-v1.1.html",
+      "change": "Add crawl-space coveralls; connect four existing tools to explicit new course mentions. Existing levels retained."
+    },
+    {
+      "id": "APP-C",
+      "version": "1.1",
+      "date": "2026-09-11",
+      "title": "Report mentions log",
+      "entries": 41,
+      "issued_with": [
+        "SG-003"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-003/Appendices/APP-C-v1.1.html",
+      "change": "Append eleven report-entry mentions from crawl spaces, slabs and the construction video; clarify the existing access record. Preserve append order; no checklist grouping."
+    },
+    {
+      "id": "APP-A",
+      "version": "1.2",
+      "date": "2026-09-14",
+      "title": "Field tools",
+      "entries": 17,
+      "issued_with": [
+        "SG-004",
+        "SG-005"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-004/Appendices/APP-A-v1.2.html",
+      "change": "Connect existing probe and ladder entries to the roof lesson; no new equipment purchase implied."
+    },
+    {
+      "id": "APP-B",
+      "version": "1.1",
+      "date": "2026-09-14",
+      "title": "Reference and record tools",
+      "entries": 9,
+      "issued_with": [
+        "SG-004",
+        "SG-005"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-004/Appendices/APP-B-v1.1.html",
+      "change": "Add masonry reference category; link installation-manual, Code Check and log-home expertise records to new evidence."
+    },
+    {
+      "id": "APP-C",
+      "version": "1.2",
+      "date": "2026-09-14",
+      "title": "Report mentions log",
+      "entries": 63,
+      "issued_with": [
+        "SG-004"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-004/Appendices/APP-C-v1.2.html",
+      "change": "Append 22 wall, floor, roof, attic and manufactured-home report mentions. Preserve existing entries and append order; no checklist hierarchy."
+    },
+    {
+      "id": "APP-C",
+      "version": "1.3",
+      "date": "2026-09-14",
+      "title": "Report mentions log",
+      "entries": 71,
+      "issued_with": [
+        "SG-005"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-005/Appendices/APP-C-v1.3.html",
+      "change": "Append eight exterior-inspection report mentions from S09; retain the earlier entries and append order."
+    },
+    {
+      "id": "APP-A",
+      "version": "1.3",
+      "date": "2026-09-15",
+      "title": "Field tools",
+      "entries": 18,
+      "issued_with": [
+        "SG-006"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-006/Appendices/APP-A-v1.3.html",
+      "change": "Add a magnet as a conditional material-identification aid; update measuring, probing and ladder limitations for siding work. No bleach or destructive-identification procedure added."
+    },
+    {
+      "id": "APP-B",
+      "version": "1.2",
+      "date": "2026-09-15",
+      "title": "Reference and record tools",
+      "entries": 9,
+      "issued_with": [
+        "SG-006"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-006/Appendices/APP-B-v1.2.html",
+      "change": "Extend existing product, code-reference and specialist resources for exterior cladding; retain nine distinct reference tools."
+    },
+    {
+      "id": "APP-C",
+      "version": "1.4",
+      "date": "2026-09-15",
+      "title": "Report mentions log",
+      "entries": 80,
+      "issued_with": [
+        "SG-006"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-006/Appendices/APP-C-v1.4.html",
+      "change": "Append nine siding report mentions and expand three existing cladding/masonry entries; preserve stable IDs and append order. No checklist hierarchy imposed."
+    },
+    {
+      "id": "APP-A",
+      "version": "1.4",
+      "date": "2026-09-16",
+      "title": "Field tools",
+      "entries": 18,
+      "issued_with": [
+        "SG-007"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-007/Appendices/APP-A-v1.4.html",
+      "change": "Connect four existing tools to new explicit audio mentions; retain equipment priorities, availability and training status."
+    },
+    {
+      "id": "APP-B",
+      "version": "1.3",
+      "date": "2026-09-16",
+      "title": "Reference and record tools",
+      "entries": 10,
+      "issued_with": [
+        "SG-007"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-007/Appendices/APP-B-v1.3.html",
+      "change": "Extend product/code resources and add NFRC window-rating reference; preserve existing priority and ownership states."
+    },
+    {
+      "id": "APP-C",
+      "version": "1.5",
+      "date": "2026-09-16",
+      "title": "Report mentions log",
+      "entries": 99,
+      "issued_with": [
+        "SG-007"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-007/Appendices/APP-C-v1.5.html",
+      "change": "Append nineteen S13/S14 report-entry mentions in intake order; preserve all eighty prior entries unchanged and retain running-list status."
+    },
+    {
+      "id": "APP-A",
+      "version": "1.5",
+      "entries": 25,
+      "title": "Field tools",
+      "path": "Home Inspection Training/Study Guide Editions/SG-008/Appendices/APP-A-v1.5.html",
+      "pages": 5,
+      "date": "2026-09-19",
+      "issued_with": [
+        "SG-008-L1"
+      ],
+      "change": "Long-cut reference: new session integration, retrieval and regional update; prior entry IDs and editions retained.",
+      "presentation_revision": "experimental-R1"
+    },
+    {
+      "id": "APP-B",
+      "version": "1.4",
+      "entries": 13,
+      "title": "Reference and record tools",
+      "path": "Home Inspection Training/Study Guide Editions/SG-008/Appendices/APP-B-v1.4.html",
+      "pages": 3,
+      "date": "2026-09-19",
+      "issued_with": [
+        "SG-008-L1"
+      ],
+      "change": "Long-cut reference: new session integration, retrieval and regional update; prior entry IDs and editions retained.",
+      "presentation_revision": "experimental-R1"
+    },
+    {
+      "id": "APP-C",
+      "version": "1.6",
+      "entries": 125,
+      "title": "Report mentions log",
+      "path": "Home Inspection Training/Study Guide Editions/SG-008/Appendices/APP-C-v1.6.html",
+      "pages": 13,
+      "date": "2026-09-19",
+      "issued_with": [
+        "SG-008-L1"
+      ],
+      "change": "Long-cut reference: new session integration, retrieval and regional update; prior entry IDs and editions retained.",
+      "presentation_revision": "experimental-R1"
+    },
+    {
+      "id": "APP-D",
+      "version": "1.0",
+      "title": "Terms, notes and numerical references",
+      "path": "Home Inspection Training/Study Guide Editions/SG-008/Appendices/APP-D-v1.0.html",
+      "pages": 15,
+      "date": "2026-09-19",
+      "issued_with": [
+        "SG-008-L1"
+      ],
+      "change": "Long-cut reference: new session integration, retrieval and regional update; prior entry IDs and editions retained.",
+      "presentation_revision": "experimental-R1"
+    },
+    {
+      "id": "APP-E",
+      "version": "1.0",
+      "title": "Sources and evidence register",
+      "path": "Home Inspection Training/Study Guide Editions/SG-008/Appendices/APP-E-v1.0.html",
+      "pages": 3,
+      "date": "2026-09-19",
+      "issued_with": [
+        "SG-008-L1"
+      ],
+      "change": "Long-cut reference: new session integration, retrieval and regional update; prior entry IDs and editions retained.",
+      "presentation_revision": "experimental-R1"
+    },
+    {
+      "id": "APP-F",
+      "version": "1.0",
+      "title": "Construction-era packing lists",
+      "path": "Home Inspection Training/Study Guide Editions/SG-008/Appendices/APP-F-v1.0.html",
+      "pages": 5,
+      "date": "2026-09-19",
+      "issued_with": [
+        "SG-008-L1"
+      ],
+      "change": "Long-cut reference: new session integration, retrieval and regional update; prior entry IDs and editions retained.",
+      "presentation_revision": "experimental-R1"
+    },
+    {
+      "id": "APP-G",
+      "version": "1.0",
+      "title": "Exam review",
+      "path": "Home Inspection Training/Study Guide Editions/SG-008/Appendices/APP-G-v1.0.html",
+      "pages": 15,
+      "date": "2026-09-19",
+      "issued_with": [
+        "SG-008-L1"
+      ],
+      "change": "Long-cut reference: new session integration, retrieval and regional update; prior entry IDs and editions retained.",
+      "presentation_revision": "experimental-R1"
+    },
+    {
+      "id": "APP-H",
+      "version": "1.0",
+      "title": "Codes, Standards, and General Practice Timeline",
+      "path": "Home Inspection Training/Study Guide Editions/SG-008/Appendices/APP-H-v1.0.html",
+      "pages": 6,
+      "date": "2026-09-19",
+      "issued_with": [
+        "SG-008-L1"
+      ],
+      "change": "Long-cut reference: new session integration, retrieval and regional update; prior entry IDs and editions retained.",
+      "presentation_revision": "experimental-R1"
+    },
+    {
+      "id": "APP-A",
+      "version": "1.5-C1",
+      "based_on_version": "1.5",
+      "title": "Field tools",
+      "pages": 2,
+      "path": "Home Inspection Training/Study Guide Editions/SG-008/Appendices/Compact/APP-A-v1.5-C1.html",
+      "pdf": "Appendices/Compact/APP-A-v1.5-C1.pdf",
+      "date": "2026-09-19",
+      "issued_with": [
+        "SG-008"
+      ],
+      "change": "Readable compact selection; full records retained in the corresponding long-cut version.",
+      "presentation_revision": "experimental-R1"
+    },
+    {
+      "id": "APP-B",
+      "version": "1.4-C1",
+      "based_on_version": "1.4",
+      "title": "Reference and record tools",
+      "pages": 1,
+      "path": "Home Inspection Training/Study Guide Editions/SG-008/Appendices/Compact/APP-B-v1.4-C1.html",
+      "pdf": "Appendices/Compact/APP-B-v1.4-C1.pdf",
+      "date": "2026-09-19",
+      "issued_with": [
+        "SG-008"
+      ],
+      "change": "Readable compact selection; full records retained in the corresponding long-cut version.",
+      "presentation_revision": "experimental-R1"
+    },
+    {
+      "id": "APP-C",
+      "version": "1.6-C1",
+      "based_on_version": "1.6",
+      "title": "Report mentions — selection prompts",
+      "pages": 2,
+      "path": "Home Inspection Training/Study Guide Editions/SG-008/Appendices/Compact/APP-C-v1.6-C1.html",
+      "pdf": "Appendices/Compact/APP-C-v1.6-C1.pdf",
+      "date": "2026-09-19",
+      "issued_with": [
+        "SG-008"
+      ],
+      "change": "Readable compact selection; full records retained in the corresponding long-cut version.",
+      "presentation_revision": "experimental-R1"
+    },
+    {
+      "id": "APP-D",
+      "version": "1.0-C1",
+      "based_on_version": "1.0",
+      "title": "Selected terms and notes",
+      "pages": 3,
+      "path": "Home Inspection Training/Study Guide Editions/SG-008/Appendices/Compact/APP-D-v1.0-C1.html",
+      "pdf": "Appendices/Compact/APP-D-v1.0-C1.pdf",
+      "date": "2026-09-19",
+      "issued_with": [
+        "SG-008"
+      ],
+      "change": "Readable compact selection; full records retained in the corresponding long-cut version.",
+      "presentation_revision": "experimental-R1"
+    },
+    {
+      "id": "APP-E",
+      "version": "1.0-C1",
+      "based_on_version": "1.0",
+      "title": "Sources — finding the evidence",
+      "pages": 1,
+      "path": "Home Inspection Training/Study Guide Editions/SG-008/Appendices/Compact/APP-E-v1.0-C1.html",
+      "pdf": "Appendices/Compact/APP-E-v1.0-C1.pdf",
+      "date": "2026-09-19",
+      "issued_with": [
+        "SG-008"
+      ],
+      "change": "Readable compact selection; full records retained in the corresponding long-cut version.",
+      "presentation_revision": "experimental-R1"
+    },
+    {
+      "id": "APP-F",
+      "version": "1.0-C1",
+      "based_on_version": "1.0",
+      "title": "Construction-era packing cards",
+      "pages": 4,
+      "path": "Home Inspection Training/Study Guide Editions/SG-008/Appendices/Compact/APP-F-v1.0-C1.html",
+      "pdf": "Appendices/Compact/APP-F-v1.0-C1.pdf",
+      "date": "2026-09-19",
+      "issued_with": [
+        "SG-008"
+      ],
+      "change": "Readable compact selection; full records retained in the corresponding long-cut version.",
+      "presentation_revision": "experimental-R1"
+    },
+    {
+      "id": "APP-G",
+      "version": "1.0-C1",
+      "based_on_version": "1.0",
+      "title": "Selected exam and lesson corrections",
+      "pages": 1,
+      "path": "Home Inspection Training/Study Guide Editions/SG-008/Appendices/Compact/APP-G-v1.0-C1.html",
+      "pdf": "Appendices/Compact/APP-G-v1.0-C1.pdf",
+      "date": "2026-09-19",
+      "issued_with": [
+        "SG-008"
+      ],
+      "change": "Readable compact selection; full records retained in the corresponding long-cut version.",
+      "presentation_revision": "experimental-R1"
+    },
+    {
+      "id": "APP-H",
+      "version": "1.0-C1",
+      "based_on_version": "1.0",
+      "title": "Codes, standards and practice — selected timeline",
+      "pages": 4,
+      "path": "Home Inspection Training/Study Guide Editions/SG-008/Appendices/Compact/APP-H-v1.0-C1.html",
+      "pdf": "Appendices/Compact/APP-H-v1.0-C1.pdf",
+      "date": "2026-09-19",
+      "issued_with": [
+        "SG-008"
+      ],
+      "change": "Readable compact selection; full records retained in the corresponding long-cut version.",
+      "presentation_revision": "experimental-R1"
+    },
+    {
+      "id": "APP-A",
+      "version": "1.6-C1",
+      "title": "Field tools",
+      "pages": 2,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-A-v1.6-C1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-A-v1.6-C1.pdf",
+      "pdf_sha256": "62972a740d6a8cc3e5bc5455aa31b4d88e64fdc7d1f2e97850b4d9723ce2286c",
+      "based_on_version": "1.6",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009"
+      ],
+      "change": "S30 integration, pinned qualifications and Maryland relevance layer; historical records retained"
+    },
+    {
+      "id": "APP-B",
+      "version": "1.5-C1",
+      "title": "Reference and record tools",
+      "pages": 1,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-B-v1.5-C1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-B-v1.5-C1.pdf",
+      "pdf_sha256": "23e370a223749bb1b8a48125b556ff06f413666352d917af7c0028600b73c55a",
+      "based_on_version": "1.5",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009"
+      ],
+      "change": "S30 integration, pinned qualifications and Maryland relevance layer; historical records retained"
+    },
+    {
+      "id": "APP-C",
+      "version": "1.7-C1",
+      "title": "Report mentions log",
+      "pages": 2,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-C-v1.7-C1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-C-v1.7-C1.pdf",
+      "pdf_sha256": "bffb062b60bdb45365006a825a0551d89b32da13b1863670bc1f071769e08dfc",
+      "based_on_version": "1.7",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009"
+      ],
+      "change": "S30 integration, pinned qualifications and Maryland relevance layer; historical records retained"
+    },
+    {
+      "id": "APP-D",
+      "version": "1.1-C1",
+      "title": "Terms, notes and numerical references",
+      "pages": 3,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-D-v1.1-C1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-D-v1.1-C1.pdf",
+      "pdf_sha256": "d89b8d612df55731ba7ae3cd97f5b161f47c6a859daa33248cbdcbeea3a9ceff",
+      "based_on_version": "1.1",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009"
+      ],
+      "change": "S30 integration, pinned qualifications and Maryland relevance layer; historical records retained"
+    },
+    {
+      "id": "APP-E",
+      "version": "1.1-C1",
+      "title": "Sources and evidence register",
+      "pages": 1,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-E-v1.1-C1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-E-v1.1-C1.pdf",
+      "pdf_sha256": "fddd74df72468850f022559d9c11e266a96299c1ab4590eca7d65dc114356c58",
+      "based_on_version": "1.1",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009"
+      ],
+      "change": "S30 integration, pinned qualifications and Maryland relevance layer; historical records retained"
+    },
+    {
+      "id": "APP-F",
+      "version": "1.1-C1",
+      "title": "Construction-era packing lists",
+      "pages": 4,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-F-v1.1-C1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-F-v1.1-C1.pdf",
+      "pdf_sha256": "8c9679e254b3adc183f6415f211e33f97531756e90d928f9b256c9d913d46f44",
+      "based_on_version": "1.1",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009"
+      ],
+      "change": "S30 integration, pinned qualifications and Maryland relevance layer; historical records retained"
+    },
+    {
+      "id": "APP-G",
+      "version": "1.1-C1",
+      "title": "Exam review",
+      "pages": 1,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-G-v1.1-C1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-G-v1.1-C1.pdf",
+      "pdf_sha256": "694bf339f54283a3897458af956b1200ab84d223bbcbca63d2d1f001aa596dfa",
+      "based_on_version": "1.1",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009"
+      ],
+      "change": "S30 integration, pinned qualifications and Maryland relevance layer; historical records retained"
+    },
+    {
+      "id": "APP-H",
+      "version": "1.1-C1",
+      "title": "Codes, Standards, and General Practice Timeline",
+      "pages": 4,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-H-v1.1-C1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-H-v1.1-C1.pdf",
+      "pdf_sha256": "182caff102729302facc068be36c583bf320c8d4cc3339a26ffb73d347c2c507",
+      "based_on_version": "1.1",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009"
+      ],
+      "change": "S30 integration, pinned qualifications and Maryland relevance layer; historical records retained",
+      "presentation_revision": "S32-C1-2026-09-21"
+    },
+    {
+      "id": "APP-A",
+      "version": "1.6",
+      "title": "Field tools",
+      "pages": 5,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-A-v1.6.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-A-v1.6.pdf",
+      "pdf_sha256": "8dc1dc2a66dd0d0c1ebb8e3f69f11015810b47cc0e42248311ece0441ed391ae",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009-L1"
+      ],
+      "change": "S30 integration, pinned qualifications and Maryland relevance layer; historical records retained"
+    },
+    {
+      "id": "APP-B",
+      "version": "1.5",
+      "title": "Reference and record tools",
+      "pages": 3,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-B-v1.5.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-B-v1.5.pdf",
+      "pdf_sha256": "4d5e5a9e355ed2be3748a546b1de6563dd992061555a94128ca19e7580590767",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009-L1"
+      ],
+      "change": "S30 integration, pinned qualifications and Maryland relevance layer; historical records retained"
+    },
+    {
+      "id": "APP-C",
+      "version": "1.7",
+      "title": "Report mentions log",
+      "pages": 14,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-C-v1.7.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-C-v1.7.pdf",
+      "pdf_sha256": "ab2d1eab7d1fc0ebd7ddb3765213ccb3220f35617de7bed10d8714251faa99ad",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009-L1"
+      ],
+      "change": "S30 integration, pinned qualifications and Maryland relevance layer; historical records retained"
+    },
+    {
+      "id": "APP-D",
+      "version": "1.1",
+      "title": "Terms, notes and numerical references",
+      "pages": 16,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-D-v1.1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-D-v1.1.pdf",
+      "pdf_sha256": "515ff353574e5f5c8c66a7af23556521c3f2564131ce0d29079bd04afb6783d5",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009-L1"
+      ],
+      "change": "S30 integration, pinned qualifications and Maryland relevance layer; historical records retained"
+    },
+    {
+      "id": "APP-E",
+      "version": "1.1",
+      "title": "Sources and evidence register",
+      "pages": 4,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-E-v1.1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-E-v1.1.pdf",
+      "pdf_sha256": "b18af103add6d7e28cfc7623c604479f6be49a782d7936aae1e5eace92fc2428",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009-L1"
+      ],
+      "change": "S30 integration, pinned qualifications and Maryland relevance layer; historical records retained"
+    },
+    {
+      "id": "APP-F",
+      "version": "1.1",
+      "title": "Construction-era packing lists",
+      "pages": 5,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-F-v1.1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-F-v1.1.pdf",
+      "pdf_sha256": "2d4bd148435c292c06af0bef4e5fa59447ff28312bf9f60b4785877ed3d5a0c4",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009-L1"
+      ],
+      "change": "S30 integration, pinned qualifications and Maryland relevance layer; historical records retained"
+    },
+    {
+      "id": "APP-G",
+      "version": "1.1",
+      "title": "Exam review",
+      "pages": 16,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-G-v1.1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-G-v1.1.pdf",
+      "pdf_sha256": "c1682ee35b602e8720bed402322ac315c2b93a1174eab894f4986debfecf6693",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009-L1"
+      ],
+      "change": "S30 integration, pinned qualifications and Maryland relevance layer; historical records retained"
+    },
+    {
+      "id": "APP-H",
+      "version": "1.1",
+      "title": "Codes, Standards, and General Practice Timeline",
+      "pages": 6,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-H-v1.1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-H-v1.1.pdf",
+      "pdf_sha256": "9537981eeb90f34178ee07393032bceeeb4330606f23584774b5d76881ea6315",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009-L1"
+      ],
+      "change": "S30 integration, pinned qualifications and Maryland relevance layer; historical records retained",
+      "presentation_revision": "S32-C1-2026-09-21"
+    },
+    {
+      "id": "APP-A",
+      "version": "1.7-C1",
+      "title": "Field tools",
+      "pages": 2,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-A-v1.7-C1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-A-v1.7-C1.pdf",
+      "pdf_sha256": "3ff4daf4aaad2e22df40ad38e749f26ef109177a238dbb2e1566fd00c50f80a6",
+      "based_on_version": "1.7",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009"
+      ],
+      "change": "S31 reviewed integration; earlier versions retained",
+      "presentation_revision": "S32-C1-2026-09-21"
+    },
+    {
+      "id": "APP-B",
+      "version": "1.6-C1",
+      "title": "Reference and record tools",
+      "pages": 1,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-B-v1.6-C1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-B-v1.6-C1.pdf",
+      "pdf_sha256": "464fc5dad0cd99552f49b51aa7475c0de8e5ce836c23401292ffa2be30d5d3bf",
+      "based_on_version": "1.6",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009"
+      ],
+      "change": "S31 reviewed integration; earlier versions retained",
+      "presentation_revision": "S32-C1-2026-09-21"
+    },
+    {
+      "id": "APP-C",
+      "version": "1.8-C1",
+      "title": "Report mentions — selection prompts",
+      "pages": 2,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-C-v1.8-C1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-C-v1.8-C1.pdf",
+      "pdf_sha256": "282056b2ac6194779a6a684384490b345695ad8147c83f8d2e23fd0748665217",
+      "based_on_version": "1.8",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009"
+      ],
+      "change": "S31 reviewed integration; earlier versions retained",
+      "presentation_revision": "S32-C1-2026-09-21"
+    },
+    {
+      "id": "APP-D",
+      "version": "1.2-C1",
+      "title": "Selected terms and notes",
+      "pages": 3,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-D-v1.2-C1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-D-v1.2-C1.pdf",
+      "pdf_sha256": "8cd0f6113b0fcd7dd212c67dead05cf02e7299b388d4cb16e2af52e77ccdcc89",
+      "based_on_version": "1.2",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009"
+      ],
+      "change": "S31 reviewed integration; earlier versions retained",
+      "presentation_revision": "S32-C1-2026-09-21"
+    },
+    {
+      "id": "APP-E",
+      "version": "1.2-C1",
+      "title": "Sources — finding the evidence",
+      "pages": 1,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-E-v1.2-C1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-E-v1.2-C1.pdf",
+      "pdf_sha256": "1bd505e02b242b09cc4e857fe0ac7c8d67f39deca885060462f46c710f2ca9ab",
+      "based_on_version": "1.2",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009"
+      ],
+      "change": "S31 reviewed integration; earlier versions retained"
+    },
+    {
+      "id": "APP-F",
+      "version": "1.2-C1",
+      "title": "Construction-era packing cards",
+      "pages": 4,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-F-v1.2-C1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-F-v1.2-C1.pdf",
+      "pdf_sha256": "6c7939dafaa1626e759f6ac8c913538a7141e6221694c734c207deea3b2d8bd1",
+      "based_on_version": "1.2",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009"
+      ],
+      "change": "S31 reviewed integration; earlier versions retained",
+      "presentation_revision": "S32-C1-2026-09-21"
+    },
+    {
+      "id": "APP-G",
+      "version": "1.2-C1",
+      "title": "Selected exam and lesson corrections",
+      "pages": 1,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-G-v1.2-C1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-G-v1.2-C1.pdf",
+      "pdf_sha256": "a493d8676dfb720e7272dadee0770bf9011a1f48f4b8b415cd58abd004df3cb3",
+      "based_on_version": "1.2",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009"
+      ],
+      "change": "S31 reviewed integration; earlier versions retained",
+      "presentation_revision": "S32-C1-2026-09-21"
+    },
+    {
+      "id": "APP-A",
+      "version": "1.7",
+      "title": "Field tools",
+      "pages": 5,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-A-v1.7.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-A-v1.7.pdf",
+      "pdf_sha256": "c04840af527039417ce1ae659c26ad0e5004ffa759ac35e59662510659a82f85",
+      "entries": 26,
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009-L1"
+      ],
+      "change": "S31 reviewed integration; earlier versions retained",
+      "presentation_revision": "S32-C1-2026-09-21"
+    },
+    {
+      "id": "APP-B",
+      "version": "1.6",
+      "title": "Reference and record tools",
+      "pages": 3,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-B-v1.6.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-B-v1.6.pdf",
+      "pdf_sha256": "6ee299d4c5e798d2e1e274b3b6005263a153c26f6b99e88e5800f63ad29bc85b",
+      "entries": 13,
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009-L1"
+      ],
+      "change": "S31 reviewed integration; earlier versions retained",
+      "presentation_revision": "S32-C1-2026-09-21"
+    },
+    {
+      "id": "APP-C",
+      "version": "1.8",
+      "title": "Report mentions log",
+      "pages": 14,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-C-v1.8.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-C-v1.8.pdf",
+      "pdf_sha256": "02ba329b1c8616b1e665c6cebb9619de7bd08f1aaea1105c02ce9dc1168f0ffd",
+      "entries": 137,
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009-L1"
+      ],
+      "change": "S31 reviewed integration; earlier versions retained",
+      "presentation_revision": "S32-C1-2026-09-21"
+    },
+    {
+      "id": "APP-D",
+      "version": "1.2",
+      "title": "Terms, notes and numerical references",
+      "pages": 17,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-D-v1.2.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-D-v1.2.pdf",
+      "pdf_sha256": "c068d8ffea1fe3d96f6fdf146ab277ace38a57e1329a5191d37eabf8e7892ecc",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009-L1"
+      ],
+      "change": "S31 reviewed integration; earlier versions retained",
+      "presentation_revision": "S32-C1-2026-09-21"
+    },
+    {
+      "id": "APP-E",
+      "version": "1.2",
+      "title": "Sources and evidence register",
+      "pages": 4,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-E-v1.2.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-E-v1.2.pdf",
+      "pdf_sha256": "a72cca4b312c83a53fb81bfecb9793b53d78352841b2ef6c861a32e36dcab138",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009-L1"
+      ],
+      "change": "S31 reviewed integration; earlier versions retained"
+    },
+    {
+      "id": "APP-F",
+      "version": "1.2",
+      "title": "Construction-era packing lists",
+      "pages": 4,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-F-v1.2.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-F-v1.2.pdf",
+      "pdf_sha256": "cf8427a39e1c8396e972dbf52bc19b79e460ba8c6400bd55bf8e8533f4e0fbbc",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009-L1"
+      ],
+      "change": "S31 reviewed integration; earlier versions retained",
+      "presentation_revision": "S32-C1-2026-09-21"
+    },
+    {
+      "id": "APP-G",
+      "version": "1.2",
+      "title": "Exam review",
+      "pages": 16,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-G-v1.2.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-G-v1.2.pdf",
+      "pdf_sha256": "ae77b0150d3ba5bda9c29aa029e4dbc489189b04dd086f20e63a873dd33c49b6",
+      "date": "2026-09-20",
+      "issued_with": [
+        "SG-009-L1"
+      ],
+      "change": "S31 reviewed integration; earlier versions retained",
+      "presentation_revision": "S32-C1-2026-09-21"
+    },
+    {
+      "id": "APP-E",
+      "version": "1.3-C1",
+      "title": "Sources — finding the evidence",
+      "pages": 1,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-E-v1.3-C1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/Compact/APP-E-v1.3-C1.pdf",
+      "pdf_sha256": "3176b83980ec9aa987f5e5ce9db735af656a80b2ee713809cabe181665c510e7",
+      "based_on_version": "1.3",
+      "date": "2026-09-21",
+      "issued_with": [
+        "SG-009"
+      ],
+      "change": "S32 flagged source image; all previous sources retained",
+      "presentation_revision": "S32-C1-2026-09-21"
+    },
+    {
+      "id": "APP-E",
+      "version": "1.3",
+      "title": "Sources and evidence register",
+      "pages": 4,
+      "path": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-E-v1.3.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-009/Appendices/APP-E-v1.3.pdf",
+      "pdf_sha256": "1a999e24f7d1e7783a530c7c1dbcb125ed0704bd05e696c2ac35d3e811aff1e5",
+      "date": "2026-09-21",
+      "issued_with": [
+        "SG-009-L1"
+      ],
+      "change": "S32 flagged source image; all previous sources retained",
+      "presentation_revision": "S32-C1-2026-09-21"
+    },
+    {
+      "id": "APP-A",
+      "version": "1.8-C1",
+      "title": "Field tools",
+      "pages": 2,
+      "pdf_sha256": "3354c3bebf6c261263e85002b4c1309fe2c6cb6338894a50eb28ca56a5a65111",
+      "presentation_revision": "SG-010-P1-2026-09-22",
+      "date": "2026-09-21",
+      "issued_with": [
+        "SG-010"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/Compact/APP-A-v1.8-C1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/Compact/APP-A-v1.8-C1.pdf",
+      "change": "SG-010 cumulative update for S33-S39; earlier versions retained",
+      "based_on_version": "1.8"
+    },
+    {
+      "id": "APP-B",
+      "version": "1.7-C1",
+      "title": "Reference and record tools",
+      "pages": 1,
+      "pdf_sha256": "913119850c7e564debcce25f7576efa5771afb8e3c33a352ffa35f3e62226c2b",
+      "presentation_revision": "SG-010-P1-2026-09-22",
+      "date": "2026-09-21",
+      "issued_with": [
+        "SG-010"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/Compact/APP-B-v1.7-C1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/Compact/APP-B-v1.7-C1.pdf",
+      "change": "SG-010 cumulative update for S33-S39; earlier versions retained",
+      "based_on_version": "1.7"
+    },
+    {
+      "id": "APP-C",
+      "version": "1.9-C1",
+      "title": "Report mentions — selection prompts",
+      "pages": 2,
+      "pdf_sha256": "66b1485151a1b063ba777efd3137e16c03dbeed871c7402272a6f609b7850167",
+      "presentation_revision": "SG-010-P1-2026-09-22",
+      "date": "2026-09-21",
+      "issued_with": [
+        "SG-010"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/Compact/APP-C-v1.9-C1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/Compact/APP-C-v1.9-C1.pdf",
+      "change": "SG-010 cumulative update for S33-S39; earlier versions retained",
+      "based_on_version": "1.9"
+    },
+    {
+      "id": "APP-D",
+      "version": "1.3-C1",
+      "title": "Selected terms and notes",
+      "pages": 3,
+      "pdf_sha256": "122793ce79c45bea3d0ccefdc9331b3cd6499eb55f29c4614d62768a13250770",
+      "presentation_revision": "SG-010-P1-2026-09-22",
+      "date": "2026-09-21",
+      "issued_with": [
+        "SG-010"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/Compact/APP-D-v1.3-C1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/Compact/APP-D-v1.3-C1.pdf",
+      "change": "SG-010 cumulative update for S33-S39; earlier versions retained",
+      "based_on_version": "1.3"
+    },
+    {
+      "id": "APP-E",
+      "version": "1.4-C1",
+      "title": "Sources — finding the evidence",
+      "pages": 1,
+      "pdf_sha256": "d480ba241c81ef86036f498da09d305f8ce3cdbce3ccdfe13825fe7dad698929",
+      "presentation_revision": "SG-010-P1-2026-09-22",
+      "date": "2026-09-21",
+      "issued_with": [
+        "SG-010"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/Compact/APP-E-v1.4-C1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/Compact/APP-E-v1.4-C1.pdf",
+      "change": "SG-010 cumulative update for S33-S39; earlier versions retained",
+      "based_on_version": "1.4"
+    },
+    {
+      "id": "APP-F",
+      "version": "1.3-C1",
+      "title": "Construction-era packing cards",
+      "pages": 4,
+      "pdf_sha256": "32f81a9b2ae626f4c7fe87b387e0f6f00224e881870893d573d3c7800da7bf6f",
+      "presentation_revision": "SG-010-P1-2026-09-22",
+      "date": "2026-09-21",
+      "issued_with": [
+        "SG-010"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/Compact/APP-F-v1.3-C1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/Compact/APP-F-v1.3-C1.pdf",
+      "change": "SG-010 cumulative update for S33-S39; earlier versions retained",
+      "based_on_version": "1.3"
+    },
+    {
+      "id": "APP-G",
+      "version": "1.3-C1",
+      "title": "Selected exam and lesson corrections",
+      "pages": 1,
+      "pdf_sha256": "ea71d180ac157852359bea90230a7c9f284e330a1b088192364bd33efa6ebedb",
+      "presentation_revision": "SG-010-P1-2026-09-22",
+      "date": "2026-09-21",
+      "issued_with": [
+        "SG-010"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/Compact/APP-G-v1.3-C1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/Compact/APP-G-v1.3-C1.pdf",
+      "change": "SG-010 cumulative update for S33-S39; earlier versions retained",
+      "based_on_version": "1.3"
+    },
+    {
+      "id": "APP-H",
+      "version": "1.2-C1",
+      "title": "Codes, standards and practice — selected timeline",
+      "pages": 4,
+      "pdf_sha256": "c7388f33ddedabfdd3f654109a1ffd3178a733fcd947825bca31c0a1744f8d1f",
+      "presentation_revision": "SG-010-P1-2026-09-22",
+      "date": "2026-09-21",
+      "issued_with": [
+        "SG-010"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/Compact/APP-H-v1.2-C1.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/Compact/APP-H-v1.2-C1.pdf",
+      "change": "SG-010 cumulative update for S33-S39; earlier versions retained",
+      "based_on_version": "1.2"
+    },
+    {
+      "id": "APP-A",
+      "version": "1.8",
+      "title": "Field tools",
+      "pages": 5,
+      "pdf_sha256": "2823c6b8b9fdbcf12bf950f536a497741e7cc75b8812f44de7abe114b5ed20e8",
+      "presentation_revision": "SG-010-P1-2026-09-22",
+      "date": "2026-09-21",
+      "issued_with": [
+        "SG-010-L1"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/APP-A-v1.8.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/APP-A-v1.8.pdf",
+      "change": "SG-010 cumulative update for S33-S39; earlier versions retained"
+    },
+    {
+      "id": "APP-B",
+      "version": "1.7",
+      "title": "Reference and record tools",
+      "pages": 8,
+      "pdf_sha256": "e08a8c00ef1f286b00aa129160f63564205cf674177438483aec6bbff973871d",
+      "presentation_revision": "SG-010-P1-2026-09-22",
+      "date": "2026-09-21",
+      "issued_with": [
+        "SG-010-L1"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/APP-B-v1.7.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/APP-B-v1.7.pdf",
+      "change": "SG-010 cumulative update for S33-S39; earlier versions retained"
+    },
+    {
+      "id": "APP-C",
+      "version": "1.9",
+      "title": "Report mentions log",
+      "pages": 15,
+      "pdf_sha256": "db5e38abc65337dccf57b7b49c33279de5f0496e16612587607dd3039084c197",
+      "presentation_revision": "SG-010-P1-2026-09-22",
+      "date": "2026-09-21",
+      "issued_with": [
+        "SG-010-L1"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/APP-C-v1.9.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/APP-C-v1.9.pdf",
+      "change": "SG-010 cumulative update for S33-S39; earlier versions retained"
+    },
+    {
+      "id": "APP-D",
+      "version": "1.3",
+      "title": "Terms, notes and numerical references",
+      "pages": 20,
+      "pdf_sha256": "f37ade2f2f3a0ecbdbbdaf21e37d40f091bbc68bb61c4d5d69d2bae98b7a8f4e",
+      "presentation_revision": "SG-010-P1-2026-09-22",
+      "date": "2026-09-21",
+      "issued_with": [
+        "SG-010-L1"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/APP-D-v1.3.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/APP-D-v1.3.pdf",
+      "change": "SG-010 cumulative update for S33-S39; earlier versions retained"
+    },
+    {
+      "id": "APP-E",
+      "version": "1.4",
+      "title": "Sources and evidence register",
+      "pages": 6,
+      "pdf_sha256": "9e24b53fa6d2d70cb84e02ad667f7b8f5f93c506d19fd4002c3105d58bc5bc6c",
+      "presentation_revision": "SG-010-P1-2026-09-22",
+      "date": "2026-09-21",
+      "issued_with": [
+        "SG-010-L1"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/APP-E-v1.4.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/APP-E-v1.4.pdf",
+      "change": "SG-010 cumulative update for S33-S39; earlier versions retained"
+    },
+    {
+      "id": "APP-F",
+      "version": "1.3",
+      "title": "Construction-era packing lists",
+      "pages": 5,
+      "pdf_sha256": "525c1ad4e52d6166d12324597a856c41428de1e77c751f1afafb6ba418b12493",
+      "presentation_revision": "SG-010-P1-2026-09-22",
+      "date": "2026-09-21",
+      "issued_with": [
+        "SG-010-L1"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/APP-F-v1.3.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/APP-F-v1.3.pdf",
+      "change": "SG-010 cumulative update for S33-S39; earlier versions retained"
+    },
+    {
+      "id": "APP-G",
+      "version": "1.3",
+      "title": "Exam review",
+      "pages": 19,
+      "pdf_sha256": "181fd37a32a2d9f439ab0e803f211c69cdd0a94c762bc598b4a13bb93ed6a27a",
+      "presentation_revision": "SG-010-P1-2026-09-22",
+      "date": "2026-09-21",
+      "issued_with": [
+        "SG-010-L1"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/APP-G-v1.3.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/APP-G-v1.3.pdf",
+      "change": "SG-010 cumulative update for S33-S39; earlier versions retained"
+    },
+    {
+      "id": "APP-H",
+      "version": "1.2",
+      "title": "Codes, Standards, and General Practice Timeline",
+      "pages": 8,
+      "pdf_sha256": "1c32e52570f798ca72edfca5289ab26014ad1ed5f04d2681635ad9b288812607",
+      "presentation_revision": "SG-010-P1-2026-09-22",
+      "date": "2026-09-21",
+      "issued_with": [
+        "SG-010-L1"
+      ],
+      "path": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/APP-H-v1.2.html",
+      "pdf": "Home Inspection Training/Study Guide Editions/SG-010/Appendices/APP-H-v1.2.pdf",
+      "change": "SG-010 cumulative update for S33-S39; earlier versions retained"
+    }
+  ],
+  "long_cut_current": {
+    "APP-A": "1.8",
+    "APP-B": "1.7",
+    "APP-C": "1.9",
+    "APP-D": "1.3",
+    "APP-E": "1.4",
+    "APP-F": "1.3",
+    "APP-G": "1.3",
+    "APP-H": "1.2"
+  },
+  "current_long_cut": {
+    "APP-A": "1.8",
+    "APP-B": "1.7",
+    "APP-C": "1.9",
+    "APP-D": "1.3",
+    "APP-E": "1.4",
+    "APP-F": "1.3",
+    "APP-G": "1.3",
+    "APP-H": "1.2"
+  },
+  "presentation_revisions": [
+    {
+      "issue": "S32-N1-2026-09-21",
+      "parent_issue": "S32-2026-09-21",
+      "appendix": "APP-D",
+      "version": "1.2",
+      "scope": "Navigation annotations only; definitions, numbered notes and all 17 printed page streams unchanged.",
+      "previous_pdf_sha256": "31bc72913f7caa374c632d2e7d99c3597ab016e235678c727763de363204b7b4",
+      "pdf_sha256": "8eeb75b9c70b6ddfe1857da9cd446a0482e0d63991d3836cb9465caadc3b09ac",
+      "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\Study Guide Editions\\SG-009 Issues\\S32-2026-09-21\\Long Appendices\\APP-D-v1.2.pdf"
+    },
+    {
+      "issue": "S32-C1-2026-09-21",
+      "parent_issue": "S32-N2-2026-09-21",
+      "scope": "All 16 current appendix PDFs: colour and reference/qualification pattern layer; source text, content versions and page maps unchanged.",
+      "files": [
+        {
+          "appendix": "APP-A",
+          "cut": "compact",
+          "version": "1.7-C1",
+          "pdf_sha256": "3ff4daf4aaad2e22df40ad38e749f26ef109177a238dbb2e1566fd00c50f80a6",
+          "previous_pdf_sha256": "ddf59304235d8c85cd75db7bef884897351977e7f22dad640662a31176f5304b",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\Study Guide Editions\\SG-009 Issues\\S32-N2-2026-09-21\\Compact Appendices\\APP-A-v1.7-C1.pdf"
+        },
+        {
+          "appendix": "APP-B",
+          "cut": "compact",
+          "version": "1.6-C1",
+          "pdf_sha256": "464fc5dad0cd99552f49b51aa7475c0de8e5ce836c23401292ffa2be30d5d3bf",
+          "previous_pdf_sha256": "f1139abdc0218fcb2050b43b3dcae7c12a8bf41da24cc7fb5dbd092e1619dba8",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\Study Guide Editions\\SG-009 Issues\\S32-N2-2026-09-21\\Compact Appendices\\APP-B-v1.6-C1.pdf"
+        },
+        {
+          "appendix": "APP-C",
+          "cut": "compact",
+          "version": "1.8-C1",
+          "pdf_sha256": "282056b2ac6194779a6a684384490b345695ad8147c83f8d2e23fd0748665217",
+          "previous_pdf_sha256": "bbe435212b88dfee01c30395eebc1ad53062179f5f8a5dc91f5de58fe6ab123c",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\Study Guide Editions\\SG-009 Issues\\S32-N2-2026-09-21\\Compact Appendices\\APP-C-v1.8-C1.pdf"
+        },
+        {
+          "appendix": "APP-D",
+          "cut": "compact",
+          "version": "1.2-C1",
+          "pdf_sha256": "8cd0f6113b0fcd7dd212c67dead05cf02e7299b388d4cb16e2af52e77ccdcc89",
+          "previous_pdf_sha256": "12c5fbd1929716fdfbe668e5289e021727011bf50739be5c80b8bf6d25100728",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\Study Guide Editions\\SG-009 Issues\\S32-N2-2026-09-21\\Compact Appendices\\APP-D-v1.2-C1.pdf"
+        },
+        {
+          "appendix": "APP-E",
+          "cut": "compact",
+          "version": "1.3-C1",
+          "pdf_sha256": "3176b83980ec9aa987f5e5ce9db735af656a80b2ee713809cabe181665c510e7",
+          "previous_pdf_sha256": "c0f7fe7caddcecc1295ffb2fb5eb9ebf40e148c64f0dc9f35035707ad9689a82",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\Study Guide Editions\\SG-009 Issues\\S32-N2-2026-09-21\\Compact Appendices\\APP-E-v1.3-C1.pdf"
+        },
+        {
+          "appendix": "APP-F",
+          "cut": "compact",
+          "version": "1.2-C1",
+          "pdf_sha256": "6c7939dafaa1626e759f6ac8c913538a7141e6221694c734c207deea3b2d8bd1",
+          "previous_pdf_sha256": "985b60c7d24aecb001cc338cd553a6a5a1ad1d8c3b45a9158604f94b33b1e1f0",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\Study Guide Editions\\SG-009 Issues\\S32-N2-2026-09-21\\Compact Appendices\\APP-F-v1.2-C1.pdf"
+        },
+        {
+          "appendix": "APP-G",
+          "cut": "compact",
+          "version": "1.2-C1",
+          "pdf_sha256": "a493d8676dfb720e7272dadee0770bf9011a1f48f4b8b415cd58abd004df3cb3",
+          "previous_pdf_sha256": "c122d3736a4e13a5e267fdb3c9d11dec7c1e6cbd5a8084ecf59674bcf7b62d21",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\Study Guide Editions\\SG-009 Issues\\S32-N2-2026-09-21\\Compact Appendices\\APP-G-v1.2-C1.pdf"
+        },
+        {
+          "appendix": "APP-H",
+          "cut": "compact",
+          "version": "1.1-C1",
+          "pdf_sha256": "182caff102729302facc068be36c583bf320c8d4cc3339a26ffb73d347c2c507",
+          "previous_pdf_sha256": "a825b2e66ce5fe59fdb68c6bfeda4e6a703d48fae154f44216e7d428bee21c23",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\Study Guide Editions\\SG-009 Issues\\S32-N2-2026-09-21\\Compact Appendices\\APP-H-v1.1-C1.pdf"
+        },
+        {
+          "appendix": "APP-A",
+          "cut": "long",
+          "version": "1.7",
+          "pdf_sha256": "c04840af527039417ce1ae659c26ad0e5004ffa759ac35e59662510659a82f85",
+          "previous_pdf_sha256": "7cb6253f8cb512a638b62c8c7efe7edeffbe4bb33c0df8002d704301d4537b72",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\Study Guide Editions\\SG-009 Issues\\S32-N2-2026-09-21\\Long Appendices\\APP-A-v1.7.pdf"
+        },
+        {
+          "appendix": "APP-B",
+          "cut": "long",
+          "version": "1.6",
+          "pdf_sha256": "6ee299d4c5e798d2e1e274b3b6005263a153c26f6b99e88e5800f63ad29bc85b",
+          "previous_pdf_sha256": "d67278963e9be570cf84050c0b583a6b83f66bc9501eec3515166a0c16ba61c9",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\Study Guide Editions\\SG-009 Issues\\S32-N2-2026-09-21\\Long Appendices\\APP-B-v1.6.pdf"
+        },
+        {
+          "appendix": "APP-C",
+          "cut": "long",
+          "version": "1.8",
+          "pdf_sha256": "02ba329b1c8616b1e665c6cebb9619de7bd08f1aaea1105c02ce9dc1168f0ffd",
+          "previous_pdf_sha256": "429b4bab9a505740cb2ff3824cff397faa0afad250161bf1cc370630a376ffc8",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\Study Guide Editions\\SG-009 Issues\\S32-N2-2026-09-21\\Long Appendices\\APP-C-v1.8.pdf"
+        },
+        {
+          "appendix": "APP-D",
+          "cut": "long",
+          "version": "1.2",
+          "pdf_sha256": "c068d8ffea1fe3d96f6fdf146ab277ace38a57e1329a5191d37eabf8e7892ecc",
+          "previous_pdf_sha256": "8eeb75b9c70b6ddfe1857da9cd446a0482e0d63991d3836cb9465caadc3b09ac",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\Study Guide Editions\\SG-009 Issues\\S32-N2-2026-09-21\\Long Appendices\\APP-D-v1.2.pdf"
+        },
+        {
+          "appendix": "APP-E",
+          "cut": "long",
+          "version": "1.3",
+          "pdf_sha256": "1a999e24f7d1e7783a530c7c1dbcb125ed0704bd05e696c2ac35d3e811aff1e5",
+          "previous_pdf_sha256": "db71659d35f32f176b52eb0b042d35c10a0f4343ce87c1f49255c131b247e68b",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\Study Guide Editions\\SG-009 Issues\\S32-N2-2026-09-21\\Long Appendices\\APP-E-v1.3.pdf"
+        },
+        {
+          "appendix": "APP-F",
+          "cut": "long",
+          "version": "1.2",
+          "pdf_sha256": "cf8427a39e1c8396e972dbf52bc19b79e460ba8c6400bd55bf8e8533f4e0fbbc",
+          "previous_pdf_sha256": "69b8110e2e6a5aa49031a9b8dc4a8dc916a094e212c64bae8b80e52055c4fbe3",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\Study Guide Editions\\SG-009 Issues\\S32-N2-2026-09-21\\Long Appendices\\APP-F-v1.2.pdf"
+        },
+        {
+          "appendix": "APP-G",
+          "cut": "long",
+          "version": "1.2",
+          "pdf_sha256": "ae77b0150d3ba5bda9c29aa029e4dbc489189b04dd086f20e63a873dd33c49b6",
+          "previous_pdf_sha256": "720e80cc1a9f13fa264e130cdd16b974836dedaaae919801366328b33fb3632d",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\Study Guide Editions\\SG-009 Issues\\S32-N2-2026-09-21\\Long Appendices\\APP-G-v1.2.pdf"
+        },
+        {
+          "appendix": "APP-H",
+          "cut": "long",
+          "version": "1.1",
+          "pdf_sha256": "9537981eeb90f34178ee07393032bceeeb4330606f23584774b5d76881ea6315",
+          "previous_pdf_sha256": "3e9c11191f8b5f5208630e9a747361d5e6d1578438d0091a65dbc45ae7d53b2e",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\Study Guide Editions\\SG-009 Issues\\S32-N2-2026-09-21\\Long Appendices\\APP-H-v1.1.pdf"
+        }
+      ]
+    },
+    {
+      "issue": "SG-010-2026-09-21",
+      "parent_issue": "S32-C1-2026-09-21",
+      "scope": "All 16 appendix PDFs re-issued at new content versions (A1.8 B1.7 C1.9 D1.3 E1.4 F1.3 G1.3 H1.2) with the shared colour/pattern layer; previous versions remain in Study Guide Editions/SG-009.",
+      "files": [
+        {
+          "appendix": "APP-A",
+          "cut": "compact",
+          "version": "1.8-C1",
+          "pdf_sha256": "91aed5ec0ede524d5e47c2461ab4656ce499f373cab10b4694841f3dfdfa77d3",
+          "previous_version": "1.7-C1",
+          "previous_pdf_sha256": "3ff4daf4aaad2e22df40ad38e749f26ef109177a238dbb2e1566fd00c50f80a6",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\CURRENT EDITION\\Compact Appendices\\APP-A-v1.7-C1.pdf"
+        },
+        {
+          "appendix": "APP-B",
+          "cut": "compact",
+          "version": "1.7-C1",
+          "pdf_sha256": "df3e64d1301cb1049fbf0584a29dde179e0fc92ce430ad66b8df62a21b413613",
+          "previous_version": "1.6-C1",
+          "previous_pdf_sha256": "464fc5dad0cd99552f49b51aa7475c0de8e5ce836c23401292ffa2be30d5d3bf",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\CURRENT EDITION\\Compact Appendices\\APP-B-v1.6-C1.pdf"
+        },
+        {
+          "appendix": "APP-C",
+          "cut": "compact",
+          "version": "1.9-C1",
+          "pdf_sha256": "8e86a6ad1288a7fcc9a28e382699f12c8414b25ba2c02c062c158f5589d78285",
+          "previous_version": "1.8-C1",
+          "previous_pdf_sha256": "282056b2ac6194779a6a684384490b345695ad8147c83f8d2e23fd0748665217",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\CURRENT EDITION\\Compact Appendices\\APP-C-v1.8-C1.pdf"
+        },
+        {
+          "appendix": "APP-D",
+          "cut": "compact",
+          "version": "1.3-C1",
+          "pdf_sha256": "f97b98f2b233d0112e40b705b83e377b7ef502c724a352fe97536b22b903cc37",
+          "previous_version": "1.2-C1",
+          "previous_pdf_sha256": "8cd0f6113b0fcd7dd212c67dead05cf02e7299b388d4cb16e2af52e77ccdcc89",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\CURRENT EDITION\\Compact Appendices\\APP-D-v1.2-C1.pdf"
+        },
+        {
+          "appendix": "APP-E",
+          "cut": "compact",
+          "version": "1.4-C1",
+          "pdf_sha256": "2db767a2ead202b810c1a0fc4acd071bf00f307fd1cad431d137ea41e53cebdf",
+          "previous_version": "1.3-C1",
+          "previous_pdf_sha256": "3176b83980ec9aa987f5e5ce9db735af656a80b2ee713809cabe181665c510e7",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\CURRENT EDITION\\Compact Appendices\\APP-E-v1.3-C1.pdf"
+        },
+        {
+          "appendix": "APP-F",
+          "cut": "compact",
+          "version": "1.3-C1",
+          "pdf_sha256": "6d1c7a4a177c469badd757f7e499646c7011f18d4af752c5ed38a71a1c2c27c2",
+          "previous_version": "1.2-C1",
+          "previous_pdf_sha256": "6c7939dafaa1626e759f6ac8c913538a7141e6221694c734c207deea3b2d8bd1",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\CURRENT EDITION\\Compact Appendices\\APP-F-v1.2-C1.pdf"
+        },
+        {
+          "appendix": "APP-G",
+          "cut": "compact",
+          "version": "1.3-C1",
+          "pdf_sha256": "a3b068b60dea9599703faee1560772f5da06901dcff95f632d9ff4523a710f34",
+          "previous_version": "1.2-C1",
+          "previous_pdf_sha256": "a493d8676dfb720e7272dadee0770bf9011a1f48f4b8b415cd58abd004df3cb3",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\CURRENT EDITION\\Compact Appendices\\APP-G-v1.2-C1.pdf"
+        },
+        {
+          "appendix": "APP-H",
+          "cut": "compact",
+          "version": "1.2-C1",
+          "pdf_sha256": "7c175fa9604743f8aa4ee98b8672feee1be4f6c67ca7174ee1e9de85b04f51ef",
+          "previous_version": "1.1-C1",
+          "previous_pdf_sha256": "182caff102729302facc068be36c583bf320c8d4cc3339a26ffb73d347c2c507",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\CURRENT EDITION\\Compact Appendices\\APP-H-v1.1-C1.pdf"
+        },
+        {
+          "appendix": "APP-A",
+          "cut": "long",
+          "version": "1.8",
+          "pdf_sha256": "f9cd52729ac08a9bf6c92f2d768a2d2bfbd99a354655d5cfee77edad99c14cc0",
+          "previous_version": "1.7",
+          "previous_pdf_sha256": "c04840af527039417ce1ae659c26ad0e5004ffa759ac35e59662510659a82f85",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\CURRENT EDITION\\Long Appendices\\APP-A-v1.7.pdf"
+        },
+        {
+          "appendix": "APP-B",
+          "cut": "long",
+          "version": "1.7",
+          "pdf_sha256": "f7e411e1a1b3b3e302bfd73c01d27863db0a72d99af7045c116ccb39dae47053",
+          "previous_version": "1.6",
+          "previous_pdf_sha256": "6ee299d4c5e798d2e1e274b3b6005263a153c26f6b99e88e5800f63ad29bc85b",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\CURRENT EDITION\\Long Appendices\\APP-B-v1.6.pdf"
+        },
+        {
+          "appendix": "APP-C",
+          "cut": "long",
+          "version": "1.9",
+          "pdf_sha256": "86d3cbb6452369ccb39cbe2e325f364e38fbd8abc409b115560058092849be56",
+          "previous_version": "1.8",
+          "previous_pdf_sha256": "02ba329b1c8616b1e665c6cebb9619de7bd08f1aaea1105c02ce9dc1168f0ffd",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\CURRENT EDITION\\Long Appendices\\APP-C-v1.8.pdf"
+        },
+        {
+          "appendix": "APP-D",
+          "cut": "long",
+          "version": "1.3",
+          "pdf_sha256": "450dfb6d238a6f2aadbec6d830ac13730fdc9c36532ebf19470ffe7484e9aa46",
+          "previous_version": "1.2",
+          "previous_pdf_sha256": "c068d8ffea1fe3d96f6fdf146ab277ace38a57e1329a5191d37eabf8e7892ecc",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\CURRENT EDITION\\Long Appendices\\APP-D-v1.2.pdf"
+        },
+        {
+          "appendix": "APP-E",
+          "cut": "long",
+          "version": "1.4",
+          "pdf_sha256": "2d80d0ff1ca141e639c32aaf3a440cff3cecc52ab8ada194492a904f321f8124",
+          "previous_version": "1.3",
+          "previous_pdf_sha256": "1a999e24f7d1e7783a530c7c1dbcb125ed0704bd05e696c2ac35d3e811aff1e5",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\CURRENT EDITION\\Long Appendices\\APP-E-v1.3.pdf"
+        },
+        {
+          "appendix": "APP-F",
+          "cut": "long",
+          "version": "1.3",
+          "pdf_sha256": "79b3371776a89f934b6f4f55ce02b6b9a23aa3ba91a178545093fcf93ed15b90",
+          "previous_version": "1.2",
+          "previous_pdf_sha256": "cf8427a39e1c8396e972dbf52bc19b79e460ba8c6400bd55bf8e8533f4e0fbbc",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\CURRENT EDITION\\Long Appendices\\APP-F-v1.2.pdf"
+        },
+        {
+          "appendix": "APP-G",
+          "cut": "long",
+          "version": "1.3",
+          "pdf_sha256": "71e260dae750cbea73de7f958b344d968193c0e0bc7db086189be692cee3f241",
+          "previous_version": "1.2",
+          "previous_pdf_sha256": "ae77b0150d3ba5bda9c29aa029e4dbc489189b04dd086f20e63a873dd33c49b6",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\CURRENT EDITION\\Long Appendices\\APP-G-v1.2.pdf"
+        },
+        {
+          "appendix": "APP-H",
+          "cut": "long",
+          "version": "1.2",
+          "pdf_sha256": "2a228716039243dba41466eb4d600b3f16b71d1b08f87b7cad066790ba536137",
+          "previous_version": "1.1",
+          "previous_pdf_sha256": "9537981eeb90f34178ee07393032bceeeb4330606f23584774b5d76881ea6315",
+          "previous_copy": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\CURRENT EDITION\\Long Appendices\\APP-H-v1.1.pdf"
+        }
+      ]
+    },
+    {
+      "issue": "SG-010-P1-2026-09-22",
+      "parent_issue": "SG-010-2026-09-21",
+      "scope": "Presentation revision P1 of the cumulative SG-010 edition (through S39): area band tones re-tuned so all eight house areas separate in grayscale (hue kept, card header ink unchanged); appendix pagination control (no orphan rows or empty source lines); continuation-page area tabs; gutter-first Maryland crabs in appendices; larger near-square compact figure. Content, page maps and card bindings unchanged.",
+      "files": [
+        {
+          "appendix": "APP-A",
+          "cut": "compact",
+          "version": "1.8-C1",
+          "pdf_sha256": "3354c3bebf6c261263e85002b4c1309fe2c6cb6338894a50eb28ca56a5a65111",
+          "previous_version": "1.8-C1",
+          "previous_pdf_sha256": "91aed5ec0ede524d5e47c2461ab4656ce499f373cab10b4694841f3dfdfa77d3",
+          "previous_copy": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Issues\\SG-010-2026-09-21\\Compact Appendices\\APP-A-v1.8-C1.pdf"
+        },
+        {
+          "appendix": "APP-B",
+          "cut": "compact",
+          "version": "1.7-C1",
+          "pdf_sha256": "913119850c7e564debcce25f7576efa5771afb8e3c33a352ffa35f3e62226c2b",
+          "previous_version": "1.7-C1",
+          "previous_pdf_sha256": "df3e64d1301cb1049fbf0584a29dde179e0fc92ce430ad66b8df62a21b413613",
+          "previous_copy": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Issues\\SG-010-2026-09-21\\Compact Appendices\\APP-B-v1.7-C1.pdf"
+        },
+        {
+          "appendix": "APP-C",
+          "cut": "compact",
+          "version": "1.9-C1",
+          "pdf_sha256": "66b1485151a1b063ba777efd3137e16c03dbeed871c7402272a6f609b7850167",
+          "previous_version": "1.9-C1",
+          "previous_pdf_sha256": "8e86a6ad1288a7fcc9a28e382699f12c8414b25ba2c02c062c158f5589d78285",
+          "previous_copy": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Issues\\SG-010-2026-09-21\\Compact Appendices\\APP-C-v1.9-C1.pdf"
+        },
+        {
+          "appendix": "APP-D",
+          "cut": "compact",
+          "version": "1.3-C1",
+          "pdf_sha256": "122793ce79c45bea3d0ccefdc9331b3cd6499eb55f29c4614d62768a13250770",
+          "previous_version": "1.3-C1",
+          "previous_pdf_sha256": "f97b98f2b233d0112e40b705b83e377b7ef502c724a352fe97536b22b903cc37",
+          "previous_copy": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Issues\\SG-010-2026-09-21\\Compact Appendices\\APP-D-v1.3-C1.pdf"
+        },
+        {
+          "appendix": "APP-E",
+          "cut": "compact",
+          "version": "1.4-C1",
+          "pdf_sha256": "d480ba241c81ef86036f498da09d305f8ce3cdbce3ccdfe13825fe7dad698929",
+          "previous_version": "1.4-C1",
+          "previous_pdf_sha256": "2db767a2ead202b810c1a0fc4acd071bf00f307fd1cad431d137ea41e53cebdf",
+          "previous_copy": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Issues\\SG-010-2026-09-21\\Compact Appendices\\APP-E-v1.4-C1.pdf"
+        },
+        {
+          "appendix": "APP-F",
+          "cut": "compact",
+          "version": "1.3-C1",
+          "pdf_sha256": "32f81a9b2ae626f4c7fe87b387e0f6f00224e881870893d573d3c7800da7bf6f",
+          "previous_version": "1.3-C1",
+          "previous_pdf_sha256": "6d1c7a4a177c469badd757f7e499646c7011f18d4af752c5ed38a71a1c2c27c2",
+          "previous_copy": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Issues\\SG-010-2026-09-21\\Compact Appendices\\APP-F-v1.3-C1.pdf"
+        },
+        {
+          "appendix": "APP-G",
+          "cut": "compact",
+          "version": "1.3-C1",
+          "pdf_sha256": "ea71d180ac157852359bea90230a7c9f284e330a1b088192364bd33efa6ebedb",
+          "previous_version": "1.3-C1",
+          "previous_pdf_sha256": "a3b068b60dea9599703faee1560772f5da06901dcff95f632d9ff4523a710f34",
+          "previous_copy": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Issues\\SG-010-2026-09-21\\Compact Appendices\\APP-G-v1.3-C1.pdf"
+        },
+        {
+          "appendix": "APP-H",
+          "cut": "compact",
+          "version": "1.2-C1",
+          "pdf_sha256": "c7388f33ddedabfdd3f654109a1ffd3178a733fcd947825bca31c0a1744f8d1f",
+          "previous_version": "1.2-C1",
+          "previous_pdf_sha256": "7c175fa9604743f8aa4ee98b8672feee1be4f6c67ca7174ee1e9de85b04f51ef",
+          "previous_copy": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Issues\\SG-010-2026-09-21\\Compact Appendices\\APP-H-v1.2-C1.pdf"
+        },
+        {
+          "appendix": "APP-A",
+          "cut": "long",
+          "version": "1.8",
+          "pdf_sha256": "2823c6b8b9fdbcf12bf950f536a497741e7cc75b8812f44de7abe114b5ed20e8",
+          "previous_version": "1.8",
+          "previous_pdf_sha256": "f9cd52729ac08a9bf6c92f2d768a2d2bfbd99a354655d5cfee77edad99c14cc0",
+          "previous_copy": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Issues\\SG-010-2026-09-21\\Long Appendices\\APP-A-v1.8.pdf"
+        },
+        {
+          "appendix": "APP-B",
+          "cut": "long",
+          "version": "1.7",
+          "pdf_sha256": "e08a8c00ef1f286b00aa129160f63564205cf674177438483aec6bbff973871d",
+          "previous_version": "1.7",
+          "previous_pdf_sha256": "f7e411e1a1b3b3e302bfd73c01d27863db0a72d99af7045c116ccb39dae47053",
+          "previous_copy": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Issues\\SG-010-2026-09-21\\Long Appendices\\APP-B-v1.7.pdf"
+        },
+        {
+          "appendix": "APP-C",
+          "cut": "long",
+          "version": "1.9",
+          "pdf_sha256": "db5e38abc65337dccf57b7b49c33279de5f0496e16612587607dd3039084c197",
+          "previous_version": "1.9",
+          "previous_pdf_sha256": "86d3cbb6452369ccb39cbe2e325f364e38fbd8abc409b115560058092849be56",
+          "previous_copy": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Issues\\SG-010-2026-09-21\\Long Appendices\\APP-C-v1.9.pdf"
+        },
+        {
+          "appendix": "APP-D",
+          "cut": "long",
+          "version": "1.3",
+          "pdf_sha256": "f37ade2f2f3a0ecbdbbdaf21e37d40f091bbc68bb61c4d5d69d2bae98b7a8f4e",
+          "previous_version": "1.3",
+          "previous_pdf_sha256": "450dfb6d238a6f2aadbec6d830ac13730fdc9c36532ebf19470ffe7484e9aa46",
+          "previous_copy": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Issues\\SG-010-2026-09-21\\Long Appendices\\APP-D-v1.3.pdf"
+        },
+        {
+          "appendix": "APP-E",
+          "cut": "long",
+          "version": "1.4",
+          "pdf_sha256": "9e24b53fa6d2d70cb84e02ad667f7b8f5f93c506d19fd4002c3105d58bc5bc6c",
+          "previous_version": "1.4",
+          "previous_pdf_sha256": "2d80d0ff1ca141e639c32aaf3a440cff3cecc52ab8ada194492a904f321f8124",
+          "previous_copy": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Issues\\SG-010-2026-09-21\\Long Appendices\\APP-E-v1.4.pdf"
+        },
+        {
+          "appendix": "APP-F",
+          "cut": "long",
+          "version": "1.3",
+          "pdf_sha256": "525c1ad4e52d6166d12324597a856c41428de1e77c751f1afafb6ba418b12493",
+          "previous_version": "1.3",
+          "previous_pdf_sha256": "79b3371776a89f934b6f4f55ce02b6b9a23aa3ba91a178545093fcf93ed15b90",
+          "previous_copy": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Issues\\SG-010-2026-09-21\\Long Appendices\\APP-F-v1.3.pdf"
+        },
+        {
+          "appendix": "APP-G",
+          "cut": "long",
+          "version": "1.3",
+          "pdf_sha256": "181fd37a32a2d9f439ab0e803f211c69cdd0a94c762bc598b4a13bb93ed6a27a",
+          "previous_version": "1.3",
+          "previous_pdf_sha256": "71e260dae750cbea73de7f958b344d968193c0e0bc7db086189be692cee3f241",
+          "previous_copy": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Issues\\SG-010-2026-09-21\\Long Appendices\\APP-G-v1.3.pdf"
+        },
+        {
+          "appendix": "APP-H",
+          "cut": "long",
+          "version": "1.2",
+          "pdf_sha256": "1c32e52570f798ca72edfca5289ab26014ad1ed5f04d2681635ad9b288812607",
+          "previous_version": "1.2",
+          "previous_pdf_sha256": "2a228716039243dba41466eb4d600b3f16b71d1b08f87b7cad066790ba536137",
+          "previous_copy": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Issues\\SG-010-2026-09-21\\Long Appendices\\APP-H-v1.2.pdf"
+        }
+      ]
+    }
+  ]
+}

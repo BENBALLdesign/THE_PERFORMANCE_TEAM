@@ -1,0 +1,50 @@
+# Deliberate code-only boundary (THE SEED pattern). Installation records, published reading material,
+# evidence and media stay out of git; only the listed folders and root files are tracked.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/SEPARATION.md
+!/requirements.txt
+!/pyproject.toml
+!/installation.example.json
+!/tools/
+!/production/
+!/builder/
+!/tests/
+!/assets/
+!/registries/
+!/skills/
+!/docs/
+# The local installation record is never published.
+/installation.json
+skills/**/local-settings.json
+skills/**/tests/tmp/
+# Generated or private files are excluded even below a tracked folder.
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+.env
+.env.*
+*.pem
+*.key
+*.sqlite*
+*.db
+*.log
+*.tmp
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.tiff
+*.tif
+*.ico
+*.mp4
+*.wav
+*.m4a
+*.npy
+*.npz
+*.lnk
+*.zip

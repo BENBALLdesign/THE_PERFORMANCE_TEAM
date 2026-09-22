@@ -1,0 +1,200 @@
+{
+  "$schema": "https://design-tokens.github.io/community-group/format/",
+  "$description": "BBDF spacing constants. Sources: BBDF_DESIGN_SYSTEM.md (canonical copy lives at BB_DOCS/__ROBOT__WORK__/BBDF_DESIGN_SYSTEM.md, NOT in this directory -- this folder holds the assets, that file holds the rules) §2.2 (text spacing), §4 (template-shape page geometry), §5 (primitive padding). Units are points (pt) — canonical for PDF. US Letter = 612pt × 792pt.",
+  "page": {
+    "size": {
+      "us-letter": {
+        "$value": {
+          "width": "612pt",
+          "height": "792pt"
+        },
+        "$type": "size",
+        "$description": "US Letter, 8.5\" × 11\". 1in = 72pt."
+      }
+    },
+    "margin": {
+      "top": {
+        "$value": "54pt",
+        "$type": "dimension",
+        "$description": "0.75 inch."
+      },
+      "bottom": {
+        "$value": "36pt",
+        "$type": "dimension",
+        "$description": "0.5 inch."
+      },
+      "left": {
+        "$value": "54pt",
+        "$type": "dimension",
+        "$description": "0.75 inch."
+      },
+      "right": {
+        "$value": "54pt",
+        "$type": "dimension",
+        "$description": "0.75 inch."
+      }
+    }
+  },
+  "band": {
+    "header-height": {
+      "$value": "84pt",
+      "$type": "dimension",
+      "$description": "Top edge to bottom of name stack."
+    },
+    "header-rule": {
+      "$value": "2.5pt",
+      "$type": "dimension",
+      "$description": "Crimson-accent rule at bottom of header band, full-width."
+    },
+    "footer-height": {
+      "$value": "24pt",
+      "$type": "dimension",
+      "$description": "Bottom-anchored footer band."
+    }
+  },
+  "text": {
+    "paragraph-after": {
+      "$value": "4pt",
+      "$type": "dimension",
+      "$description": "Space after each paragraph."
+    },
+    "list-item-gap": {
+      "$value": "2pt",
+      "$type": "dimension",
+      "$description": "Space between list items."
+    },
+    "section-above": {
+      "$value": "12pt",
+      "$type": "dimension",
+      "$description": "Space above a section title (H1)."
+    },
+    "section-below": {
+      "$value": "6pt",
+      "$type": "dimension",
+      "$description": "Space below the H1 crimson rule, before body."
+    },
+    "subsection-above": {
+      "$value": "8pt",
+      "$type": "dimension",
+      "$description": "Space above a subsection (H2)."
+    },
+    "subsection-below": {
+      "$value": "4pt",
+      "$type": "dimension",
+      "$description": "Space below H2."
+    }
+  },
+  "list": {
+    "bullet-indent": {
+      "$value": "18pt",
+      "$type": "dimension",
+      "$description": "Indent for bullet (`*`) lists."
+    },
+    "nested-bullet-indent": {
+      "$value": "22pt",
+      "$type": "dimension",
+      "$description": "Indent for nested bullet lists."
+    },
+    "marker-gap": {
+      "$value": "12pt",
+      "$type": "dimension",
+      "$description": "Gap between marker and list text."
+    }
+  },
+  "table": {
+    "header-padding-y": {
+      "$value": "6pt",
+      "$type": "dimension"
+    },
+    "body-padding-y": {
+      "$value": "4pt",
+      "$type": "dimension"
+    },
+    "grid-line": {
+      "$value": "0.5pt",
+      "$type": "dimension",
+      "$description": "rule-gray, 0.5pt."
+    }
+  },
+  "rule": {
+    "h1-thickness": {
+      "$value": "1pt",
+      "$type": "dimension",
+      "$description": "Crimson rule under H1, full content-width."
+    }
+  },
+  "logo": {
+    "header-width": {
+      "$value": "60pt",
+      "$type": "dimension",
+      "$description": "_LOGO_W constant — fixed width for header logo placement. Aspect ratio preserved. NEVER resize manually within a generator."
+    },
+    "cover-multiplier": {
+      "$value": 2,
+      "$type": "number",
+      "$description": "INDEXED cover-page only: logo renders at 2× standard width, centered horizontally, upper-third of page."
+    },
+    "cover-title-gap": {
+      "$value": "24pt",
+      "$type": "dimension",
+      "$description": "Gap between cover logo and document title."
+    }
+  },
+  "indexed": {
+    "$description": "INDEXED template-shape (§4.3) metrics. New in Round 3 for the A2 Weekly Investor Update INDEXED variant.",
+    "section-indent": {
+      "h1": {
+        "$value": "0pt",
+        "$type": "dimension",
+        "$description": "Top-level section number `1.` sits flush at content-left; body wraps under nothing. Hanging-indent metric is the width reserved for the number itself before the title baseline begins."
+      },
+      "h2": {
+        "$value": "20pt",
+        "$type": "dimension",
+        "$description": "Second-level number `1.1` reserved width. Body / sub-titles below this section indent by 20pt so wrapped lines hang under the title eye-line, not under the number."
+      },
+      "h3": {
+        "$value": "32pt",
+        "$type": "dimension",
+        "$description": "Third-level number `1.1.1` reserved width. 32pt = 20pt H2 indent + extra room for the additional digit + dot."
+      }
+    },
+    "section-hang": {
+      "h1": {
+        "$value": "20pt",
+        "$type": "dimension",
+        "$description": "Reserved width for the section-number prefix at H1 depth (`1.`, `2.`). Title text begins at this offset; wrapped title lines hang back to it."
+      },
+      "h2": {
+        "$value": "28pt",
+        "$type": "dimension",
+        "$description": "Reserved width for the section-number prefix at H2 depth (`1.1`). Wider than H1 to accommodate the extra digit + dot."
+      },
+      "h3": {
+        "$value": "36pt",
+        "$type": "dimension",
+        "$description": "Reserved width for the section-number prefix at H3 depth (`1.1.1`)."
+      }
+    },
+    "toc-leader-min-gap": {
+      "$value": "6pt",
+      "$type": "dimension",
+      "$description": "Minimum horizontal gap between TOC entry title and the start of the dot leader (and again between leader end and page number). Prevents the leader touching either side of its column at any title length."
+    },
+    "cover-logo-top": {
+      "$value": "150pt",
+      "$type": "dimension",
+      "$description": "Distance from cover-page top edge to top of the 2x logo. Anchors the logo in the upper-third of US-Letter (792pt tall): 150pt / 792pt = ~19% from top."
+    },
+    "cover-title-block-gap": {
+      "$value": "36pt",
+      "$type": "dimension",
+      "$description": "Gap below cover-art zone before reporting-period + report-ID metadata block."
+    },
+    "cover-art-max-height": {
+      "$value": "260pt",
+      "$type": "dimension",
+      "$description": "Max height for cover-art zone (BENBALL_card_face.png or analogous M1/M2 reserve image). Keeps the cover from becoming image-dominated; matches §5.9 anti-pattern (single-image-fills-page)."
+    }
+  }
+}

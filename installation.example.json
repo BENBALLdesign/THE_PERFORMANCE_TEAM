@@ -1,0 +1,7 @@
+{
+  "schema": "performance-team-installation/1",
+  "note": "Copy to installation.json (ignored by git) and fill in this machine's locations. installation_root is the Dropbox folder that holds the published reading material; it is never a code location.",
+  "installation_root": "C:/Users/<you>/Dropbox/THE PERFORMANCE TEAM",
+  "seed_bank": "F:/SEED BANK",
+  "pymupdf_path": null
+}

@@ -1,0 +1,74 @@
+{
+  "edition": "SG-010",
+  "status": "staged; publication verification pending",
+  "parent": "S32-C1-2026-09-21",
+  "new_topics": [
+    "professional_scope",
+    "special_service_boundaries",
+    "report_workflow",
+    "insulation_materials",
+    "air_vapor_thermal",
+    "ventilation_exhaust",
+    "hydronic_systems",
+    "steam_systems",
+    "electric_heat_delivery",
+    "cooling_water_air",
+    "floor_finishes",
+    "safety_glazing",
+    "egress_openings",
+    "interior_doors",
+    "interior_stairs",
+    "fireplace_masonry",
+    "fireplace_factory_gas",
+    "kitchen_appliances",
+    "kitchen_waste",
+    "bath_laundry",
+    "interior_life_safety"
+  ],
+  "versions": {
+    "APP-A": "1.8",
+    "APP-B": "1.7",
+    "APP-C": "1.9",
+    "APP-D": "1.3",
+    "APP-E": "1.4",
+    "APP-F": "1.3",
+    "APP-G": "1.3",
+    "APP-H": "1.2"
+  },
+  "compact_charts": 28,
+  "L1_topics": 139,
+  "glossary_terms": 107,
+  "source_count": 39,
+  "reviewed_S33_corrections": [
+    [
+      "Maximum-load cooking test",
+      "Use ordinary controls and model instructions; no intentional overload challenge or blanket watts/volts breaker selection.",
+      "S33 00:41:08-00:44:20 / 01:14:30-01:16:10"
+    ],
+    [
+      "Dishwasher factory loop",
+      "Verify accessible arrangement and product documentation; a hidden loop is not assumed or universally equivalent to an air gap.",
+      "S33 00:35:44-00:37:21 / 01:32:38-01:34:26"
+    ],
+    [
+      "Braided washer hoses",
+      "Braiding does not mean burst-proof or lifetime service. Record visible deterioration and follow product replacement instructions.",
+      "S33 00:38:05-00:39:30"
+    ],
+    [
+      "Alarm mounting / bonding",
+      "Use actual instructions for alarms; an unseen bond end remains unverified. Do not adopt blanket one-foot spacing or assume bond continuity.",
+      "S33 02:30:05-02:35:55"
+    ],
+    [
+      "Appliance / fixture shortcuts",
+      "No hot-water finger test, frozen-food performance proof, assumed ice production or claim that a dry short test proves no leak.",
+      "S33 kitchen and bath demonstrations"
+    ],
+    [
+      "Dryer fuel distinction",
+      "Lint/fire concerns apply to both fuels. CO is not a normal product of electric resistance drying.",
+      "S33 02:37:06-02:37:55"
+    ]
+  ]
+}

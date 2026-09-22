@@ -1,0 +1,6 @@
+{
+  "profile": "auto",
+  "tool_dirs": ["tools"],
+  "model_dirs": ["models"],
+  "memory_reserve_gb": 1.5
+}

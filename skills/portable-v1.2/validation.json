@@ -1,0 +1,60 @@
+{
+  "unit_tests": 8,
+  "unit_tests_passed": true,
+  "smoke": {
+    "passed": true,
+    "checks": [
+      "runtime discovery from a different working directory",
+      "synthetic silent video export",
+      "same-settings resume"
+    ],
+    "runtime": {
+      "schema": 1,
+      "helper_version": "1.0.0",
+      "profile": "low-memory",
+      "requested_profile": "low-memory",
+      "memory": {
+        "total_gb": 7.744911193847656,
+        "available_gb": 0.8435859680175781,
+        "method": "GlobalMemoryStatusEx"
+      },
+      "memory_reserve_gb": 1.5,
+      "tools": {
+        "ffmpeg": "C:\\Users\\datab\\Documents\\Codex\\2026-09-16\\i-have-been-working-on-compiling\\work\\tools\\ffmpeg\\ffmpeg-9.0.1-essentials_build\\bin\\ffmpeg.exe",
+        "ffprobe": "C:\\Users\\datab\\Documents\\Codex\\2026-09-16\\i-have-been-working-on-compiling\\work\\tools\\ffmpeg\\ffmpeg-9.0.1-essentials_build\\bin\\ffprobe.exe",
+        "tesseract": "C:\\Users\\datab\\Documents\\Codex\\2026-09-16\\i-have-been-working-on-compiling\\work\\tools\\tesseract\\tesseract.exe"
+      },
+      "model": null,
+      "model_reason": "No suitable cached checkpoint found within the memory estimate. Supply --model/--model-dir, free memory, or explicitly adjust the reserve. No download was attempted.",
+      "model_search_dirs": [
+        "C:\\Users\\datab\\Documents\\Codex\\2026-09-16\\i-have-been-working-on-compiling\\work\\tools",
+        "C:\\Users\\datab\\Documents\\Codex\\2026-09-16\\i-have-been-working-on-compiling\\work\\portable-skills\\models",
+        "C:\\Users\\datab\\Documents\\Codex\\2026-09-16\\i-have-been-working-on-compiling\\work\\portable-skills\\tools",
+        "C:\\Users\\datab\\Documents\\Codex\\2026-09-16\\i-have-been-working-on-compiling\\work\\portable-skills\\tools",
+        "C:\\Users\\datab\\.cache\\whisper"
+      ],
+      "python": "C:\\Users\\datab\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+      "python_packages": null,
+      "audio_jobs": 1,
+      "ocr_workers": 2,
+      "speech_threads": 2,
+      "downloads": false,
+      "dependencies": {
+        "PIL": true,
+        "numpy": true,
+        "torch": false,
+        "whisper": false
+      }
+    }
+  },
+  "audio_state": {
+    "passed": true,
+    "checks": [
+      "partial output remains running",
+      "completion only after all chunks",
+      "STOP remains stopped without completed_at"
+    ],
+    "inference": "mocked; real FFmpeg audio measurement/chunk extraction"
+  },
+  "notes": "Speech inference mocked only in state-transition test; current class processing uses real local Whisper. No cross-platform execution claimed; path resolution tested from a different Windows working directory."
+}

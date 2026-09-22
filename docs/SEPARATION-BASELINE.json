@@ -1,0 +1,55 @@
+{
+ "schema": "performance-team-separation-baseline-summary/1",
+ "recorded_at": "2026-09-22T04:54:02+00:00",
+ "root": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM",
+ "files": 54577,
+ "bytes": 7059001813,
+ "errors": 0,
+ "hash_seconds": 506.8,
+ "full_record": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\_META\\20260922-separation\\baseline.json",
+ "full_record_sha256": "88b8bbd1350426295957920769a559ff0db7363b563c479dd727bed4c372e128",
+ "full_record_bytes": 14646839,
+ "purpose": "Step 1 of the separation: every file under the installation hashed before any move. The full per-file list is bank-only (bulk); this summary is tracked.",
+ "top_level": {
+  "ADMINISTRATION": {
+   "files": 154,
+   "bytes": 10945554
+  },
+  "APPENDIX-VERSIONS.json": {
+   "files": 1,
+   "bytes": 72944
+  },
+  "CODE CARRY": {
+   "files": 10,
+   "bytes": 68406
+  },
+  "Home Inspection Training": {
+   "files": 54216,
+   "bytes": 7023746786
+  },
+  "Property Reviews": {
+   "files": 117,
+   "bytes": 23076881
+  },
+  "STUDY-GUIDE-EDITIONS.json": {
+   "files": 1,
+   "bytes": 35066
+  },
+  "Sound Recordings": {
+   "files": 75,
+   "bytes": 1027984
+  },
+  "TRAINING-DOCUMENT-MAP.html": {
+   "files": 1,
+   "bytes": 12646
+  },
+  "TRAINING-DOCUMENT-MAP.md": {
+   "files": 1,
+   "bytes": 9175
+  },
+  "__SORT__": {
+   "files": 1,
+   "bytes": 6371
+  }
+ }
+}

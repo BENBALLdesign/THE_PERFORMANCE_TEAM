@@ -1,0 +1,48 @@
+{
+  "id": "S33",
+  "name": "Recording 2026-09-21 020522.mp4",
+  "source_path": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\Recording 2026-09-21 020522.mp4",
+  "source_sha256": "a21571269462345055a7168382083b49db6912875ea8486fb4e93acf89dec059",
+  "recording_id": "Ra21571269462",
+  "size": 4554762142,
+  "mtime_ns": 1789970689000000000,
+  "duration_seconds": 9483.029313,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1020,
+        "height": 852
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ],
+    "format": {
+      "duration": "9483.029313",
+      "size": "4554762142"
+    }
+  },
+  "date": "2026-09-21",
+  "checked_at": "2026-09-21T10:18:45.823393+00:00",
+  "status": "extraction verified; content review and incorporation pending",
+  "published": false,
+  "prior_source_count": 32,
+  "audio_evidence": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\recording-20260921-020522\\work\\Audio",
+  "machine_evidence_cache": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\recording-20260921-020522\\work\\Visual",
+  "legacy_locations": {
+    "audio_evidence": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\recording-20260921-020522\\work\\Audio",
+    "machine_evidence_cache": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\recording-20260921-020522\\work\\Visual"
+  },
+  "storage_relocation": {
+    "migration": "20260921-backup-routing",
+    "at": "2026-09-21T11:56:42.083976+00:00",
+    "vault_id": "435ce95c-afa2-475a-b8d8-afc8db7656fe",
+    "manifest": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\_META\\20260921-backup-routing\\relocation-plan.json",
+    "source_bytes_unchanged": true
+  }
+}

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 289 655"
+   preserveAspectRatio="xMidYMid meet"
+   shape-rendering="geometricPrecision"
+   version="1.1"
+   id="svg9"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <title id="title1">BENBALL A logo — scalable fixed-shape linework</title>
+  <desc id="desc1">Stroke linework converted to filled vector geometry at the original 289 x 655 viewBox resolution, so line weight scales proportionally with the artwork.</desc>
+  <!-- All visible linework below is filled outline geometry; no live strokes are used. -->
+  <!-- Outer red frame with equal blue boundaries -->
+  <g
+     id="path5">
+    <path
+       style="fill:#8b1a1a;fill-rule:evenodd"
+       d="M 4,4 H 285 V 651 H 4 Z M 18,18 V 637 H 271 V 18 Z"
+       id="path17" />
+    <path
+       style="fill:#1a1a5e;fill-rule:evenodd"
+       d="m 1.5,1.5 v 652 h 286 V 1.5 Z m 5,5 h 276 v 642 H 6.5 Z m 9,9 v 624 h 258 v -624 z m 5,5 h 248 v 614 h -248 z"
+       id="path18" />
+  </g>
+  <!-- Top left B and lower left B: identical repeated form -->
+  <g
+     id="use5"
+     transform="translate(-2,34)">
+    <!-- continuous square-ended vertical spine -->
+    <path
+       style="fill:#1a1a5e"
+       d="m 40.5,0 v 257 h 5 V 0 Z"
+       id="path9" />
+    <!-- top bowl, closed back to spine with squared corners -->
+    <path
+       style="fill:#1a1a5e"
+       d="m 40.5,-2.5 v 195 H 63 c 5.333333,0 10.436122,-2.65097 14.767578,-6.98242 4.325754,-4.32576 7.972159,-10.37363 10.574219,-17.64844 0.0037,-0.009 0.008,-0.0183 0.01172,-0.0273 C 95.542993,150.31118 97.5,128.11597 97.5,107 97.5,87.912281 96.511717,61.828603 92.455078,40.53125 l -0.0098,-0.05664 -0.01367,-0.05859 C 89.401042,27.788522 85.879197,17.345842 81.255859,9.8164063 76.632522,2.2869709 70.525641,-2.5 63,-2.5 Z m 5,5 H 63 c 5.474359,0 9.867478,3.2130291 13.994141,9.933594 4.12109,6.71149 7.593782,16.755915 10.560546,29.105468 C 91.487508,62.23063 92.5,88.108068 92.5,107 c 0,20.84127 -2.037796,42.59597 -8.8125,59.04883 l -0.02148,0.0547 -0.01953,0.0547 c -2.397272,6.71237 -5.745518,12.15568 -9.414062,15.82422 C 70.563878,185.65097 66.666667,187.5 63,187.5 H 45.5 Z"
+       id="path10"
+       transform="scale(1,0.598)" />
+    <!-- lower bowl, identical curve logic, closed back to spine -->
+    <path
+       style="fill:#1a1a5e"
+       d="m 40.5,188.5 v 244 H 63 c 7.269231,0 13.829184,-3.47598 18.822266,-9.68359 4.993082,-6.20762 8.585438,-15.0871 10.636718,-26.36914 C 96.534116,374.03404 97.5,337.06173 97.5,310 c 0,-25 0.05489,-57.97166 -4.048828,-78.49023 C 90.914714,218.82748 87.378809,208.33448 82.613281,200.78906 77.847753,193.24364 71.525641,188.5 64,188.5 Z m 5,5 H 64 c 5.474359,0 10.152247,3.25636 14.386719,9.96094 4.234472,6.70458 7.698567,16.71158 10.162109,29.02929 C 92.445113,251.97166 92.5,285 92.5,310 c 0,26.93827 -1.034116,63.96596 -4.958984,85.55273 -1.94872,10.71796 -5.356364,18.83848 -9.613282,24.13086 C 73.670816,424.97598 68.730769,427.5 63,427.5 H 45.5 Z"
+       id="path11"
+       transform="scale(1,0.598)" />
+  </g>
+  <g
+     id="use6"
+     transform="translate(-2,360)">
+    <!-- continuous square-ended vertical spine -->
+    <path
+       style="fill:#1a1a5e"
+       d="m 40.5,0 v 257 h 5 V 0 Z"
+       id="path12" />
+    <!-- top bowl, closed back to spine with squared corners -->
+    <path
+       style="fill:#1a1a5e"
+       d="m 40.5,-2.5 v 195 H 63 c 5.333333,0 10.436122,-2.65097 14.767578,-6.98242 4.325754,-4.32576 7.972159,-10.37363 10.574219,-17.64844 0.0037,-0.009 0.008,-0.0183 0.01172,-0.0273 C 95.542993,150.31118 97.5,128.11597 97.5,107 97.5,87.912281 96.511717,61.828603 92.455078,40.53125 l -0.0098,-0.05664 -0.01367,-0.05859 C 89.401042,27.788522 85.879197,17.345842 81.255859,9.8164063 76.632522,2.2869709 70.525641,-2.5 63,-2.5 Z m 5,5 H 63 c 5.474359,0 9.867478,3.2130291 13.994141,9.933594 4.12109,6.71149 7.593782,16.755915 10.560546,29.105468 C 91.487508,62.23063 92.5,88.108068 92.5,107 c 0,20.84127 -2.037796,42.59597 -8.8125,59.04883 l -0.02148,0.0547 -0.01953,0.0547 c -2.397272,6.71237 -5.745518,12.15568 -9.414062,15.82422 C 70.563878,185.65097 66.666667,187.5 63,187.5 H 45.5 Z"
+       id="path13"
+       transform="scale(1,0.598)" />
+    <!-- lower bowl, identical curve logic, closed back to spine -->
+    <path
+       style="fill:#1a1a5e"
+       d="m 40.5,188.5 v 244 H 63 c 7.269231,0 13.829184,-3.47598 18.822266,-9.68359 4.993082,-6.20762 8.585438,-15.0871 10.636718,-26.36914 C 96.534116,374.03404 97.5,337.06173 97.5,310 c 0,-25 0.05489,-57.97166 -4.048828,-78.49023 C 90.914714,218.82748 87.378809,208.33448 82.613281,200.78906 77.847753,193.24364 71.525641,188.5 64,188.5 Z m 5,5 H 64 c 5.474359,0 10.152247,3.25636 14.386719,9.96094 4.234472,6.70458 7.698567,16.71158 10.162109,29.02929 C 92.445113,251.97166 92.5,285 92.5,310 c 0,26.93827 -1.034116,63.96596 -4.958984,85.55273 -1.94872,10.71796 -5.356364,18.83848 -9.613282,24.13086 C 73.670816,424.97598 68.730769,427.5 63,427.5 H 45.5 Z"
+       id="path14"
+       transform="scale(1,0.598)" />
+  </g>
+  <!-- Backwards-E structure shifted slightly right to preserve original-like gutter.
+       Separate square/mitered subpaths keep all corners matching the bowl and L shapes. -->
+  <path
+     style="fill:#1a1a5e"
+     d="m 103,32.5 v 5 h 51.5 v 124 H 103 v 5 h 51.5 v 123 H 103 v 5 h 56.5 v -262 z"
+     id="path6" />
+  <!-- Red vertical bar fully bounded by equal blue border -->
+  <g
+     id="rect6">
+    <path
+       style="fill:#8b1a1a"
+       d="m 136,35 h 20 v 257 h -20 z"
+       id="path19" />
+    <path
+       style="fill:#1a1a5e"
+       d="m 133.5,32.5 v 262 h 25 v -262 z m 5,5 h 15 v 252 h -15 z"
+       id="path20" />
+  </g>
+  <!-- Top right N: line vector with squared open ends and matching mitered corners -->
+  <path
+     style="fill:#1a1a5e"
+     d="M 183.42773,34.404297 178.5,35 v 257 h 5 V 55.697266 L 241.57227,292.5957 246.5,292 V 35 h -5 v 236.30273 z"
+     id="path7" />
+  <!-- Center red dot fully bounded -->
+  <g
+     id="circle7">
+    <path
+       style="fill:#8b1a1a"
+       d="m 163,327 a 18,18 0 0 1 -18,18 18,18 0 0 1 -18,-18 18,18 0 0 1 18,-18 18,18 0 0 1 18,18 z"
+       id="path21" />
+    <path
+       style="fill:#1a1a5e"
+       d="m 145,306.5 c -11.29223,0 -20.5,9.20777 -20.5,20.5 0,11.29223 9.20777,20.5 20.5,20.5 11.29223,0 20.5,-9.20777 20.5,-20.5 0,-11.29223 -9.20777,-20.5 -20.5,-20.5 z m 0,5 c 8.59003,0 15.5,6.90997 15.5,15.5 0,8.59003 -6.90997,15.5 -15.5,15.5 -8.59003,0 -15.5,-6.90997 -15.5,-15.5 0,-8.59003 6.90997,-15.5 15.5,-15.5 z"
+       id="path22" />
+  </g>
+  <!-- Lower A form: red triangle fully bounded -->
+  <g
+     id="path8">
+    <path
+       style="fill:#8b1a1a"
+       d="m 145,361 -28,257 h 56 z"
+       id="path23" />
+    <path
+       style="fill:#1a1a5e"
+       d="M 142.51562,360.72852 114.21289,620.5 h 61.57422 L 147.48437,360.72852 Z M 145,384.07422 170.21289,615.5 h -50.42578 z"
+       id="path24" />
+  </g>
+  <!-- Lower-right L shapes: identical repeated form with squared open ends -->
+  <g
+     id="use8"
+     transform="translate(194,361)">
+    <path
+       style="fill:#1a1a5e"
+       d="M -2.5,0 V 259.5 H 24 v -5 H 2.5 V 0 Z"
+       id="path15" />
+  </g>
+  <g
+     id="use9"
+     transform="translate(235,361)">
+    <path
+       style="fill:#1a1a5e"
+       d="M -2.5,0 V 259.5 H 24 v -5 H 2.5 V 0 Z"
+       id="path16" />
+  </g>
+</svg>

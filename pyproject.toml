@@ -1,0 +1,9 @@
+[project]
+name = "the-performance-team"
+version = "0.1.0"
+description = "THE PERFORMANCE TEAM: home-inspection study-guide production, library and recording-archive tools."
+requires-python = ">=3.12"
+
+[tool.pytest.ini_options]
+testpaths = ["tests", "skills/portable-v1.2/tests"]
+addopts = "-p no:cacheprovider"

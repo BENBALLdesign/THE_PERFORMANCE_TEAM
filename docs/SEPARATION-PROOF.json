@@ -1,0 +1,101 @@
+{
+ "schema": "performance-team-separation-proof/1",
+ "started_at": "2026-09-22T04:56:46+00:00",
+ "checkout": "C:\\Users\\benja\\Dropbox\\THE_PERFORMANCE_TEAM",
+ "installation": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM",
+ "work": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921",
+ "python": "3.12.14",
+ "steps": [
+  {
+   "step": "shelf_sg010.main",
+   "result": {
+    "returned": "None",
+    "stage_files": 83,
+    "unchanged": 82,
+    "changed": [
+     "Home Inspection Training/CURRENT EDITION/_Maintenance/manifest.json"
+    ],
+    "new": []
+   },
+   "status": "ok",
+   "seconds": 14.2
+  },
+  {
+   "step": "library_sg010.main",
+   "result": {
+    "staged_package": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\library\\SG-010-P1-2026-09-22",
+    "published_package": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\Library\\SG-010-P1-2026-09-22",
+    "staged_files": 19,
+    "published_files": 22,
+    "identical_to_published": [
+     "files.jsonl",
+     "owners/Home Inspection Training/Study Guide Editions/SG-009/study-guide.json",
+     "owners/Home Inspection Training/Study Guide Editions/SG-010/Appendices/APP-D-v1.3.json",
+     "owners/Home Inspection Training/Study Guide Editions/SG-010/Appendices/Quick Charts - 64 Cards/cards.json",
+     "owners/Home Inspection Training/Study Guide Editions/SG-010/Appendices/Quick Charts - 64 Cards/concordance.json",
+     "owners/Home Inspection Training/Study Guide Editions/SG-010/navigation.json",
+     "owners/Home Inspection Training/Study Guide Editions/SG-010/study-guide.json",
+     "owners/Home Inspection Training/Study Guide Editions/SG-010/visual-language.json",
+     "owners/Property Reviews/505 Walker Ave/concordance.json",
+     "owners/Property Reviews/505 Walker Ave/manifest.json",
+     "owners/Property Reviews/505 Walker Ave/property-evidence.json",
+     "owners/Property Reviews/505 Walker Ave/visual-evidence-manifest.json",
+     "records.jsonl",
+     "relations.jsonl",
+     "seed-arrangement-candidate.json",
+     "seed-terms-candidate.json"
+    ],
+    "differ_from_published": [
+     "manifest.json",
+     "owners/Home Inspection Training/CURRENT EDITION/_Maintenance/issue.json",
+     "owners/Home Inspection Training/CURRENT EDITION/_Maintenance/manifest.json"
+    ],
+    "only_staged": [],
+    "only_published": [
+     "README.md",
+     "home_inspection_library.py",
+     "validation.json"
+    ],
+    "unchanged_since_before": 16,
+    "report": {
+     "status": "current",
+     "issue": "SG-010-P1-2026-09-22",
+     "changed": []
+    }
+   },
+   "status": "ok",
+   "seconds": 2.7
+  },
+  {
+   "step": "qa_sg010.main (QA -> qa-separation-proof)",
+   "result": {
+    "folder": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\qa-separation-proof",
+    "sheets": 97,
+    "prior_sheets": 97,
+    "same_index_entries": 97,
+    "qa_final_untouched": true
+   },
+   "status": "ok",
+   "seconds": 27.4
+  }
+ ],
+ "finished_at": "2026-09-22T04:57:36+00:00",
+ "comparison": {
+  "at": "2026-09-22T05:01:02+00:00",
+  "shelf": "staged manifest: all 49 file rows (sha256, pages) and the Start Here directory hash equal the published CURRENT EDITION manifest; differing keys are publish-time fields only (assembled_at, published, published_at, issue_path, issue_bank_path, registry, registry_sha256, validation status text)",
+  "library": "records.jsonl, relations.jsonl, files.jsonl, seed-arrangement-candidate.json, seed-terms-candidate.json byte-identical to the published package Library/SG-010-P1-2026-09-22; manifest differs only in course_progress/coverage (set by publish finish) and the pins of the staged-vs-published _Maintenance records; README.md, home_inspection_library.py, validation.json exist only in the published package (added at finish)",
+  "qa": "97 of 97 contact-sheet PNGs byte-identical to Part B qa-final; qa-final/visual-review.json and index.json unchanged",
+  "library_cli_verify": {
+   "status": "current",
+   "changed": []
+  },
+  "publish_verify": "publish_sg010.py verify passes all checks (154 writes, 50 PDFs, registries, library current, frozen package snapshot, bank issue) with the plan removal of publication-receipt.json exempted; that assertion fails identically from the original Dropbox location (pre-existing)",
+  "work_folder_records": {
+   "stage-report.json": "rewritten (timestamp)",
+   "stage/.../_Maintenance/manifest.json": "rewritten (timestamps; rows identical)",
+   "library/staged-build-report.json": "byte-identical",
+   "qa-final/visual-review.json": "byte-identical",
+   "qa-final/index.json": "byte-identical"
+  }
+ }
+}

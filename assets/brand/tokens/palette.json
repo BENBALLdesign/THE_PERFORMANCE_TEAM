@@ -1,0 +1,88 @@
+{
+  "$schema": "https://design-tokens.github.io/community-group/format/",
+  "$description": "BBDF canonical palette. Source: BBDF_DESIGN_SYSTEM.md (canonical copy lives at BB_DOCS/__ROBOT__WORK__/BBDF_DESIGN_SYSTEM.md, NOT in this directory -- this folder holds the assets, that file holds the rules) §1. Locked per workshop ratification 2026-05-14. Single palette, system-wide. Adding a token requires Mandy + Elaine sign-off + register update.",
+  "color": {
+    "navy": {
+      "primary": {
+        "$value": "#1A1A5E",
+        "$type": "color",
+        "$description": "Header text, titles, section headings, body emphasis, table header row fills, INDEXED section numbering, logo name-stack text. Default body-text color.",
+        "rgb": "26, 26, 94"
+      }
+    },
+    "crimson": {
+      "accent": {
+        "$value": "#8B1A1A",
+        "$type": "color",
+        "$description": "Section dividers (header rule), AMOUNT DUE highlights, totals lines, important callouts. SEMANTIC ONLY — never decorative. Body text is always navy-primary.",
+        "rgb": "139, 26, 26"
+      }
+    },
+    "footer": {
+      "dark": {
+        "$value": "#1A252F",
+        "$type": "color",
+        "$description": "Footer band background fill.",
+        "rgb": "26, 37, 47"
+      },
+      "text": {
+        "$value": "#ECF0F1",
+        "$type": "color",
+        "$description": "Footer band text — generated-date, page number, brand line.",
+        "rgb": "236, 240, 241"
+      }
+    },
+    "semantic": {
+      "positive": {
+        "$value": "#27AE60",
+        "$type": "color",
+        "$description": "Positive financial deltas, success states, paid-in-full indicators.",
+        "rgb": "39, 174, 96"
+      },
+      "negative": {
+        "$value": "#C0392B",
+        "$type": "color",
+        "$description": "Negative financial deltas, error states, overdue AR.",
+        "rgb": "192, 57, 43"
+      },
+      "notes": {
+        "$value": "#D4AC0D",
+        "$type": "color",
+        "$description": "Annotations, sidebars, see-also callouts.",
+        "rgb": "212, 172, 13"
+      }
+    },
+    "structural": {
+      "muted": {
+        "$value": "#7F8C8D",
+        "$type": "color",
+        "$description": "Secondary text, contact lines, captions, INDEXED cross-reference labels (§2.3 (p. 7)).",
+        "rgb": "127, 140, 141"
+      },
+      "rule": {
+        "$value": "#DDDDDD",
+        "$type": "color",
+        "$description": "Light rule above totals, alternating row dividers, TOC dot leaders.",
+        "rgb": "221, 221, 221"
+      },
+      "alt-row": {
+        "$value": "#F3F4F8",
+        "$type": "color",
+        "$description": "Alternating table row backgrounds — subtle, near-white.",
+        "rgb": "243, 244, 248"
+      },
+      "white": {
+        "$value": "#FFFFFF",
+        "$type": "color",
+        "$description": "Header band background, content background, table header text on navy fill.",
+        "rgb": "255, 255, 255"
+      },
+      "text-black": {
+        "$value": "#000000",
+        "$type": "color",
+        "$description": "Logo name-stack DESIGN & FABRICATION tagline only (per spec §2.1 + §3.5). Contrast hierarchy against navy BEN BALL above. NOT used for body text — body stays navy-primary. Added v1.4 (Ben-pinned 2026-05-14); formally ratified v1.5 (Round 2 Flag 3 resolution).",
+        "rgb": "0, 0, 0"
+      }
+    }
+  }
+}

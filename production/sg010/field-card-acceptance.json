@@ -1,0 +1,9 @@
+{
+  "schema": "home-inspection-card-acceptance/1",
+  "date": "2026-09-22",
+  "by": "Ben (session answer, 2026-09-22)",
+  "issue_first": "SG-010-2026-09-21",
+  "accepted": "The 22 rebound cards (QC-001, 006, 008, 018, 023, 025, 027, 033, 044-050, 053, 054, 056, 057, 060, 063, 064) and the new QC-047 safety flag (alarms) are accepted as published; the 31 new subject aliases are accepted as retrieval routes only; issue id SG-010-2026-09-21 and parent S32-C1-2026-09-21 are confirmed.",
+  "review_lock": "field-card-review-lock.json (bindings signature unchanged since the reviewed SG-010 build)",
+  "limits": "Acceptance of bindings and flags as cues; not a technical or code audit; physical print test not performed"
+}

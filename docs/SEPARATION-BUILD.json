@@ -1,0 +1,1023 @@
+{
+ "schema": "performance-team-separation-build/1",
+ "built_at": "2026-09-22T04:53:18+00:00",
+ "checkout": "C:\\Users\\benja\\Dropbox\\THE_PERFORMANCE_TEAM",
+ "installation": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM",
+ "bb_code": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE",
+ "design_system": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_DESIGN\\03_Marketing\\BBDF_DESIGN_SYSTEM",
+ "purpose": "Steps 2-3 of the separation (handoff 4): copy code, contracts, registries and brand assets into the checkout and cut every BBDF dependency; installation, BB_CODE and Seed Bank untouched.",
+ "files": 100,
+ "patched": 19,
+ "copies": [
+  {
+   "file": "production/sg010/cards_sg010.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\cards_sg010.py",
+   "origin_sha256": "f7c6f0eb2bfe4386cce42ba6ee7c85d3ffe0e6da71af5677c70de2dbbb78e8b4",
+   "bytes": 16870,
+   "patched": true,
+   "patches": 4,
+   "sha256": "760803c996f6bba3cb77fd31cf35e14c9d44150430a1dbada89791f1610438af"
+  },
+  {
+   "file": "production/sg010/compact_sg010.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\compact_sg010.py",
+   "origin_sha256": "53653427f595ed07f0425388230fe6e8f8c5e3ed643511f7d002b8e280a57093",
+   "bytes": 5584
+  },
+  {
+   "file": "production/sg010/content_assessment.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\content_assessment.py",
+   "origin_sha256": "0b3203d2fef854222107f958fa81d443910cc4de65701e0b9ae65277d6e0535b",
+   "bytes": 2510
+  },
+  {
+   "file": "production/sg010/content_coverage.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\content_coverage.py",
+   "origin_sha256": "45c19e8cb8f46acc146ac4d5fbf934079815bb46838671a44705dc1953a21bd2",
+   "bytes": 6602
+  },
+  {
+   "file": "production/sg010/content_s33.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\content_s33.py",
+   "origin_sha256": "3bb22fe2a85f7e80c94a708bff7c46a4a2facff6da4ffd61b0c22c058aca6d87",
+   "bytes": 21092
+  },
+  {
+   "file": "production/sg010/content_s34.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\content_s34.py",
+   "origin_sha256": "0ad3c40916c6b33ce562e6ff738ef2237dbbd1328a6deed39df484202478f9fb",
+   "bytes": 11646
+  },
+  {
+   "file": "production/sg010/content_s38.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\content_s38.py",
+   "origin_sha256": "e7fee6ed3589d920a5ef2749f3020a57fbeab87f4571a88e81934127f77c1f0a",
+   "bytes": 14772
+  },
+  {
+   "file": "production/sg010/content_s39.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\content_s39.py",
+   "origin_sha256": "6947ff896d086744e3ed9449005faf1a8f15a0459ba220b94da9662b00d32750",
+   "bytes": 26540
+  },
+  {
+   "file": "production/sg010/content_scope.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\content_scope.py",
+   "origin_sha256": "099319a090e0a4b1d152539b07ff4b0cc98975b7f626f563b0c14abc56c1165b",
+   "bytes": 14048
+  },
+  {
+   "file": "production/sg010/contents_sg010.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\contents_sg010.py",
+   "origin_sha256": "5afa250ecb98dc8cb3b7d4c2be750c6f99936db684b8b4c19e6870b835a40e53",
+   "bytes": 18432,
+   "patched": true,
+   "patches": 2,
+   "sha256": "2fb634205abc3b0171ec81a49bc4dd194ddc9b678956aab9bcc2d58cc6aede43"
+  },
+  {
+   "file": "production/sg010/directory_sg010.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\directory_sg010.py",
+   "origin_sha256": "947549953bf1998bcbf9e4b0763a73cff4d8c26ef23fb1481dce0aacf4946f63",
+   "bytes": 12059
+  },
+  {
+   "file": "production/sg010/editorial-review.json",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\editorial-review.json",
+   "origin_sha256": "f427c7b060ed44fbce29d4182a94fd56fe942f3a7fa9c8e72c0da6c0c3de533a",
+   "bytes": 2355
+  },
+  {
+   "file": "production/sg010/field-card-acceptance.json",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\field-card-acceptance.json",
+   "origin_sha256": "a237cb8069698f71c7a38c4ae212af88d5f53d1e0772fc5ee5358f996d5d1e5f",
+   "bytes": 730
+  },
+  {
+   "file": "production/sg010/field-card-fact-aliases-SG009-to-SG010.json",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\field-card-fact-aliases-SG009-to-SG010.json",
+   "origin_sha256": "79f9ec3daa668d742e02e5b4e9a0bff673607ffd61a2800eb1029b64d193be90",
+   "bytes": 131458
+  },
+  {
+   "file": "production/sg010/field-card-review-lock.json",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\field-card-review-lock.json",
+   "origin_sha256": "7dea2bec750aa2e0c19d272f5189a70eae3b1a93cd9e10120e251fe68947a781",
+   "bytes": 27551
+  },
+  {
+   "file": "production/sg010/housing-data.json",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\housing-data.json",
+   "origin_sha256": "0609aed6a597a8ff549e19935c88415563c94e0de8fff1d9c1f5502be6360a37",
+   "bytes": 21535
+  },
+  {
+   "file": "production/sg010/library_sg010.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\library_sg010.py",
+   "origin_sha256": "c1f9dfa9f116989bdaecde79022dde4e458d92e1d91e3498cfc79aede30ed81e",
+   "bytes": 2132
+  },
+  {
+   "file": "production/sg010/navigation.json",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\navigation.json",
+   "origin_sha256": "4ded31940ac6849955245fbec803f487c42a224ee07aef4be229e9ec9a3fb71f",
+   "bytes": 3161
+  },
+  {
+   "file": "production/sg010/navigation_sg010.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\navigation_sg010.py",
+   "origin_sha256": "b54f0a5c0071f470971ac9c21e70953c752f46faf919877da74f920088004456",
+   "bytes": 19962
+  },
+  {
+   "file": "production/sg010/NEXT SESSION BRIEF.md",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\NEXT SESSION BRIEF.md",
+   "origin_sha256": "4028e3a8c7e87aa34d07e8c98139a9650db946cd2ae93d7329bd92cfd14a74c4",
+   "bytes": 5638
+  },
+  {
+   "file": "production/sg010/paint_sg010.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\paint_sg010.py",
+   "origin_sha256": "e5b0369f2863d231c76e4e30a2e8614f1c7508ee3601f992fc7700bafbb0d61c",
+   "bytes": 21564
+  },
+  {
+   "file": "production/sg010/palette_sg010.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\palette_sg010.py",
+   "origin_sha256": "8f685c4070ff3096d936ce244669f1b76d9c8aa793f7ae4e016eb53873024eb8",
+   "bytes": 2402
+  },
+  {
+   "file": "production/sg010/prepare.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\prepare.py",
+   "origin_sha256": "a333a35b6e0b2be0f13a8e44f2e8a6e480dcae3e3bcaeb9ba12b39428df45084",
+   "bytes": 1499,
+   "patched": true,
+   "patches": 2,
+   "sha256": "5d1f34afc10925a975a7e886b43317466ad4b2b92b88efe939fadb461cdc1782"
+  },
+  {
+   "file": "production/sg010/prepare_content.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\prepare_content.py",
+   "origin_sha256": "93b6f7842b2c41792e4fcb1c4b80d81a42ca65858208cee3f703e28e275c4163",
+   "bytes": 5907,
+   "patched": true,
+   "patches": 2,
+   "sha256": "62f9c01591f26054cb0c9b41b6625f2ec30fbf89c723cb113c741d001d553bc8"
+  },
+  {
+   "file": "production/sg010/PROGRESS.md",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\PROGRESS.md",
+   "origin_sha256": "467c7c1070293f765b77e65788b779a0c58b36bf083789140033d8be11c81c3b",
+   "bytes": 21063
+  },
+  {
+   "file": "production/sg010/publish_sg010.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\publish_sg010.py",
+   "origin_sha256": "d2ad2056d0803c84057e1bd779e89d4c6f09fdf7473ab4003ed412e8b0402070",
+   "bytes": 42543,
+   "patched": true,
+   "patches": 21,
+   "sha256": "db0a30323c840211e4349bd9befe2b193b349cfd6fbd761241b47a50c88f49ad"
+  },
+  {
+   "file": "production/sg010/qa_sg010.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\qa_sg010.py",
+   "origin_sha256": "9e1ed40e5bf5bb587266f74f0a6d3e89f086013d68791096c21c3158fa9e4c83",
+   "bytes": 3863,
+   "patched": true,
+   "patches": 1,
+   "sha256": "cfc536e045e2289785a3436d84579d0ee29e44278d13ec0536aae344a332ca29"
+  },
+  {
+   "file": "production/sg010/references_sg010.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\references_sg010.py",
+   "origin_sha256": "58ece46184602d7866e245177ca10dd8ad799389562840e6e39fe4d5b897212b",
+   "bytes": 3137
+  },
+  {
+   "file": "production/sg010/rehash_recordings.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\rehash_recordings.py",
+   "origin_sha256": "8c12e1e5b4738502452240467a28c1b6defc49d67eb6af3dbbc1990e7e44356e",
+   "bytes": 1643,
+   "patched": true,
+   "patches": 1,
+   "sha256": "f33694413e88d2d94ca72ba1b10755f3d76d16ab67d775d39354e0dce3bac1a0"
+  },
+  {
+   "file": "production/sg010/render_sg010.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\render_sg010.py",
+   "origin_sha256": "b5735a07889af22e243411f84c6cf63a5e7e6dcb97219110aac19a79f5dec637",
+   "bytes": 30821
+  },
+  {
+   "file": "production/sg010/shelf_sg010.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\shelf_sg010.py",
+   "origin_sha256": "5e05e7a77417ff2941193d329b800acbb31994c3bbbadd4296ece9fd1d0b25c3",
+   "bytes": 12607
+  },
+  {
+   "file": "production/sg010/START HERE.md",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\START HERE.md",
+   "origin_sha256": "c4f6788ae507ead7667f9678203efab66c42d33583386a9f567b47da49332b2c",
+   "bytes": 343
+  },
+  {
+   "file": "production/sg010/walker_labels_sg010.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\walker_labels_sg010.py",
+   "origin_sha256": "c23dadfe84c57fde109778ceec5707642988dd0d56632edbb3f618f2927c65f7",
+   "bytes": 4528
+  },
+  {
+   "file": "production/sg010/walker_sg010.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\SG-010 Production\\walker_sg010.py",
+   "origin_sha256": "2114c6963e5a8e24f2da5e48340a1828c4064b1229780bdb9ddf2e19e6d4bb1a",
+   "bytes": 24758,
+   "patched": true,
+   "patches": 2,
+   "sha256": "8c8fe2db01c8ff4009432b1c2a167e6e6a30393a4fbfa3cfada97ce0e81d12df"
+  },
+  {
+   "file": "production/sg010/data/recording-20260921-020522-source.json",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\recording-20260921-020522\\source.json",
+   "origin_sha256": "c0f307588add60fdbbf1f0dc3799e021dab414edb4a6cc1c8b4e1743fecc2f19",
+   "bytes": 1882
+  },
+  {
+   "file": "builder/additional_topics.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\additional_topics.py",
+   "origin_sha256": "d8d21fbbc5dd84d8593310f04060d7ba12515aa8014d0a54def830d73eea0275",
+   "bytes": 5964
+  },
+  {
+   "file": "builder/build.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\build.py",
+   "origin_sha256": "34761de65e00182087a4585c5a56450e6f8aa67f8280749f4e3bade2f7233995",
+   "bytes": 26234
+  },
+  {
+   "file": "builder/card_brand.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\card_brand.py",
+   "origin_sha256": "4e994587f68526fcdd18b0c7206aa8621d7d28d39b8cc1a9a26e95ef48b01ee8",
+   "bytes": 1987,
+   "patched": true,
+   "patches": 1,
+   "sha256": "ae3e683c013e5214bc52e8701ee7ee415ea80b9a21c7ebfd0a5cb6c455aa013e"
+  },
+  {
+   "file": "builder/card_inspection_layer.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\card_inspection_layer.py",
+   "origin_sha256": "783b9f59828465724d17d618543636f5c8a0b6ed494f93a141c0422bc50bb8e6",
+   "bytes": 6193
+  },
+  {
+   "file": "builder/content_s33.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\content_s33.py",
+   "origin_sha256": "c94e20252ebf3c0e6c08efc0526e951a8db630612360ea1440cbc52d2f546e3e",
+   "bytes": 20794
+  },
+  {
+   "file": "builder/content_s38.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\content_s38.py",
+   "origin_sha256": "0bce7cd6ad6d3ef9b4431d639c557094a81cf4196da6e434b9fc5567496f2bf9",
+   "bytes": 14717
+  },
+  {
+   "file": "builder/design_language.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\design_language.py",
+   "origin_sha256": "1ff9243de768ce22d24b1db0d66a6a1f5b4e38ad970529df0e480d00ad437412",
+   "bytes": 23802,
+   "patched": true,
+   "patches": 3,
+   "sha256": "6ed6802e677b8c9ab6a5f91db470c1c0278dc93e3fe635726f9375c6ff7eaac7"
+  },
+  {
+   "file": "builder/edition.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\edition.py",
+   "origin_sha256": "575ef18b38f3863cb163c6ae413ddbfa40ee46eeb127688cf0f003894e231a54",
+   "bytes": 19550
+  },
+  {
+   "file": "builder/editorial.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\editorial.py",
+   "origin_sha256": "aebc975aec0ef60db94862b6e109cecee552972f1824d6e4c9b58cbfb211e0f6",
+   "bytes": 38247
+  },
+  {
+   "file": "builder/field_card_bindings.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\field_card_bindings.py",
+   "origin_sha256": "580268223ba5ed1881cb33e0741b925833e3e15beb93ff71bb1fe3644d6a4ea7",
+   "bytes": 4310
+  },
+  {
+   "file": "builder/field_card_concordance.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\field_card_concordance.py",
+   "origin_sha256": "10bcaeaa9b9455d8d2c2eed512ff900b03221d359a977c9fe65088726cbb84ae",
+   "bytes": 15233,
+   "patched": true,
+   "patches": 1,
+   "sha256": "05df20624b88bf432103c7ed7eb6b111a8eae30f067e10b2a860ae3f3d38d7d8"
+  },
+  {
+   "file": "builder/field_cards_64.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\field_cards_64.py",
+   "origin_sha256": "ea9aec03a3ab8f07d48f49f747481c5302155fde874be4918d03c90c569705fb",
+   "bytes": 24311
+  },
+  {
+   "file": "builder/field_cards_64_content.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\field_cards_64_content.py",
+   "origin_sha256": "74c4ab24b700f9a4dced6d8def671eae049f89b4e614398a4ded1f7a8f9e6a01",
+   "bytes": 20387
+  },
+  {
+   "file": "builder/field_cards_layer2.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\field_cards_layer2.py",
+   "origin_sha256": "5efd900bb9703ce1d979f4c7212aa648cbe88c03d1f41765f32ece51a7b29dc6",
+   "bytes": 16280,
+   "patched": true,
+   "patches": 1,
+   "sha256": "dac2faca9b8a7179def587933d3e9140e1e4a01ad85ca69312a3e25b7ffe36b2"
+  },
+  {
+   "file": "builder/glossary.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\glossary.py",
+   "origin_sha256": "92cf96799ada3816327498e41a9cdc74c3c2494ad60abdfcc0d06775e3731bfc",
+   "bytes": 11821
+  },
+  {
+   "file": "builder/housing.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\housing.py",
+   "origin_sha256": "f9693d624a63bbd08448e7ff09fab3a386a056078eb6707ea7de71d856d208da",
+   "bytes": 8201
+  },
+  {
+   "file": "builder/maryland_marker.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\maryland_marker.py",
+   "origin_sha256": "8b65ffdaff8290684533c35cfda71dfde8044223d578de9f18cc309387ef448d",
+   "bytes": 1777
+  },
+  {
+   "file": "builder/navigation.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\navigation.py",
+   "origin_sha256": "9a77724adaae99b8f4159e86a7cb729bf84c7106876cdcdc12f8e0832f8deb3b",
+   "bytes": 6098
+  },
+  {
+   "file": "builder/prepare.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\prepare.py",
+   "origin_sha256": "00d59c00a726763ea3bd1dcda9bd534d6bc1926da9bf0cd5149fbddc466de685",
+   "bytes": 733,
+   "patched": true,
+   "patches": 1,
+   "sha256": "b7516bf9fce2ec9a1c2bd861a65f787c07c22d6b1d75b7b230286f7e1a56db60"
+  },
+  {
+   "file": "builder/setup.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\setup.py",
+   "origin_sha256": "0cc085d2e7a171ec32b6ddf373621f69c5f2cd1b2cc2aa9361456931f420d5a1",
+   "bytes": 23
+  },
+  {
+   "file": "builder/supplements.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\supplements.py",
+   "origin_sha256": "aaafcd231d120cb0f521cee338cf9302b649db5d0f77dd08bcdd945cdec9c72b",
+   "bytes": 12250
+  },
+  {
+   "file": "builder/timeline.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\timeline.py",
+   "origin_sha256": "47e837c40197ee3250af69f2e51842f61ad509e797d93799a37b96e6a281c7c2",
+   "bytes": 15719
+  },
+  {
+   "file": "builder/verified_scores.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\verified_scores.py",
+   "origin_sha256": "cf9d9f8191570bd84e157774d826495b22683e6c18d218f6b8d20b5610cf7cab",
+   "bytes": 1920
+  },
+  {
+   "file": "builder/walking.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\walking.py",
+   "origin_sha256": "0b70ee2010ac3acbe862835ba9923ecf7717a37f9438246b42d9c9fde793f1b7",
+   "bytes": 18613
+  },
+  {
+   "file": "builder/housing-data.json",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\housing-data.json",
+   "origin_sha256": "0609aed6a597a8ff549e19935c88415563c94e0de8fff1d9c1f5502be6360a37",
+   "bytes": 21535
+  },
+  {
+   "file": "builder/navigation.json",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\navigation.json",
+   "origin_sha256": "726075862a52346862ac76f02cafb704d120a4aea03668593ab31cee884c5686",
+   "bytes": 337140
+  },
+  {
+   "file": "builder/incoming-inventory.json",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\incoming-inventory.json",
+   "origin_sha256": "93808220329311d27c53ff66cb045f36e6734e9ae9f916e0ac70f395d67439a2",
+   "bytes": 14796
+  },
+  {
+   "file": "builder/property-505-r2/atlas_brand.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\property-505-r2\\atlas_brand.py",
+   "origin_sha256": "ad20bc60bdb09e66e49110679782442bfd1a5684c9446387a852c429b3b4e25a",
+   "bytes": 1931
+  },
+  {
+   "file": "builder/property-505-r2/maryland_marker.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\property-505-r2\\maryland_marker.py",
+   "origin_sha256": "46ef8077e72e6ef119c0d0b081194c73fdeb2bbe3e8035b1bd8e026dc7ceb959",
+   "bytes": 1750
+  },
+  {
+   "file": "builder/property-505-r2/assets/BENBALL_A_CANONICAL.svg",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\property-505-r2\\assets\\BENBALL_A_CANONICAL.svg",
+   "origin_sha256": "63a686099b883c4a5e270dac9b115138e58d0f0490e22a3441d32542f89d6f35",
+   "bytes": 7387
+  },
+  {
+   "file": "builder/sg009-color-language/paint.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg009-color-language\\paint.py",
+   "origin_sha256": "de47d55df0423ece7b200574cfb74dd3ba63811366021273f9762dd7e83a7478",
+   "bytes": 15528,
+   "patched": true,
+   "patches": 1,
+   "sha256": "f630945ca6c3de49b094b05b486efc111c33ec4cb71b124a21d07cbb70c18ff3"
+  },
+  {
+   "file": "builder/data/sg009/field-cards/cards.json",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg009\\field-cards\\cards.json",
+   "origin_sha256": "1fcb94c7589f0eac4fb0452c7ac12a33c8f088caf2def12fdc8a4680c77c2c64",
+   "bytes": 6917
+  },
+  {
+   "file": "tools/home_inspection_library.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\CODE CARRY\\bb_code\\tools\\home_inspection_library.py",
+   "origin_sha256": "8da4513a016d8b57a263e0d0990ef1003e620c63d6f3b54b179d75016efb259e",
+   "bytes": 18641,
+   "patched": true,
+   "patches": 3,
+   "sha256": "52845433b5f92602e2ee8b68480bf2ae85e6b73f4a6b57ab800169221da84e82"
+  },
+  {
+   "file": "tools/home_inspection_page_frame.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\CODE CARRY\\bb_code\\tools\\home_inspection_page_frame.py",
+   "origin_sha256": "43acd9c88aff857e08a772c17a736d2df41b2d37a221c5643bd3e18be8250c9e",
+   "bytes": 3378,
+   "patched": true,
+   "patches": 1,
+   "sha256": "7031116d836efe12a63b4c40b43c235a87e9517818c70c81b8eb52005d859511"
+  },
+  {
+   "file": "tools/HOME_INSPECTION_STORAGE.md",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\CODE CARRY\\bb_code\\tools\\HOME_INSPECTION_STORAGE.md",
+   "origin_sha256": "8e428fbfc145b8d25f73ad3b24ff2869a37633e2fa81d670acd6b2fa5ffefa75",
+   "bytes": 2067
+  },
+  {
+   "file": "tools/home_inspection_storage.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\CODE CARRY\\bb_code\\tools\\home_inspection_storage.py",
+   "origin_sha256": "59055c9b01cfe8da2f07e47129dfbf6efc0267155407d935cc9b54a683d9dc06",
+   "bytes": 4512,
+   "patched": true,
+   "patches": 2,
+   "sha256": "691748bd6b8281e6721d663177b79364f50f6a72dbddccea5f053db3728207bd"
+  },
+  {
+   "file": "tools/recording_archive.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\CODE CARRY\\bb_code\\tools\\recording_archive.py",
+   "origin_sha256": "56ef564d24c17c4e2422da504ded42a0a55c91413c5aa98bc375354eb3eed4f4",
+   "bytes": 9690,
+   "patched": true,
+   "patches": 4,
+   "sha256": "9dbcad9182898b7c114b434e19814e881132b49f0e92d5f58989b4ce11dbf2c8"
+  },
+  {
+   "file": "tests/test_recording_archive.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\CODE CARRY\\bb_code\\tests\\test_recording_archive.py",
+   "origin_sha256": "e27970a1b7439b33da231a010c6e73d19ac7a82660a1bd087c1985dbe1e32c2b",
+   "bytes": 2519,
+   "patched": true,
+   "patches": 2,
+   "sha256": "21ba2e75b08b08b5a74a554820c2c759bc9f7fcbe0835daac093d0155502ca7b"
+  },
+  {
+   "file": "assets/brand/tokens/palette.json",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_DESIGN\\03_Marketing\\BBDF_DESIGN_SYSTEM\\tokens\\palette.json",
+   "origin_sha256": "7e367c83f407d206c43d30fd9013b824470d93f516feeb036b3954ec23604aa0",
+   "bytes": 3451
+  },
+  {
+   "file": "assets/brand/tokens/typography.json",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_DESIGN\\03_Marketing\\BBDF_DESIGN_SYSTEM\\tokens\\typography.json",
+   "origin_sha256": "5531003a442c4a8e70cf304e432e8f5a3d76b117674e0dfa00368bc9efecf9f2",
+   "bytes": 12005
+  },
+  {
+   "file": "assets/brand/tokens/spacing.json",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_DESIGN\\03_Marketing\\BBDF_DESIGN_SYSTEM\\tokens\\spacing.json",
+   "origin_sha256": "d4fc63319241307031f7389abd5989f16d4378bedba319a12e1f837a00a8c6f7",
+   "bytes": 6879
+  },
+  {
+   "file": "assets/brand/logos/BENBALL_A_CANONICAL.svg",
+   "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_DESIGN\\03_Marketing\\BBDF_DESIGN_SYSTEM\\logos\\BENBALL_A_CANONICAL.svg",
+   "origin_sha256": "63a686099b883c4a5e270dac9b115138e58d0f0490e22a3441d32542f89d6f35",
+   "bytes": 7387
+  },
+  {
+   "file": "registries/STUDY-GUIDE-EDITIONS.json",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\STUDY-GUIDE-EDITIONS.json",
+   "origin_sha256": "5ac32e34ca9881077f8514c242e91678781bafa72a44fe9cee1304b2f9cda361",
+   "bytes": 35066
+  },
+  {
+   "file": "registries/APPENDIX-VERSIONS.json",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\APPENDIX-VERSIONS.json",
+   "origin_sha256": "b79a532a7620f8ec1730f1dc7878e3265a753a88098537eadc9ab646ddb2c3aa",
+   "bytes": 72944
+  },
+  {
+   "file": "registries/recordings-catalog.json",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\recordings-catalog.json",
+   "origin_sha256": "362c8570889f4a9c686607ef739cfd5b2f6cbf3db737bda3be571b3c863076cf",
+   "bytes": 304532
+  },
+  {
+   "file": "registries/recordings-catalog.csv",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\recordings-catalog.csv",
+   "origin_sha256": "7bdd396ad84d51463535695a7b8997cc187a58c08bed59c20e734adc4b84e27e",
+   "bytes": 124982
+  },
+  {
+   "file": "registries/recording-aliases.csv",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\recording-aliases.csv",
+   "origin_sha256": "c504411a174db161f903ea0fddac69416c095f68b1732b985a668279265615f0",
+   "bytes": 42385
+  },
+  {
+   "file": "registries/Library/CURRENT.json",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Home Inspection Training\\Library\\CURRENT.json",
+   "origin_sha256": "abac4e9479ae7ca316bb74499a4297b4d03615778bf33a245fe3bb7bd2114762",
+   "bytes": 228
+  },
+  {
+   "file": "skills/portable-v1.2/audio-notes/scripts/export_audio.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\skills\\portable-v1.2\\audio-notes\\scripts\\export_audio.py",
+   "origin_sha256": "9d52c367b7a6bf919794bcd90f29ba3628fe46a314e48693979e154b33829442",
+   "bytes": 12080
+  },
+  {
+   "file": "skills/portable-v1.2/audio-notes/SKILL.md",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\skills\\portable-v1.2\\audio-notes\\SKILL.md",
+   "origin_sha256": "7fba5ad11ba2a95a6ac3f2bde8845ea45eb61a42992a4b51264bad0b9eb6c163",
+   "bytes": 2876
+  },
+  {
+   "file": "skills/portable-v1.2/local-settings.example.json",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\skills\\portable-v1.2\\local-settings.example.json",
+   "origin_sha256": "a82bb1ccc8c6ec2a675f47d4c58b6139304dbca3716d6fbb21670ba7c3d5a270",
+   "bytes": 106
+  },
+  {
+   "file": "skills/portable-v1.2/local_runtime.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\skills\\portable-v1.2\\local_runtime.py",
+   "origin_sha256": "e96083c6c0312918e95275183a31306964a5f3829f49c85f2cfc2822d4748222",
+   "bytes": 9804
+  },
+  {
+   "file": "skills/portable-v1.2/previous-entrypoints/audio-notes-SKILL.md",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\skills\\portable-v1.2\\previous-entrypoints\\audio-notes-SKILL.md",
+   "origin_sha256": "60a7565f6b399ca8c5701a2099420a14397ad6c21c251eef4e4f79459e680b05",
+   "bytes": 2047
+  },
+  {
+   "file": "skills/portable-v1.2/previous-entrypoints/recording-notes-SKILL.md",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\skills\\portable-v1.2\\previous-entrypoints\\recording-notes-SKILL.md",
+   "origin_sha256": "621e0b3c817f01c227eecc6d59629a1ed9af195317a3194529991a4beaa5c2fe",
+   "bytes": 2021
+  },
+  {
+   "file": "skills/portable-v1.2/README.md",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\skills\\portable-v1.2\\README.md",
+   "origin_sha256": "a190cdef8663ded37940e548b15646b0981c4960fdb7145d01192b966bfe676e",
+   "bytes": 9840
+  },
+  {
+   "file": "skills/portable-v1.2/recording-notes/scripts/export_recordings.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\skills\\portable-v1.2\\recording-notes\\scripts\\export_recordings.py",
+   "origin_sha256": "23a71a5a9e8b49f973dc43c5d06f0740596bb0237cd4b5d718775bbbba581676",
+   "bytes": 20403
+  },
+  {
+   "file": "skills/portable-v1.2/recording-notes/scripts/publish_notes.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\skills\\portable-v1.2\\recording-notes\\scripts\\publish_notes.py",
+   "origin_sha256": "02f980c66edc3bd2840835065c2edffb4328cadf4e204ddb20b029c704335138",
+   "bytes": 10959
+  },
+  {
+   "file": "skills/portable-v1.2/recording-notes/SKILL.md",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\skills\\portable-v1.2\\recording-notes\\SKILL.md",
+   "origin_sha256": "ad052b657fac9c66df49227d729f26fb599117fda7326303925f5f925ee3f690",
+   "bytes": 2850
+  },
+  {
+   "file": "skills/portable-v1.2/release.json",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\skills\\portable-v1.2\\release.json",
+   "origin_sha256": "8a8a979bfa81dd2f27cf824fbf8dc7104ff0a0c07038b8b7de40d0f5a6d81d74",
+   "bytes": 1075
+  },
+  {
+   "file": "skills/portable-v1.2/requirements.txt",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\skills\\portable-v1.2\\requirements.txt",
+   "origin_sha256": "70999ec66f7de8da028b82dd5b745de0964485e8355d5f43926aa54bfbdba13e",
+   "bytes": 56
+  },
+  {
+   "file": "skills/portable-v1.2/tests/test_runtime.py",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\skills\\portable-v1.2\\tests\\test_runtime.py",
+   "origin_sha256": "5ee3e35f80570261c96f2d25aebcab309890383ec4f40c9bc2edf9c00abb327b",
+   "bytes": 3529
+  },
+  {
+   "file": "skills/portable-v1.2/validation.json",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\skills\\portable-v1.2\\validation.json",
+   "origin_sha256": "0b79b9b9b464a1fda922715e433ccaffec672c26a8678f42aef1f1e0f8782e31",
+   "bytes": 2778
+  },
+  {
+   "file": "docs/CARRY-MANIFEST.json",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\CODE CARRY\\CARRY MANIFEST.json",
+   "origin_sha256": "24cc352687b56c1dab1d48e4a255d664562273e6bb27b5d8d0a8be53aa641aca",
+   "bytes": 9743
+  },
+  {
+   "file": "docs/CODE-CARRY-README.md",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\CODE CARRY\\README.md",
+   "origin_sha256": "5452288168eb5d26451ee2cae39a44a58c43e8b717cbd87b65cc99565c3c75fe",
+   "bytes": 397
+  },
+  {
+   "file": "docs/HANDOFF-4-SEPARATION.md",
+   "origin": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\__SORT__\\SG-010 - HANDOFF 4 - TO BEN - PERFORMANCE TEAM SEPARATION.md",
+   "origin_sha256": "6d9d0a059242669a244ba27683018d1518559186337b9b21a6e165941f625e49",
+   "bytes": 6371
+  }
+ ],
+ "patches": [
+  {
+   "file": "production/sg010/prepare.py",
+   "replacements": [
+    {
+     "before": "REPO=Path('C:/Users/benja/Dropbox/BEN_BALL/BB_CODE')\nBUILDER=REPO/'.scratch/sg010'\nsys.path.insert(0,str(REPO/'tools'))\nimport home_inspection_storage as storage\n",
+     "after": "REPO=HERE.parents[2]   # THE_PERFORMANCE_TEAM checkout root (production/sg010 -> production -> root)\nBUILDER=REPO/'builder'\nsys.path.insert(0,str(REPO/'tools'))\nimport team_paths\nimport home_inspection_storage as storage\n"
+    },
+    {
+     "before": "BASE=Path('C:/Users/benja/Dropbox/THE PERFORMANCE TEAM')\nTEAM=BASE\n",
+     "after": "BASE=team_paths.installation()   # the Dropbox installation: published reading material, never code\nTEAM=BASE\nREG=team_paths.REGISTRIES   # tracked registries live in the checkout\nLIBRARY_CURRENT=REG/'Library/CURRENT.json'\n"
+    }
+   ]
+  },
+  {
+   "file": "builder/prepare.py",
+   "replacements": [
+    {
+     "before": "BASE=Path('C:/Users/benja/Dropbox/THE PERFORMANCE TEAM')\n",
+     "after": "import team_paths\nBASE=team_paths.installation()\n"
+    }
+   ]
+  },
+  {
+   "file": "builder/design_language.py",
+   "replacements": [
+    {
+     "before": "\"\"\"Experimental SG-010 presentation: live BBDF tokens, distinct chart forms.\"\"\"",
+     "after": "\"\"\"Experimental SG-010 presentation: vendored brand tokens (assets/brand), distinct chart forms.\"\"\""
+    },
+    {
+     "before": "ROOT=Path(__file__).resolve().parents[2]\nsys.path.insert(0,str(ROOT))\nfrom bbdf_core import paths\n",
+     "after": "ROOT=Path(__file__).resolve().parents[1]\nsys.path.insert(0,str(ROOT/'tools'))\nimport team_paths\n"
+    },
+    {
+     "before": "_assets=paths.resolve('bb_design','03_Marketing/BBDF_DESIGN_SYSTEM')\n",
+     "after": "_assets=team_paths.brand()   # vendored print tokens and canonical logo\n"
+    }
+   ]
+  },
+  {
+   "file": "builder/card_brand.py",
+   "replacements": [
+    {
+     "before": "from bbdf_core.paths import resolve\n\nLOGO = resolve('bb_design', '03_Marketing/BBDF_DESIGN_SYSTEM/logos/BENBALL_A_CANONICAL.svg')\n",
+     "after": "import sys\nsys.path.insert(0, str(Path(__file__).resolve().parents[1]/'tools'))\nimport team_paths\n\nLOGO = team_paths.brand('logos/BENBALL_A_CANONICAL.svg')\n"
+    }
+   ]
+  },
+  {
+   "file": "builder/field_cards_layer2.py",
+   "replacements": [
+    {
+     "before": "sys.path.insert(0,str(HERE.parents[1]))\nfrom bbdf_core.paths import resolve\nTOKENS=resolve('bb_design','03_Marketing/BBDF_DESIGN_SYSTEM/tokens/palette.json')\n",
+     "after": "sys.path.insert(0,str(HERE.parent/'tools'))\nimport team_paths\nTOKENS=team_paths.brand('tokens/palette.json')\n"
+    }
+   ]
+  },
+  {
+   "file": "builder/field_card_concordance.py",
+   "replacements": [
+    {
+     "before": "LIBRARY=Path('C:/Users/benja/Dropbox/THE PERFORMANCE TEAM/Home Inspection Training/Study Guide Editions')\n",
+     "after": "import sys;sys.path.insert(0,str(HERE.parent/'tools'))\nimport team_paths\nLIBRARY=team_paths.installation()/'Home Inspection Training/Study Guide Editions'\n"
+    }
+   ]
+  },
+  {
+   "file": "builder/sg009-color-language/paint.py",
+   "replacements": [
+    {
+     "before": "HERE=Path(__file__).resolve().parent;TEAM=Path('C:/Users/benja/Dropbox/THE PERFORMANCE TEAM')\n",
+     "after": "HERE=Path(__file__).resolve().parent;sys.path.insert(0,str(HERE.parents[1]/'tools'));import team_paths;TEAM=team_paths.installation()\n"
+    }
+   ]
+  },
+  {
+   "file": "tools/home_inspection_storage.py",
+   "replacements": [
+    {
+     "before": "BANK = Path('F:/SEED BANK')\n",
+     "after": "import team_paths\n\nBANK = team_paths.seed_bank()\n"
+    },
+    {
+     "before": "    mirror = Path('C:/Users/benja/Dropbox/THE PERFORMANCE TEAM/Sound Recordings/recordings-catalog.json')\n",
+     "after": "    mirror = team_paths.registry('recordings-catalog.json')\n"
+    }
+   ]
+  },
+  {
+   "file": "tools/home_inspection_page_frame.py",
+   "replacements": [
+    {
+     "before": "CODE = Path(__file__).resolve().parents[1]\nsys.path.insert(0, str(CODE))\nfrom bbdf_core import paths\nTOKENS = paths.resolve('bb_design', '03_Marketing/BBDF_DESIGN_SYSTEM/tokens')\n",
+     "after": "sys.path.insert(0, str(Path(__file__).resolve().parent))\nimport team_paths\nTOKENS = team_paths.brand('tokens')\n"
+    }
+   ]
+  },
+  {
+   "file": "tools/recording_archive.py",
+   "replacements": [
+    {
+     "before": "MEDIA=Path('C:/Users/benja/Dropbox/THE PERFORMANCE TEAM/Sound Recordings')\nCATALOG='recordings-catalog.json'\n",
+     "after": "import sys;sys.path.insert(0,str(Path(__file__).resolve().parent))\nimport team_paths\n_installation=team_paths.installation(strict=False)\nMEDIA=(_installation/'Sound Recordings') if _installation else None   # None until installation.json names the installation\nCATALOG='recordings-catalog.json'\nMIRROR=team_paths.registry(CATALOG)   # the small tracked catalog copy; the bank copy stays authoritative for media\n"
+    },
+    {
+     "before": "save(bank/CATALOG,catalog);save(MEDIA/CATALOG,catalog)",
+     "after": "save(bank/CATALOG,catalog);save(MIRROR,catalog)"
+    },
+    {
+     "before": "confined(src,[MEDIA,bank])",
+     "after": "confined(src,[r for r in (MEDIA,bank) if r])"
+    },
+    {
+     "before": "confined(p,[MEDIA,bank])",
+     "after": "confined(p,[r for r in (MEDIA,bank) if r])"
+    }
+   ]
+  },
+  {
+   "file": "tests/test_recording_archive.py",
+   "replacements": [
+    {
+     "before": "self.patch2=patch.object(ra,'MEDIA',self.media);self.patch2.start()\n",
+     "after": "self.patch2=patch.object(ra,'MEDIA',self.media);self.patch2.start()\n        self.patch3=patch.object(ra,'MIRROR',self.root/'registries/recordings-catalog.json');self.patch3.start()\n"
+    },
+    {
+     "before": "def tearDown(self):self.patch1.stop();self.patch2.stop();self.tmp.cleanup()",
+     "after": "def tearDown(self):self.patch1.stop();self.patch2.stop();self.patch3.stop();self.tmp.cleanup()"
+    }
+   ]
+  },
+  {
+   "file": "tools/home_inspection_library.py",
+   "replacements": [
+    {
+     "before": "from collections import Counter\n",
+     "after": "from collections import Counter\n\nsys.path.insert(0, str(Path(__file__).resolve().parent))\nimport team_paths\n"
+    },
+    {
+     "before": "def recording(query, team='C:/Users/benja/Dropbox/THE PERFORMANCE TEAM', limit=8):\n    \"\"\"Find originals through the mutable archive catalog without editing editions.\"\"\"\n    catalog_path=Path(team)/'Sound Recordings/recordings-catalog.json'\n",
+     "after": "def recording(query, team=None, limit=8):\n    \"\"\"Find originals through the mutable archive catalog without editing editions.\n\n    The catalog is a tracked registry of the checkout; team is accepted for call compatibility only.\n    \"\"\"\n    catalog_path=team_paths.registry('recordings-catalog.json')\n"
+    },
+    {
+     "before": "p=sub.add_parser('recording');p.add_argument('query');p.add_argument('--team',default='C:/Users/benja/Dropbox/THE PERFORMANCE TEAM');",
+     "after": "p=sub.add_parser('recording');p.add_argument('query');p.add_argument('--team',default=None);"
+    }
+   ]
+  },
+  {
+   "file": "production/sg010/contents_sg010.py",
+   "replacements": [
+    {
+     "before": "from bbdf_core import paths\n",
+     "after": "import team_paths\n"
+    },
+    {
+     "before": "_pal=json.loads((paths.resolve('bb_design','03_Marketing/BBDF_DESIGN_SYSTEM/tokens')/'palette.json').read_text(encoding='utf-8-sig'))['color']",
+     "after": "_pal=json.loads(team_paths.brand('tokens/palette.json').read_text(encoding='utf-8-sig'))['color']"
+    }
+   ]
+  },
+  {
+   "file": "production/sg010/walker_sg010.py",
+   "replacements": [
+    {
+     "before": "CODE = Path('C:/Users/benja/Dropbox/BEN_BALL/BB_CODE')\nsys.path[:0] = [str(CODE/'tools'), 'C:/Users/benja/.cache/home-inspection-pdf-tools',\n                str(CODE/'.scratch/property-505-r2')]\nimport pymupdf as fitz\n",
+     "after": "CODE = Path(__file__).resolve().parents[2]   # THE_PERFORMANCE_TEAM checkout root\nsys.path[:0] = [str(CODE/'tools'), str(CODE/'builder/property-505-r2')]\nimport team_paths\nteam_paths.ensure_pymupdf()\nimport home_inspection_storage as storage\nimport pymupdf as fitz\n"
+    },
+    {
+     "before": "PROP = Path('C:/Users/benja/Dropbox/THE PERFORMANCE TEAM/Property Reviews/505 Walker Ave')\nSG = Path('F:/SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Working Evidence/sg010-20260921')\n",
+     "after": "PROP = team_paths.installation()/'Property Reviews/505 Walker Ave'\nSG = storage.work_root('sg010-20260921')\n"
+    }
+   ]
+  },
+  {
+   "file": "production/sg010/qa_sg010.py",
+   "replacements": [
+    {
+     "before": "sys.path.insert(0,'C:/Users/benja/.cache/home-inspection-pdf-tools')\nimport pymupdf as fitz\n",
+     "after": "team_paths.ensure_pymupdf()\nimport pymupdf as fitz\n"
+    }
+   ]
+  },
+  {
+   "file": "production/sg010/cards_sg010.py",
+   "replacements": [
+    {
+     "before": "[(\"HERE/'field-cards/cards.json'\",\"HERE.parent/'sg009'/'field-cards/cards.json'\")]",
+     "after": "[(\"HERE/'field-cards/cards.json'\",\"HERE/'data/sg009/field-cards/cards.json'\")]"
+    },
+    {
+     "before": "(\"BASE=HERE/'field-cards'\",\"BASE=HERE.parent/'sg009'/'field-cards'\"),",
+     "after": "(\"BASE=HERE/'field-cards'\",\"BASE=HERE/'data/sg009/field-cards'\"),"
+    },
+    {
+     "before": "\"Builder modules live in BB_CODE/.scratch/sg010; the SG-010 driver is SG-010 Production/cards_sg010.py.\"",
+     "after": "\"Builder modules live in the THE_PERFORMANCE_TEAM checkout (builder/); the SG-010 driver is production/sg010/cards_sg010.py.\""
+    },
+    {
+     "before": "spec=importlib.util.spec_from_file_location('paint_sg009',REPO/'.scratch/sg009-color-language/paint.py')",
+     "after": "spec=importlib.util.spec_from_file_location('paint_sg009',BUILDER/'sg009-color-language/paint.py')"
+    }
+   ]
+  },
+  {
+   "file": "production/sg010/prepare_content.py",
+   "replacements": [
+    {
+     "before": "[read(REPO/'.scratch/recording-20260921-020522/source.json')]",
+     "after": "[read(HERE/'data/recording-20260921-020522-source.json')]"
+    },
+    {
+     "before": " catalog_path=BASE/'Sound Recordings/recordings-catalog.json'\n",
+     "after": " catalog_path=REG/'recordings-catalog.json'\n"
+    }
+   ]
+  },
+  {
+   "file": "production/sg010/rehash_recordings.py",
+   "replacements": [
+    {
+     "before": "CATALOG=BASE/'Sound Recordings/recordings-catalog.json'\n",
+     "after": "CATALOG=REG/'recordings-catalog.json'\n"
+    }
+   ]
+  },
+  {
+   "file": "production/sg010/publish_sg010.py",
+   "replacements": [
+    {
+     "before": "def staged(p):\n    q=PUB/Path(p).relative_to(TEAM);q.parent.mkdir(parents=True,exist_ok=True);return q\n",
+     "after": "REGDIR='_registries'   # staging folder for files whose live home is the checkout's registries/, not the installation\nROOT_REGISTRIES={'STUDY-GUIDE-EDITIONS.json','APPENDIX-VERSIONS.json'}\ndef staged(p):\n    p=Path(p)\n    q=PUB/REGDIR/p.relative_to(REG) if p.is_relative_to(REG) else PUB/p.relative_to(TEAM)\n    q.parent.mkdir(parents=True,exist_ok=True);return q\ndef target_of(p):\n    \"\"\"Live path of a staged file: registries live in the checkout, everything else in the installation.\"\"\"\n    rel=Path(p).relative_to(PUB)\n    return REG.joinpath(*rel.parts[1:]) if rel.parts[0]==REGDIR else TEAM/rel\ndef confine(t):\n    t=Path(t);return inside(t,REG) if t.resolve().is_relative_to(REG.resolve()) else inside(t,TEAM)\ndef backup_rel(t):\n    t=Path(t);return Path(REGDIR)/t.relative_to(REG) if t.is_relative_to(REG) else t.relative_to(TEAM)\ndef live_path(t):\n    \"\"\"Plans pinned before the separation name the registries at the installation root; they now live in the checkout.\"\"\"\n    t=Path(t)\n    if t.parent==TEAM and t.name in ROOT_REGISTRIES:return REG/t.name\n    if t==LIBRARY/'CURRENT.json':return LIBRARY_CURRENT\n    return t\n"
+    },
+    {
+     "before": "reg=read(TEAM/'STUDY-GUIDE-EDITIONS.json');reg.update(current_edition=",
+     "after": "reg=read(REG/'STUDY-GUIDE-EDITIONS.json');reg.update(current_edition="
+    },
+    {
+     "before": "stage_json(TEAM/'STUDY-GUIDE-EDITIONS.json',reg);",
+     "after": "stage_json(REG/'STUDY-GUIDE-EDITIONS.json',reg);"
+    },
+    {
+     "before": "ar=read(TEAM/'APPENDIX-VERSIONS.json');",
+     "after": "ar=read(REG/'APPENDIX-VERSIONS.json');"
+    },
+    {
+     "before": "stage_json(TEAM/'APPENDIX-VERSIONS.json',ar);",
+     "after": "stage_json(REG/'APPENDIX-VERSIONS.json',ar);"
+    },
+    {
+     "before": "registry=staged(TEAM/'STUDY-GUIDE-EDITIONS.json')\n    m.update(registry=str(TEAM/'STUDY-GUIDE-EDITIONS.json'),",
+     "after": "registry=staged(REG/'STUDY-GUIDE-EDITIONS.json')\n    m.update(registry=str(REG/'STUDY-GUIDE-EDITIONS.json'),"
+    },
+    {
+     "before": "assert sha(CURRENT/live['directory']['file'])==live['directory']['sha256'] and sha(TEAM/'STUDY-GUIDE-EDITIONS.json')==live['registry_sha256']",
+     "after": "assert sha(CURRENT/live['directory']['file'])==live['directory']['sha256'] and sha(REG/'STUDY-GUIDE-EDITIONS.json')==live['registry_sha256']"
+    },
+    {
+     "before": "t=TEAM/p.relative_to(PUB);inside(t,TEAM);before=",
+     "after": "t=target_of(p);confine(t);before="
+    },
+    {
+     "before": "keep={str(TEAM/p.relative_to(PUB)) for p in PUB.rglob('*') if p.is_file()}",
+     "after": "keep={str(target_of(p)) for p in PUB.rglob('*') if p.is_file()}"
+    },
+    {
+     "before": "s=inside(r['source'],PUB);t=inside(r['target'],TEAM);",
+     "after": "s=inside(r['source'],PUB);t=confine(r['target']);"
+    },
+    {
+     "before": "p=Path(r['target']);b=backup/p.relative_to(TEAM);cp(p,b)",
+     "after": "p=Path(r['target']);b=backup/backup_rel(p);cp(p,b)"
+    },
+    {
+     "before": "p=inside(r['target'],TEAM);assert (sha(p) if p.exists() else None)==r['before_sha256'];p.parent.mkdir",
+     "after": "p=confine(r['target']);assert (sha(p) if p.exists() else None)==r['before_sha256'];p.parent.mkdir"
+    },
+    {
+     "before": "plan=read(PLAN);assert read(LIBRARY/'CURRENT.json')['issue']==PARENT,'CURRENT.json already moved'",
+     "after": "plan=read(PLAN);assert read(LIBRARY_CURRENT)['issue']==PARENT,'CURRENT.json already moved'"
+    },
+    {
+     "before": "save(LIBRARY/'CURRENT.json',dict(issue=REV,",
+     "after": "save(LIBRARY_CURRENT,dict(issue=REV,"
+    },
+    {
+     "before": "for fn in ['STUDY-GUIDE-EDITIONS.json','APPENDIX-VERSIONS.json','TRAINING-DOCUMENT-MAP.md']:cp(TEAM/fn,data/fn)\n",
+     "after": "for fn in ['STUDY-GUIDE-EDITIONS.json','APPENDIX-VERSIONS.json']:cp(REG/fn,data/fn)\n    cp(TEAM/'TRAINING-DOCUMENT-MAP.md',data/'TRAINING-DOCUMENT-MAP.md')\n"
+    },
+    {
+     "before": "cp(LIBRARY/'CURRENT.json',data/'Library/CURRENT.json')",
+     "after": "cp(LIBRARY_CURRENT,data/'Library/CURRENT.json')"
+    },
+    {
+     "before": "for r in plan['writes']:assert sha(Path(r['target']))==r['sha256'],r['target']",
+     "after": "for r in plan['writes']:assert sha(live_path(r['target']))==r['sha256'],r['target']"
+    },
+    {
+     "before": "m=read(CURRENT/'_Maintenance/manifest.json');assert m['published'] and sha(TEAM/'STUDY-GUIDE-EDITIONS.json')==m['registry_sha256']",
+     "after": "m=read(CURRENT/'_Maintenance/manifest.json');assert m['published'] and sha(REG/'STUDY-GUIDE-EDITIONS.json')==m['registry_sha256']"
+    },
+    {
+     "before": "reg=read(TEAM/'STUDY-GUIDE-EDITIONS.json');assert reg['current_edition']=='SG-010'",
+     "after": "reg=read(REG/'STUDY-GUIDE-EDITIONS.json');assert reg['current_edition']=='SG-010'"
+    },
+    {
+     "before": "if r['before_sha256'] is not None:assert sha(b/Path(r['target']).relative_to(TEAM))==r['before_sha256']",
+     "after": "if r['before_sha256'] is not None:assert sha(b/backup_rel(r['target']))==r['before_sha256']"
+    },
+    {
+     "before": "package=LIBRARY/REV;cur=read(LIBRARY/'CURRENT.json');",
+     "after": "package=LIBRARY/REV;cur=read(LIBRARY_CURRENT);"
+    }
+   ]
+  }
+ ],
+ "dropped": {
+  "builder_snapshot": "Home Inspection Training/SG-010 Handoff/Builder Snapshot: not tracked (Ben ruling 2026-09-22); the live production scripts and builder/ are the code, the snapshot stays in the installation and the Seed Bank",
+  "scratch_modules_not_imported": [
+   "edition_inspection_layer",
+   "mark_maryland",
+   "card_inspection_drawings"
+  ],
+  "scratch_reason": "listed in CARRY MANIFEST as builder modules but not imported by any production script (static import or cards_sg010.load); both create folders at import time"
+ },
+ "amendments": [
+  {
+   "at": "2026-09-22T04:54:29+00:00",
+   "reason": "parents[] index miscount found by the import smoke test; REPO resolved to Dropbox instead of the checkout root",
+   "fixes": [
+    {
+     "file": "production/sg010/prepare.py",
+     "before": "REPO=HERE.parents[2]   # THE_PERFORMANCE_TEAM checkout root (production/sg010 -> production -> root)",
+     "after": "REPO=HERE.parents[1]   # THE_PERFORMANCE_TEAM checkout root (HERE=production/sg010; parents[0]=production; parents[1]=root)",
+     "sha256": "5d1f34afc10925a975a7e886b43317466ad4b2b92b88efe939fadb461cdc1782"
+    },
+    {
+     "file": "production/sg010/walker_sg010.py",
+     "before": "CODE = Path(__file__).resolve().parents[2]   # THE_PERFORMANCE_TEAM checkout root",
+     "after": "CODE = Path(__file__).resolve().parents[2]   # THE_PERFORMANCE_TEAM checkout root (__file__ is in production/sg010: parents[0]=sg010, [1]=production, [2]=root)",
+     "sha256": "8c8fe2db01c8ff4009432b1c2a167e6e6a30393a4fbfa3cfada97ce0e81d12df",
+     "note": "first amendment over-corrected this file-relative path; reverted to parents[2] (an import smoke test caught it)"
+    },
+    {
+     "file": "builder/prepare.py",
+     "before": "REPO=HERE.parents[1]",
+     "after": "REPO=HERE.parent   # THE_PERFORMANCE_TEAM checkout root (HERE=builder)",
+     "sha256": "b7516bf9fce2ec9a1c2bd861a65f787c07c22d6b1d75b7b230286f7e1a56db60"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,377 @@
+{
+  "checked_at": "2026-09-21T21:06:42.303783+00:00",
+  "new_sources": [
+    {
+      "name": "20260921-0614-52.4793553.mp4",
+      "source_path": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\20260921-0614-52.4793553.mp4",
+      "source_sha256": "009a2c2c39047963b9a24da6b27af778c2cb01c46e23e3dc7494f6eb83dafd17",
+      "size": 4342916495,
+      "mtime_ns": 1789980295000000000,
+      "id": "S34",
+      "recording_id": "R009a2c2c3904",
+      "date": "2026-09-21",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 990,
+            "height": 882
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "8998.805313",
+          "size": "4342916495"
+        }
+      },
+      "duration_seconds": 8998.805313,
+      "audio_evidence": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\intake\\S34\\Audio",
+      "machine_evidence_cache": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\intake\\S34\\Visual",
+      "status": "stable, hashed and readable; review pending",
+      "published": false
+    },
+    {
+      "name": "20260921-0852-08.6462659.mp4",
+      "source_path": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\20260921-0852-08.6462659.mp4",
+      "source_sha256": "6bd9539d3ebad1b5361765e10f5387130f822edacdb0bfc89efd3dea2154bb87",
+      "size": 2264765088,
+      "mtime_ns": 1789985611000000000,
+      "id": "S35",
+      "recording_id": "R6bd9539d3eba",
+      "date": "2026-09-21",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 966,
+            "height": 868
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "4878.506646",
+          "size": "2264765088"
+        }
+      },
+      "duration_seconds": 4878.506646,
+      "audio_evidence": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\intake\\S35\\Audio",
+      "machine_evidence_cache": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\intake\\S35\\Visual",
+      "status": "stable, hashed and readable; review pending",
+      "published": false
+    },
+    {
+      "name": "20260921-1017-10.4919007.mp4",
+      "source_path": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\20260921-1017-10.4919007.mp4",
+      "source_sha256": "e6da3a6100ac7f97b01234807281192b0ef94c158690060845c82b0b3c0a1f37",
+      "size": 993222766,
+      "mtime_ns": 1789988003000000000,
+      "id": "S36",
+      "recording_id": "Re6da3a6100ac",
+      "date": "2026-09-21",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 994,
+            "height": 832
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "2168.149313",
+          "size": "993222766"
+        }
+      },
+      "duration_seconds": 2168.149313,
+      "audio_evidence": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\intake\\S36\\Audio",
+      "machine_evidence_cache": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\intake\\S36\\Visual",
+      "status": "stable, hashed and readable; review pending",
+      "published": false
+    },
+    {
+      "name": "Recording 2026-09-21 070110.mp4",
+      "source_path": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\Recording 2026-09-21 070110.mp4",
+      "source_sha256": "51371bd68c3fb80791b2fe87853fb6f28ec8a650a2189bc6a3f3e9dfab037caa",
+      "size": 30691999,
+      "mtime_ns": 1789988462000000000,
+      "id": "S37",
+      "recording_id": "R51371bd68c3f",
+      "date": "2026-09-21",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1012,
+            "height": 746
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "74.047979",
+          "size": "30691999"
+        }
+      },
+      "duration_seconds": 74.047979,
+      "audio_evidence": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\intake\\S37\\Audio",
+      "machine_evidence_cache": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\intake\\S37\\Visual",
+      "status": "stable, hashed and readable; review pending",
+      "published": false
+    },
+    {
+      "id": "S38",
+      "recording_id": "Rd37a7149f40e",
+      "name": "20260920-0244-29.6601114.mp4",
+      "source_path": "F:\\SEED BANK\\RECORDINGS\\Home Inspection\\2026-09-20 - S38 - Hydronic and electric heating refrigeration and cooling lessons - Rd37a7149f40e.mp4",
+      "prior_source_path": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\20260920-0244-29.6601114.mp4",
+      "source_sha256": "d37a7149f40e6986ab19cfb468c583da10c99d0d642f1c9e835aab19f83bba99",
+      "size": 7265169346,
+      "mtime_ns": 1789892060000000000,
+      "date": "2026-09-20",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 776,
+            "height": 842
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "19785.855979",
+          "tags": {
+            "creation_time": "2026-09-20T02:44:34.000000Z"
+          }
+        }
+      },
+      "duration_seconds": 19785.855979,
+      "audio_evidence": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\intake\\S38\\Audio",
+      "machine_evidence_cache": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\intake\\S38\\Visual",
+      "topic": "Hydronic and electric heating, refrigeration and cooling lessons",
+      "status": "identified from sampled screens; full review pending",
+      "published": false
+    },
+    {
+      "id": "S39",
+      "recording_id": "R49353ce5bfa0",
+      "name": "2026-09-20 - S39 - Recovered interior floors stairs and fireplaces - R49353ce5bfa0.mp4",
+      "source_path": "F:\\SEED BANK\\RECORDINGS\\Home Inspection\\2026-09-20 - S39 - Recovered interior floors stairs and fireplaces - R49353ce5bfa0.mp4",
+      "source_sha256": "49353ce5bfa065beafd217d5d9c4a720f4e14f3a1cc6c96ea4e755ed544663ec",
+      "size": 4178290621,
+      "mtime_ns": 1790028246830912800,
+      "date": "2026-09-20",
+      "probe": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+            "profile": "Main",
+            "codec_type": "video",
+            "codec_tag_string": "avc1",
+            "codec_tag": "0x31637661",
+            "mime_codec_string": "avc1.4d001f",
+            "width": 998,
+            "height": 864,
+            "coded_width": 998,
+            "coded_height": 864,
+            "has_b_frames": 0,
+            "sample_aspect_ratio": "1:1",
+            "display_aspect_ratio": "499:432",
+            "pix_fmt": "yuv420p",
+            "level": 31,
+            "chroma_location": "left",
+            "field_order": "progressive",
+            "is_avc": "true",
+            "nal_length_size": "4",
+            "id": "0x1",
+            "r_frame_rate": "30/1",
+            "avg_frame_rate": "30/1",
+            "time_base": "1/30000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 257696000,
+            "duration": "8589.866667",
+            "bit_rate": "3692461",
+            "bits_per_raw_sample": "8",
+            "nb_frames": "257696",
+            "extradata_size": 53,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "VideoHandler"
+            }
+          },
+          {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "mime_codec_string": "mp4a.40.2",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 2,
+            "channel_layout": "stereo",
+            "bits_per_sample": 0,
+            "initial_padding": 0,
+            "id": "0x2",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 412307456,
+            "duration": "8589.738667",
+            "bit_rate": "192000",
+            "nb_frames": "402644",
+            "extradata_size": 2,
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "und",
+              "handler_name": "SoundHandler"
+            }
+          }
+        ],
+        "format": {
+          "filename": "F:\\SEED BANK\\RECORDINGS\\Home Inspection\\2026-09-20 - S39 - Recovered interior floors stairs and fireplaces - R49353ce5bfa0.mp4",
+          "nb_streams": 2,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+          "format_long_name": "QuickTime / MOV",
+          "start_time": "0.000000",
+          "duration": "8589.866667",
+          "size": "4178290621",
+          "bit_rate": "3891367",
+          "probe_score": 100,
+          "tags": {
+            "major_brand": "isom",
+            "minor_version": "512",
+            "compatible_brands": "isomiso2avc1mp41",
+            "title": "Recovered home inspection lesson - interior floors, stairs and fireplaces",
+            "encoder": "Lavf62.12.100",
+            "comment": "Index reconstructed from interrupted recording 20260920-2321-59.9933838.mp4. Original recording retained; see recovery receipt."
+          }
+        }
+      },
+      "duration_seconds": 8589.866667,
+      "audio_evidence": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\intake\\S39\\Audio",
+      "machine_evidence_cache": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\intake\\S39\\Visual",
+      "topic": "Recovered interior lessons: floors, stairways and fireplaces",
+      "status": "repaired; strict full decode passed; content incorporation pending",
+      "published": false,
+      "derived_from": {
+        "recording_id": "R4f902a2e300b",
+        "sha256": "4f902a2e300b82dcf4b00de8b69dc3cbe3d3daa768053408b481b31d0c70e871",
+        "path": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\20260920-2321-59.9933838.mp4"
+      },
+      "recovery_receipt": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\mp4-recovery-20260921\\RECOVERY RECEIPT.json"
+    }
+  ],
+  "aliases": [
+    {
+      "name": "20260920-2037-30.7704618.mp4",
+      "source_path": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\20260920-2037-30.7704618.mp4",
+      "source_sha256": "d9acf858195a3e588692dbc3d6cfe9d3783e76914e98eac9e46fb3ff37faaa84",
+      "size": 4146681116,
+      "mtime_ns": 1789945478000000000,
+      "alias_of": "S31"
+    },
+    {
+      "name": "Recording 2026-09-21 044719.mp4",
+      "source_path": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\Recording 2026-09-21 044719.mp4",
+      "source_sha256": "009a2c2c39047963b9a24da6b27af778c2cb01c46e23e3dc7494f6eb83dafd17",
+      "size": 4342916495,
+      "mtime_ns": 1789980295000000000,
+      "alias_of": "S34"
+    }
+  ],
+  "pending": [],
+  "checked": 7,
+  "candidate_count": 7,
+  "recovered_originals": [
+    {
+      "name": "20260920-2321-59.9933838.mp4",
+      "source_path": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\20260920-2321-59.9933838.mp4",
+      "source_sha256": "4f902a2e300b82dcf4b00de8b69dc3cbe3d3daa768053408b481b31d0c70e871",
+      "size": 4170872325,
+      "mtime_ns": 1789955115000000000,
+      "status": "interrupted original retained; separately repaired and verified as S39",
+      "probe_error": "[mov,mp4,m4a,3gp,3g2,mj2 @ 000001adc1c19640] moov atom not found\nC:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM\\Sound Recordings\\20260920-2321-59.9933838.mp4: Invalid data found when processing input",
+      "recovered_source_id": "S39",
+      "recovery_receipt": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\mp4-recovery-20260921\\RECOVERY RECEIPT.json"
+    }
+  ]
+}

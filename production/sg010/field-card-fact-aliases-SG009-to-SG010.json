@@ -1,0 +1,3027 @@
+{
+  "schema": "field-card-fact-aliases/1",
+  "previous_edition": "SG-009",
+  "current_edition": "SG-010",
+  "rule": "Every SG-009 card fact resolves to exactly one SG-010 fact (same chart id + row label slug). New SG-010 facts have no predecessor and are listed separately. Card IDs QC-001..QC-064 and area groups are unchanged.",
+  "previous_to_current": {
+    "SG-009:circuits:aluminum-branch-wiring": "SG-010:circuits:aluminum-branch-wiring",
+    "SG-009:circuits:cable-raceway": "SG-010:circuits:cable-raceway",
+    "SG-009:circuits:disconnect-function": "SG-010:circuits:disconnect-function",
+    "SG-009:circuits:knob-and-tube": "SG-010:circuits:knob-and-tube",
+    "SG-009:circuits:screening-limits": "SG-010:circuits:screening-limits",
+    "SG-009:circuits:shared-neutral": "SG-010:circuits:shared-neutral",
+    "SG-009:cooling:air-water-power": "SG-010:cooling:air-water-power",
+    "SG-009:cooling:operating-conditions": "SG-010:cooling:operating-conditions",
+    "SG-009:cooling:temperature-evidence": "SG-010:cooling:temperature-evidence",
+    "SG-009:devices:different-protection": "SG-010:devices:different-protection",
+    "SG-009:devices:location-and-use": "SG-010:devices:location-and-use",
+    "SG-009:devices:maryland-reporting": "SG-010:devices:maryland-reporting",
+    "SG-009:devices:operation-and-restoration": "SG-010:devices:operation-and-restoration",
+    "SG-009:devices:pv-and-generators": "SG-010:devices:pv-and-generators",
+    "SG-009:devices:recessed-lighting": "SG-010:devices:recessed-lighting",
+    "SG-009:dwv:before-and-during-flow": "SG-010:dwv:before-and-during-flow",
+    "SG-009:dwv:different-pumps": "SG-010:dwv:different-pumps",
+    "SG-009:dwv:safe-response-check": "SG-010:dwv:safe-response-check",
+    "SG-009:dwv:trap-and-vent": "SG-010:dwv:trap-and-vent",
+    "SG-009:dwv:visible-dwv": "SG-010:dwv:visible-dwv",
+    "SG-009:foundation_water:follow-drainage": "SG-010:foundation_water:follow-drainage",
+    "SG-009:foundation_water:identify-the-construction": "SG-010:foundation_water:identify-the-construction",
+    "SG-009:foundation_water:identify-the-crawl-strategy": "SG-010:foundation_water:identify-the-crawl-strategy",
+    "SG-009:foundation_water:inspect-interfaces": "SG-010:foundation_water:inspect-interfaces",
+    "SG-009:foundation_water:read-moisture-evidence": "SG-010:foundation_water:read-moisture-evidence",
+    "SG-009:foundation_water:respect-what-is-hidden": "SG-010:foundation_water:respect-what-is-hidden",
+    "SG-009:furnace_service:access-and-support": "SG-010:furnace_service:access-and-support",
+    "SG-009:furnace_service:circulating-air": "SG-010:furnace_service:circulating-air",
+    "SG-009:furnace_service:heat-exchanger-limit": "SG-010:furnace_service:heat-exchanger-limit",
+    "SG-009:furnace_service:legacy-vent-connector": "SG-010:furnace_service:legacy-vent-connector",
+    "SG-009:furnace_service:temperature-rise": "SG-010:furnace_service:temperature-rise",
+    "SG-009:furnace_service:vent-parts-and-route": "SG-010:furnace_service:vent-parts-and-route",
+    "SG-009:garage:appliance-protection": "SG-010:garage:appliance-protection",
+    "SG-009:garage:dwelling-separation": "SG-010:garage:dwelling-separation",
+    "SG-009:garage:mechanism-first": "SG-010:garage:mechanism-first",
+    "SG-009:garage:passage-door": "SG-010:garage:passage-door",
+    "SG-009:garage:record-the-result": "SG-010:garage:record-the-result",
+    "SG-009:garage:two-reversal-functions": "SG-010:garage:two-reversal-functions",
+    "SG-009:gas:bonding-evidence": "SG-010:gas:bonding-evidence",
+    "SG-009:gas:identify-the-product": "SG-010:gas:identify-the-product",
+    "SG-009:gas:maryland-report-duty": "SG-010:gas:maryland-report-duty",
+    "SG-009:gas:visible-installation": "SG-010:gas:visible-installation",
+    "SG-009:gas_heat:normal-control-sequence": "SG-010:gas_heat:normal-control-sequence",
+    "SG-009:gas_heat:two-air-paths": "SG-010:gas_heat:two-air-paths",
+    "SG-009:gas_heat:warning-signs": "SG-010:gas_heat:warning-signs",
+    "SG-009:heatpumps:backup-balance-point": "SG-010:heatpumps:backup-balance-point",
+    "SG-009:heatpumps:cooling-heating": "SG-010:heatpumps:cooling-heating",
+    "SG-009:heatpumps:mode-record": "SG-010:heatpumps:mode-record",
+    "SG-009:load_paths:altered-load-paths": "SG-010:load_paths:altered-load-paths",
+    "SG-009:load_paths:follow-the-interface": "SG-010:load_paths:follow-the-interface",
+    "SG-009:load_paths:identify-before-sizing": "SG-010:load_paths:identify-before-sizing",
+    "SG-009:method:choose-an-action": "SG-010:method:choose-an-action",
+    "SG-009:method:keep-the-client-record": "SG-010:method:keep-the-client-record",
+    "SG-009:method:make-the-limit-useful": "SG-010:method:make-the-limit-useful",
+    "SG-009:method:separate-the-statements": "SG-010:method:separate-the-statements",
+    "SG-009:method:set-the-route": "SG-010:method:set-the-route",
+    "SG-009:method:use-the-right-level": "SG-010:method:use-the-right-level",
+    "SG-009:movement:crack-pattern": "SG-010:movement:crack-pattern",
+    "SG-009:movement:floor-vocabulary": "SG-010:movement:floor-vocabulary",
+    "SG-009:movement:masonry-role": "SG-010:movement:masonry-role",
+    "SG-009:movement:time-and-action": "SG-010:movement:time-and-action",
+    "SG-009:movement:wall-shape": "SG-010:movement:wall-shape",
+    "SG-009:oil_heat:burner-assembly": "SG-010:oil_heat:burner-assembly",
+    "SG-009:oil_heat:draft-control": "SG-010:oil_heat:draft-control",
+    "SG-009:oil_heat:earlier-storage": "SG-010:oil_heat:earlier-storage",
+    "SG-009:oil_heat:service-and-records": "SG-010:oil_heat:service-and-records",
+    "SG-009:oil_heat:storage-and-lines": "SG-010:oil_heat:storage-and-lines",
+    "SG-009:openings:doors-and-exits": "SG-010:openings:doors-and-exits",
+    "SG-009:openings:follow-water-support": "SG-010:openings:follow-water-support",
+    "SG-009:openings:name-the-component": "SG-010:openings:name-the-component",
+    "SG-009:openings:operate-appropriately": "SG-010:openings:operate-appropriately",
+    "SG-009:openings:read-the-glazing": "SG-010:openings:read-the-glazing",
+    "SG-009:roof_cover:beyond-the-gutter": "SG-010:roof_cover:beyond-the-gutter",
+    "SG-009:roof_cover:chimney-parts": "SG-010:roof_cover:chimney-parts",
+    "SG-009:roof_cover:cover-condition": "SG-010:roof_cover:cover-condition",
+    "SG-009:roof_cover:flashing-sequence": "SG-010:roof_cover:flashing-sequence",
+    "SG-009:roof_cover:form-slope-access": "SG-010:roof_cover:form-slope-access",
+    "SG-009:roof_cover:penetrations": "SG-010:roof_cover:penetrations",
+    "SG-009:roof_structure:deck-and-loading": "SG-010:roof_structure:deck-and-loading",
+    "SG-009:roof_structure:ridge-and-ties": "SG-010:roof_structure:ridge-and-ties",
+    "SG-009:roof_structure:terminations-and-wetting": "SG-010:roof_structure:terminations-and-wetting",
+    "SG-009:roof_structure:thermal-boundary": "SG-010:roof_structure:thermal-boundary",
+    "SG-009:roof_structure:trusses": "SG-010:roof_structure:trusses",
+    "SG-009:service:before-panel-access": "SG-010:service:before-panel-access",
+    "SG-009:service:conductor-selection": "SG-010:service:conductor-selection",
+    "SG-009:service:neutral-and-grounding": "SG-010:service:neutral-and-grounding",
+    "SG-009:service:read-the-assembly": "SG-010:service:read-the-assembly",
+    "SG-009:service:report-precisely": "SG-010:service:report-precisely",
+    "SG-009:service:trace-the-service": "SG-010:service:trace-the-service",
+    "SG-009:site_decks:deck-porch-balcony": "SG-010:site_decks:deck-porch-balcony",
+    "SG-009:site_decks:grade-and-paving": "SG-010:site_decks:grade-and-paving",
+    "SG-009:site_decks:ledger-and-lateral-path": "SG-010:site_decks:ledger-and-lateral-path",
+    "SG-009:site_decks:retaining-walls": "SG-010:site_decks:retaining-walls",
+    "SG-009:site_decks:stairs-handrails-guards": "SG-010:site_decks:stairs-handrails-guards",
+    "SG-009:site_decks:window-wells": "SG-010:site_decks:window-wells",
+    "SG-009:walls:roof-wall-junction": "SG-010:walls:roof-wall-junction",
+    "SG-009:walls:stucco-and-eifs": "SG-010:walls:stucco-and-eifs",
+    "SG-009:walls:trim-and-coatings": "SG-010:walls:trim-and-coatings",
+    "SG-009:walls:veneer-and-openings": "SG-010:walls:veneer-and-openings",
+    "SG-009:walls:wall-assembly": "SG-010:walls:wall-assembly",
+    "SG-009:walls:wood-panels-vinyl-metal": "SG-010:walls:wood-panels-vinyl-metal",
+    "SG-009:water:backflow-protection": "SG-010:water:backflow-protection",
+    "SG-009:water:material-and-use": "SG-010:water:material-and-use",
+    "SG-009:water:public-private-supply": "SG-010:water:public-private-supply",
+    "SG-009:water:wet-surface": "SG-010:water:wet-surface",
+    "SG-009:water_heat:distinct-devices": "SG-010:water_heat:distinct-devices",
+    "SG-009:water_heat:distribution-controls": "SG-010:water_heat:distribution-controls",
+    "SG-009:water_heat:identity-and-date": "SG-010:water_heat:identity-and-date",
+    "SG-009:water_heat:installation-context": "SG-010:water_heat:installation-context",
+    "SG-009:water_heat:relief-function": "SG-010:water_heat:relief-function"
+  },
+  "details": {
+    "SG-009:circuits:aluminum-branch-wiring": {
+      "current": "SG-010:circuits:aluminum-branch-wiring",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 19,
+        "current": 19
+      }
+    },
+    "SG-009:circuits:cable-raceway": {
+      "current": "SG-010:circuits:cable-raceway",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 19,
+        "current": 19
+      }
+    },
+    "SG-009:circuits:disconnect-function": {
+      "current": "SG-010:circuits:disconnect-function",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 19,
+        "current": 19
+      }
+    },
+    "SG-009:circuits:knob-and-tube": {
+      "current": "SG-010:circuits:knob-and-tube",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 19,
+        "current": 19
+      }
+    },
+    "SG-009:circuits:screening-limits": {
+      "current": "SG-010:circuits:screening-limits",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 19,
+        "current": 19
+      }
+    },
+    "SG-009:circuits:shared-neutral": {
+      "current": "SG-010:circuits:shared-neutral",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 19,
+        "current": 19
+      }
+    },
+    "SG-009:cooling:air-water-power": {
+      "current": "SG-010:cooling:air-water-power",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 24,
+        "current": 25
+      }
+    },
+    "SG-009:cooling:operating-conditions": {
+      "current": "SG-010:cooling:operating-conditions",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 24,
+        "current": 25
+      }
+    },
+    "SG-009:cooling:temperature-evidence": {
+      "current": "SG-010:cooling:temperature-evidence",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 24,
+        "current": 25
+      }
+    },
+    "SG-009:devices:different-protection": {
+      "current": "SG-010:devices:different-protection",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 20,
+        "current": 20
+      }
+    },
+    "SG-009:devices:location-and-use": {
+      "current": "SG-010:devices:location-and-use",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 20,
+        "current": 20
+      }
+    },
+    "SG-009:devices:maryland-reporting": {
+      "current": "SG-010:devices:maryland-reporting",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 20,
+        "current": 20
+      }
+    },
+    "SG-009:devices:operation-and-restoration": {
+      "current": "SG-010:devices:operation-and-restoration",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 20,
+        "current": 20
+      }
+    },
+    "SG-009:devices:pv-and-generators": {
+      "current": "SG-010:devices:pv-and-generators",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 20,
+        "current": 20
+      }
+    },
+    "SG-009:devices:recessed-lighting": {
+      "current": "SG-010:devices:recessed-lighting",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 20,
+        "current": 20
+      }
+    },
+    "SG-009:dwv:before-and-during-flow": {
+      "current": "SG-010:dwv:before-and-during-flow",
+      "status": "same row label; SG-010 text revised",
+      "printed_page": {
+        "previous": 15,
+        "current": 15
+      }
+    },
+    "SG-009:dwv:different-pumps": {
+      "current": "SG-010:dwv:different-pumps",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 15,
+        "current": 15
+      }
+    },
+    "SG-009:dwv:safe-response-check": {
+      "current": "SG-010:dwv:safe-response-check",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 15,
+        "current": 15
+      }
+    },
+    "SG-009:dwv:trap-and-vent": {
+      "current": "SG-010:dwv:trap-and-vent",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 15,
+        "current": 15
+      }
+    },
+    "SG-009:dwv:visible-dwv": {
+      "current": "SG-010:dwv:visible-dwv",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 15,
+        "current": 15
+      }
+    },
+    "SG-009:foundation_water:follow-drainage": {
+      "current": "SG-010:foundation_water:follow-drainage",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 5,
+        "current": 5
+      }
+    },
+    "SG-009:foundation_water:identify-the-construction": {
+      "current": "SG-010:foundation_water:identify-the-construction",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 5,
+        "current": 5
+      }
+    },
+    "SG-009:foundation_water:identify-the-crawl-strategy": {
+      "current": "SG-010:foundation_water:identify-the-crawl-strategy",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 5,
+        "current": 5
+      }
+    },
+    "SG-009:foundation_water:inspect-interfaces": {
+      "current": "SG-010:foundation_water:inspect-interfaces",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 5,
+        "current": 5
+      }
+    },
+    "SG-009:foundation_water:read-moisture-evidence": {
+      "current": "SG-010:foundation_water:read-moisture-evidence",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 5,
+        "current": 5
+      }
+    },
+    "SG-009:foundation_water:respect-what-is-hidden": {
+      "current": "SG-010:foundation_water:respect-what-is-hidden",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 5,
+        "current": 5
+      }
+    },
+    "SG-009:furnace_service:access-and-support": {
+      "current": "SG-010:furnace_service:access-and-support",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 22,
+        "current": 22
+      }
+    },
+    "SG-009:furnace_service:circulating-air": {
+      "current": "SG-010:furnace_service:circulating-air",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 22,
+        "current": 22
+      }
+    },
+    "SG-009:furnace_service:heat-exchanger-limit": {
+      "current": "SG-010:furnace_service:heat-exchanger-limit",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 22,
+        "current": 22
+      }
+    },
+    "SG-009:furnace_service:legacy-vent-connector": {
+      "current": "SG-010:furnace_service:legacy-vent-connector",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 22,
+        "current": 22
+      }
+    },
+    "SG-009:furnace_service:temperature-rise": {
+      "current": "SG-010:furnace_service:temperature-rise",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 22,
+        "current": 22
+      }
+    },
+    "SG-009:furnace_service:vent-parts-and-route": {
+      "current": "SG-010:furnace_service:vent-parts-and-route",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 22,
+        "current": 22
+      }
+    },
+    "SG-009:garage:appliance-protection": {
+      "current": "SG-010:garage:appliance-protection",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 12,
+        "current": 12
+      }
+    },
+    "SG-009:garage:dwelling-separation": {
+      "current": "SG-010:garage:dwelling-separation",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 12,
+        "current": 12
+      }
+    },
+    "SG-009:garage:mechanism-first": {
+      "current": "SG-010:garage:mechanism-first",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 12,
+        "current": 12
+      }
+    },
+    "SG-009:garage:passage-door": {
+      "current": "SG-010:garage:passage-door",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 12,
+        "current": 12
+      }
+    },
+    "SG-009:garage:record-the-result": {
+      "current": "SG-010:garage:record-the-result",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 12,
+        "current": 12
+      }
+    },
+    "SG-009:garage:two-reversal-functions": {
+      "current": "SG-010:garage:two-reversal-functions",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 12,
+        "current": 12
+      }
+    },
+    "SG-009:gas:bonding-evidence": {
+      "current": "SG-010:gas:bonding-evidence",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 17,
+        "current": 17
+      }
+    },
+    "SG-009:gas:identify-the-product": {
+      "current": "SG-010:gas:identify-the-product",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 17,
+        "current": 17
+      }
+    },
+    "SG-009:gas:maryland-report-duty": {
+      "current": "SG-010:gas:maryland-report-duty",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 17,
+        "current": 17
+      }
+    },
+    "SG-009:gas:visible-installation": {
+      "current": "SG-010:gas:visible-installation",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 17,
+        "current": 17
+      }
+    },
+    "SG-009:gas_heat:normal-control-sequence": {
+      "current": "SG-010:gas_heat:normal-control-sequence",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 21,
+        "current": 21
+      }
+    },
+    "SG-009:gas_heat:two-air-paths": {
+      "current": "SG-010:gas_heat:two-air-paths",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 21,
+        "current": 21
+      }
+    },
+    "SG-009:gas_heat:warning-signs": {
+      "current": "SG-010:gas_heat:warning-signs",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 21,
+        "current": 21
+      }
+    },
+    "SG-009:heatpumps:backup-balance-point": {
+      "current": "SG-010:heatpumps:backup-balance-point",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 25,
+        "current": 26
+      }
+    },
+    "SG-009:heatpumps:cooling-heating": {
+      "current": "SG-010:heatpumps:cooling-heating",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 25,
+        "current": 26
+      }
+    },
+    "SG-009:heatpumps:mode-record": {
+      "current": "SG-010:heatpumps:mode-record",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 25,
+        "current": 26
+      }
+    },
+    "SG-009:load_paths:altered-load-paths": {
+      "current": "SG-010:load_paths:altered-load-paths",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 6,
+        "current": 6
+      }
+    },
+    "SG-009:load_paths:follow-the-interface": {
+      "current": "SG-010:load_paths:follow-the-interface",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 6,
+        "current": 6
+      }
+    },
+    "SG-009:load_paths:identify-before-sizing": {
+      "current": "SG-010:load_paths:identify-before-sizing",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 6,
+        "current": 6
+      }
+    },
+    "SG-009:method:choose-an-action": {
+      "current": "SG-010:method:choose-an-action",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 4,
+        "current": 4
+      }
+    },
+    "SG-009:method:keep-the-client-record": {
+      "current": "SG-010:method:keep-the-client-record",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 4,
+        "current": 4
+      }
+    },
+    "SG-009:method:make-the-limit-useful": {
+      "current": "SG-010:method:make-the-limit-useful",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 4,
+        "current": 4
+      }
+    },
+    "SG-009:method:separate-the-statements": {
+      "current": "SG-010:method:separate-the-statements",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 4,
+        "current": 4
+      }
+    },
+    "SG-009:method:set-the-route": {
+      "current": "SG-010:method:set-the-route",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 4,
+        "current": 4
+      }
+    },
+    "SG-009:method:use-the-right-level": {
+      "current": "SG-010:method:use-the-right-level",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 4,
+        "current": 4
+      }
+    },
+    "SG-009:movement:crack-pattern": {
+      "current": "SG-010:movement:crack-pattern",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 7,
+        "current": 7
+      }
+    },
+    "SG-009:movement:floor-vocabulary": {
+      "current": "SG-010:movement:floor-vocabulary",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 7,
+        "current": 7
+      }
+    },
+    "SG-009:movement:masonry-role": {
+      "current": "SG-010:movement:masonry-role",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 7,
+        "current": 7
+      }
+    },
+    "SG-009:movement:time-and-action": {
+      "current": "SG-010:movement:time-and-action",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 7,
+        "current": 7
+      }
+    },
+    "SG-009:movement:wall-shape": {
+      "current": "SG-010:movement:wall-shape",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 7,
+        "current": 7
+      }
+    },
+    "SG-009:oil_heat:burner-assembly": {
+      "current": "SG-010:oil_heat:burner-assembly",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 23,
+        "current": 23
+      }
+    },
+    "SG-009:oil_heat:draft-control": {
+      "current": "SG-010:oil_heat:draft-control",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 23,
+        "current": 23
+      }
+    },
+    "SG-009:oil_heat:earlier-storage": {
+      "current": "SG-010:oil_heat:earlier-storage",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 23,
+        "current": 23
+      }
+    },
+    "SG-009:oil_heat:service-and-records": {
+      "current": "SG-010:oil_heat:service-and-records",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 23,
+        "current": 23
+      }
+    },
+    "SG-009:oil_heat:storage-and-lines": {
+      "current": "SG-010:oil_heat:storage-and-lines",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 23,
+        "current": 23
+      }
+    },
+    "SG-009:openings:doors-and-exits": {
+      "current": "SG-010:openings:doors-and-exits",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 10,
+        "current": 10
+      }
+    },
+    "SG-009:openings:follow-water-support": {
+      "current": "SG-010:openings:follow-water-support",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 10,
+        "current": 10
+      }
+    },
+    "SG-009:openings:name-the-component": {
+      "current": "SG-010:openings:name-the-component",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 10,
+        "current": 10
+      }
+    },
+    "SG-009:openings:operate-appropriately": {
+      "current": "SG-010:openings:operate-appropriately",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 10,
+        "current": 10
+      }
+    },
+    "SG-009:openings:read-the-glazing": {
+      "current": "SG-010:openings:read-the-glazing",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 10,
+        "current": 10
+      }
+    },
+    "SG-009:roof_cover:beyond-the-gutter": {
+      "current": "SG-010:roof_cover:beyond-the-gutter",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 13,
+        "current": 13
+      }
+    },
+    "SG-009:roof_cover:chimney-parts": {
+      "current": "SG-010:roof_cover:chimney-parts",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 13,
+        "current": 13
+      }
+    },
+    "SG-009:roof_cover:cover-condition": {
+      "current": "SG-010:roof_cover:cover-condition",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 13,
+        "current": 13
+      }
+    },
+    "SG-009:roof_cover:flashing-sequence": {
+      "current": "SG-010:roof_cover:flashing-sequence",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 13,
+        "current": 13
+      }
+    },
+    "SG-009:roof_cover:form-slope-access": {
+      "current": "SG-010:roof_cover:form-slope-access",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 13,
+        "current": 13
+      }
+    },
+    "SG-009:roof_cover:penetrations": {
+      "current": "SG-010:roof_cover:penetrations",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 13,
+        "current": 13
+      }
+    },
+    "SG-009:roof_structure:deck-and-loading": {
+      "current": "SG-010:roof_structure:deck-and-loading",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 8,
+        "current": 8
+      }
+    },
+    "SG-009:roof_structure:ridge-and-ties": {
+      "current": "SG-010:roof_structure:ridge-and-ties",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 8,
+        "current": 8
+      }
+    },
+    "SG-009:roof_structure:terminations-and-wetting": {
+      "current": "SG-010:roof_structure:terminations-and-wetting",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 8,
+        "current": 8
+      }
+    },
+    "SG-009:roof_structure:thermal-boundary": {
+      "current": "SG-010:roof_structure:thermal-boundary",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 8,
+        "current": 8
+      }
+    },
+    "SG-009:roof_structure:trusses": {
+      "current": "SG-010:roof_structure:trusses",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 8,
+        "current": 8
+      }
+    },
+    "SG-009:service:before-panel-access": {
+      "current": "SG-010:service:before-panel-access",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 18,
+        "current": 18
+      }
+    },
+    "SG-009:service:conductor-selection": {
+      "current": "SG-010:service:conductor-selection",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 18,
+        "current": 18
+      }
+    },
+    "SG-009:service:neutral-and-grounding": {
+      "current": "SG-010:service:neutral-and-grounding",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 18,
+        "current": 18
+      }
+    },
+    "SG-009:service:read-the-assembly": {
+      "current": "SG-010:service:read-the-assembly",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 18,
+        "current": 18
+      }
+    },
+    "SG-009:service:report-precisely": {
+      "current": "SG-010:service:report-precisely",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 18,
+        "current": 18
+      }
+    },
+    "SG-009:service:trace-the-service": {
+      "current": "SG-010:service:trace-the-service",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 18,
+        "current": 18
+      }
+    },
+    "SG-009:site_decks:deck-porch-balcony": {
+      "current": "SG-010:site_decks:deck-porch-balcony",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 11,
+        "current": 11
+      }
+    },
+    "SG-009:site_decks:grade-and-paving": {
+      "current": "SG-010:site_decks:grade-and-paving",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 11,
+        "current": 11
+      }
+    },
+    "SG-009:site_decks:ledger-and-lateral-path": {
+      "current": "SG-010:site_decks:ledger-and-lateral-path",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 11,
+        "current": 11
+      }
+    },
+    "SG-009:site_decks:retaining-walls": {
+      "current": "SG-010:site_decks:retaining-walls",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 11,
+        "current": 11
+      }
+    },
+    "SG-009:site_decks:stairs-handrails-guards": {
+      "current": "SG-010:site_decks:stairs-handrails-guards",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 11,
+        "current": 11
+      }
+    },
+    "SG-009:site_decks:window-wells": {
+      "current": "SG-010:site_decks:window-wells",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 11,
+        "current": 11
+      }
+    },
+    "SG-009:walls:roof-wall-junction": {
+      "current": "SG-010:walls:roof-wall-junction",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 9,
+        "current": 9
+      }
+    },
+    "SG-009:walls:stucco-and-eifs": {
+      "current": "SG-010:walls:stucco-and-eifs",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 9,
+        "current": 9
+      }
+    },
+    "SG-009:walls:trim-and-coatings": {
+      "current": "SG-010:walls:trim-and-coatings",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 9,
+        "current": 9
+      }
+    },
+    "SG-009:walls:veneer-and-openings": {
+      "current": "SG-010:walls:veneer-and-openings",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 9,
+        "current": 9
+      }
+    },
+    "SG-009:walls:wall-assembly": {
+      "current": "SG-010:walls:wall-assembly",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 9,
+        "current": 9
+      }
+    },
+    "SG-009:walls:wood-panels-vinyl-metal": {
+      "current": "SG-010:walls:wood-panels-vinyl-metal",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 9,
+        "current": 9
+      }
+    },
+    "SG-009:water:backflow-protection": {
+      "current": "SG-010:water:backflow-protection",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 14,
+        "current": 14
+      }
+    },
+    "SG-009:water:material-and-use": {
+      "current": "SG-010:water:material-and-use",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 14,
+        "current": 14
+      }
+    },
+    "SG-009:water:public-private-supply": {
+      "current": "SG-010:water:public-private-supply",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 14,
+        "current": 14
+      }
+    },
+    "SG-009:water:wet-surface": {
+      "current": "SG-010:water:wet-surface",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 14,
+        "current": 14
+      }
+    },
+    "SG-009:water_heat:distinct-devices": {
+      "current": "SG-010:water_heat:distinct-devices",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 16,
+        "current": 16
+      }
+    },
+    "SG-009:water_heat:distribution-controls": {
+      "current": "SG-010:water_heat:distribution-controls",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 16,
+        "current": 16
+      }
+    },
+    "SG-009:water_heat:identity-and-date": {
+      "current": "SG-010:water_heat:identity-and-date",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 16,
+        "current": 16
+      }
+    },
+    "SG-009:water_heat:installation-context": {
+      "current": "SG-010:water_heat:installation-context",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 16,
+        "current": 16
+      }
+    },
+    "SG-009:water_heat:relief-function": {
+      "current": "SG-010:water_heat:relief-function",
+      "status": "unchanged row",
+      "printed_page": {
+        "previous": 16,
+        "current": 16
+      }
+    }
+  },
+  "new_sg010_facts": {
+    "SG-010:appliances:basin-disposal": {
+      "cards": [
+        "QC-056"
+      ],
+      "row": [
+        "Basin / disposal",
+        "Observe visible joints before, during and after supervised fill/drain. Check accessible waste and electrical connections.",
+        "Do not load to overflow, reach into a disposal or infer an old stain is active leakage."
+      ]
+    },
+    "SG-010:appliances:bath-return-below": {
+      "cards": [
+        "QC-050"
+      ],
+      "row": [
+        "Bath / return below",
+        "Separate hot/cold, flow, drainage and leakage. Return below fixtures after safe operation.",
+        "Visible tile or a dry short test does not verify concealed waterproofing."
+      ]
+    },
+    "SG-010:appliances:dishwasher": {
+      "cards": [
+        "QC-053"
+      ],
+      "row": [
+        "Dishwasher",
+        "Observe primary-function cycle and accessible drainage; record stage reached, connection and loop/air-gap evidence.",
+        "Do not assume a hidden factory loop or leave a running unit unattended. Match model and local rule."
+      ]
+    },
+    "SG-010:appliances:laundry-exhaust": {
+      "cards": [
+        "QC-054",
+        "QC-063"
+      ],
+      "row": [
+        "Laundry / exhaust",
+        "Check accessible hoses, duct, termination and lint. Arrester and expansion control are different devices.",
+        "Braided hose is not permanent. Both dryer fuels carry lint/fire risk; CO is a combustion concern."
+      ]
+    },
+    "SG-010:hydronic_electric:heat-pump-backup": {
+      "cards": [
+        "QC-033"
+      ],
+      "row": [
+        "Heat pump / backup",
+        "Identify model and mode; distinguish moved heat from auxiliary resistance heat.",
+        "Record conditions and limits; do not force controls or infer capacity from temperature alone."
+      ]
+    },
+    "SG-010:hydronic_electric:hot-water": {
+      "cards": [
+        "QC-025"
+      ],
+      "row": [
+        "Hot water",
+        "Boiler / expansion / pump or gravity / zones / radiators or radiant loop.",
+        "Record visible pressure, leakage and normal response; use actual appliance data."
+      ]
+    },
+    "SG-010:hydronic_electric:hydro-air": {
+      "cards": [
+        "QC-033"
+      ],
+      "row": [
+        "Hydro-air",
+        "Water heating coil + blower; refrigerant coil may share the cabinet.",
+        "Trace the correct fluid, control and condensate path."
+      ]
+    },
+    "SG-010:insulation:find-the-boundary": {
+      "cards": [
+        "QC-027",
+        "QC-060"
+      ],
+      "row": [
+        "Find the boundary",
+        "Identify ceiling versus roofline, floor versus crawl perimeter and the conditioned spaces.",
+        "No blanket missing-vent or uninsulated-framing conclusion."
+      ]
+    },
+    "SG-010:insulation:respect-material-access": {
+      "cards": [
+        "QC-057"
+      ],
+      "row": [
+        "Respect material / access",
+        "Suspected vermiculite, unsafe footing, exposed wiring or inaccessible regions change the method.",
+        "Leave suspect material undisturbed; record extent and obtain appropriate follow-up."
+      ]
+    },
+    "SG-010:insulation:separate-controls": {
+      "cards": [
+        "QC-027",
+        "QC-060"
+      ],
+      "row": [
+        "Separate controls",
+        "Insulation slows heat; an air barrier limits airflow; a vapor retarder limits diffusion.",
+        "Position and permeability depend on climate and the whole assembly."
+      ]
+    },
+    "SG-010:insulation:trace-ventilation": {
+      "cards": [
+        "QC-060",
+        "QC-063"
+      ],
+      "row": [
+        "Trace ventilation",
+        "Follow intake, outlet, baffles and the actual fan/duct/termination.",
+        "Net free area is product-specific. Powered airflow can interact with conditioned space and combustion."
+      ]
+    },
+    "SG-010:interior_routes:doors": {
+      "cards": [
+        "QC-018",
+        "QC-045"
+      ],
+      "row": [
+        "Doors",
+        "Operate each accessible door; hinges, latch, lock orientation, damage behind the door.",
+        "A lock that traps or needs a key to exit is a safety concern."
+      ]
+    },
+    "SG-010:interior_routes:escape-opening": {
+      "cards": [
+        "QC-006"
+      ],
+      "row": [
+        "Escape opening",
+        "Operate fully; clear opening, sill, well, ladder, bars and covers release without key or tool.",
+        "Compare with the course values; for an existing house, report an impaired route as a safety concern."
+      ]
+    },
+    "SG-010:interior_routes:floors": {
+      "cards": [
+        "QC-050"
+      ],
+      "row": [
+        "Floors",
+        "Name the finish layer; soft, lifted or stained areas at wet fixtures; what coverings hide.",
+        "Suspect older resilient tile stays undisturbed."
+      ]
+    },
+    "SG-010:interior_routes:gas-factory-built": {
+      "cards": [
+        "QC-064"
+      ],
+      "row": [
+        "Gas / factory-built",
+        "Label, vent type, damper held open for gas logs, vent-free rating plate, insert referral.",
+        "Match the log set to the firebox listing. Record normal-control operation only."
+      ]
+    },
+    "SG-010:interior_routes:masonry-hearth": {
+      "cards": [
+        "QC-064"
+      ],
+      "row": [
+        "Masonry hearth",
+        "Facing, hearth extension, clearances, firebox, damper, visible flue.",
+        "Flue not visible: say so and refer. Do not light fires."
+      ]
+    },
+    "SG-010:interior_routes:safety-glazing": {
+      "cards": [
+        "QC-044"
+      ],
+      "row": [
+        "Safety glazing",
+        "Hazardous location first; then a permanent mark on each pane.",
+        "No mark means unverified. Older glass is a safety concern, not a code finding."
+      ]
+    },
+    "SG-010:interior_routes:stairs-guards": {
+      "cards": [
+        "QC-046"
+      ],
+      "row": [
+        "Stairs / guards",
+        "Uniform risers, graspable continuous rail, guard at the open side, headroom, winders, light.",
+        "Record measured values; older balusters: note temporary protection rather than a blanket replacement."
+      ]
+    },
+    "SG-010:life_safety:fan-stair-route": {
+      "cards": [
+        "QC-046"
+      ],
+      "row": [
+        "Fan / stair route",
+        "Record insecure support, headroom, handrails, guards and impaired escape.",
+        "Do not operate unstable equipment or load-test suspect guards."
+      ]
+    },
+    "SG-010:life_safety:gfci-controls": {
+      "cards": [
+        "QC-023",
+        "QC-047"
+      ],
+      "row": [
+        "GFCI / controls",
+        "Record protection, response, reset location and restored state.",
+        "Upstream protection can serve an outlet without buttons; operation does not certify hidden wiring."
+      ]
+    },
+    "SG-010:life_safety:smoke-co": {
+      "cards": [
+        "QC-047"
+      ],
+      "row": [
+        "Smoke / CO",
+        "Record the two functions separately: location, visible type, power and date.",
+        "A button test is not a calibrated sensitivity test. Missing protection needs a defined action."
+      ]
+    },
+    "SG-010:scope:before-access": {
+      "cards": [
+        "QC-001"
+      ],
+      "row": [
+        "Before access",
+        "Agree systems/services, safe access, utilities, timing, privacy and report recipient.",
+        "A course outline checks coverage; it does not define the contract or certify every condition."
+      ]
+    },
+    "SG-010:scope:communicate-urgency": {
+      "cards": [
+        "QC-048"
+      ],
+      "row": [
+        "Communicate urgency",
+        "State concern, location, appropriate next action and recipient promptly.",
+        "Carry the same concern and limitation into the written record."
+      ]
+    },
+    "SG-010:scope:specialist-boundary": {
+      "cards": [
+        "QC-008"
+      ],
+      "row": [
+        "Specialist boundary",
+        "Record the visible concern and the specific unanswered question.",
+        "Pool, pest, lead, asbestos, mold or radon services require their own scope, method and qualifications."
+      ]
+    }
+  },
+  "card_id_map": {
+    "QC-001": "QC-001",
+    "QC-002": "QC-002",
+    "QC-003": "QC-003",
+    "QC-004": "QC-004",
+    "QC-005": "QC-005",
+    "QC-006": "QC-006",
+    "QC-007": "QC-007",
+    "QC-008": "QC-008",
+    "QC-009": "QC-009",
+    "QC-010": "QC-010",
+    "QC-011": "QC-011",
+    "QC-012": "QC-012",
+    "QC-013": "QC-013",
+    "QC-014": "QC-014",
+    "QC-015": "QC-015",
+    "QC-016": "QC-016",
+    "QC-017": "QC-017",
+    "QC-018": "QC-018",
+    "QC-019": "QC-019",
+    "QC-020": "QC-020",
+    "QC-021": "QC-021",
+    "QC-022": "QC-022",
+    "QC-023": "QC-023",
+    "QC-024": "QC-024",
+    "QC-025": "QC-025",
+    "QC-026": "QC-026",
+    "QC-027": "QC-027",
+    "QC-028": "QC-028",
+    "QC-029": "QC-029",
+    "QC-030": "QC-030",
+    "QC-031": "QC-031",
+    "QC-032": "QC-032",
+    "QC-033": "QC-033",
+    "QC-034": "QC-034",
+    "QC-035": "QC-035",
+    "QC-036": "QC-036",
+    "QC-037": "QC-037",
+    "QC-038": "QC-038",
+    "QC-039": "QC-039",
+    "QC-040": "QC-040",
+    "QC-041": "QC-041",
+    "QC-042": "QC-042",
+    "QC-043": "QC-043",
+    "QC-044": "QC-044",
+    "QC-045": "QC-045",
+    "QC-046": "QC-046",
+    "QC-047": "QC-047",
+    "QC-048": "QC-048",
+    "QC-049": "QC-049",
+    "QC-050": "QC-050",
+    "QC-051": "QC-051",
+    "QC-052": "QC-052",
+    "QC-053": "QC-053",
+    "QC-054": "QC-054",
+    "QC-055": "QC-055",
+    "QC-056": "QC-056",
+    "QC-057": "QC-057",
+    "QC-058": "QC-058",
+    "QC-059": "QC-059",
+    "QC-060": "QC-060",
+    "QC-061": "QC-061",
+    "QC-062": "QC-062",
+    "QC-063": "QC-063",
+    "QC-064": "QC-064"
+  },
+  "walker_references": [
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "fact": "SG-009:cooling:air-water-power",
+      "current": "SG-010:cooling:air-water-power"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "fact": "SG-009:devices:pv-and-generators",
+      "current": "SG-010:devices:pv-and-generators"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "fact": "SG-009:dwv:trap-and-vent",
+      "current": "SG-010:dwv:trap-and-vent"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "fact": "SG-009:foundation_water:inspect-interfaces",
+      "current": "SG-010:foundation_water:inspect-interfaces"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "fact": "SG-009:garage:mechanism-first",
+      "current": "SG-010:garage:mechanism-first"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "fact": "SG-009:load_paths:follow-the-interface",
+      "current": "SG-010:load_paths:follow-the-interface"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "fact": "SG-009:method:make-the-limit-useful",
+      "current": "SG-010:method:make-the-limit-useful"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "fact": "SG-009:openings:doors-and-exits",
+      "current": "SG-010:openings:doors-and-exits"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "fact": "SG-009:openings:operate-appropriately",
+      "current": "SG-010:openings:operate-appropriately"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "fact": "SG-009:roof_cover:beyond-the-gutter",
+      "current": "SG-010:roof_cover:beyond-the-gutter"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "fact": "SG-009:roof_structure:ridge-and-ties",
+      "current": "SG-010:roof_structure:ridge-and-ties"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "fact": "SG-009:roof_structure:trusses",
+      "current": "SG-010:roof_structure:trusses"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "fact": "SG-009:service:trace-the-service",
+      "current": "SG-010:service:trace-the-service"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "fact": "SG-009:site_decks:deck-porch-balcony",
+      "current": "SG-010:site_decks:deck-porch-balcony"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "fact": "SG-009:site_decks:grade-and-paving",
+      "current": "SG-010:site_decks:grade-and-paving"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "fact": "SG-009:site_decks:ledger-and-lateral-path",
+      "current": "SG-010:site_decks:ledger-and-lateral-path"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "fact": "SG-009:site_decks:stairs-handrails-guards",
+      "current": "SG-010:site_decks:stairs-handrails-guards"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "fact": "SG-009:water:backflow-protection",
+      "current": "SG-010:water:backflow-protection"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "card": "QC-002",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "card": "QC-015",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "card": "QC-016",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "card": "QC-020",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "card": "QC-029",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "card": "QC-040",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "card": "QC-045",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "card": "QC-053",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "card": "QC-058",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\SG-009-W1\\inspection-layer.json",
+      "card": "QC-059",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:cooling:air-water-power",
+      "current": "SG-010:cooling:air-water-power"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:cooling:operating-conditions",
+      "current": "SG-010:cooling:operating-conditions"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:cooling:temperature-evidence",
+      "current": "SG-010:cooling:temperature-evidence"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:dwv:before-and-during-flow",
+      "current": "SG-010:dwv:before-and-during-flow"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:dwv:different-pumps",
+      "current": "SG-010:dwv:different-pumps"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:dwv:safe-response-check",
+      "current": "SG-010:dwv:safe-response-check"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:dwv:trap-and-vent",
+      "current": "SG-010:dwv:trap-and-vent"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:dwv:visible-dwv",
+      "current": "SG-010:dwv:visible-dwv"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:foundation_water:follow-drainage",
+      "current": "SG-010:foundation_water:follow-drainage"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:foundation_water:identify-the-construction",
+      "current": "SG-010:foundation_water:identify-the-construction"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:foundation_water:identify-the-crawl-strategy",
+      "current": "SG-010:foundation_water:identify-the-crawl-strategy"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:foundation_water:inspect-interfaces",
+      "current": "SG-010:foundation_water:inspect-interfaces"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:foundation_water:read-moisture-evidence",
+      "current": "SG-010:foundation_water:read-moisture-evidence"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:foundation_water:respect-what-is-hidden",
+      "current": "SG-010:foundation_water:respect-what-is-hidden"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:garage:appliance-protection",
+      "current": "SG-010:garage:appliance-protection"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:garage:dwelling-separation",
+      "current": "SG-010:garage:dwelling-separation"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:garage:mechanism-first",
+      "current": "SG-010:garage:mechanism-first"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:garage:passage-door",
+      "current": "SG-010:garage:passage-door"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:garage:record-the-result",
+      "current": "SG-010:garage:record-the-result"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:garage:two-reversal-functions",
+      "current": "SG-010:garage:two-reversal-functions"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:gas:bonding-evidence",
+      "current": "SG-010:gas:bonding-evidence"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:gas:identify-the-product",
+      "current": "SG-010:gas:identify-the-product"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:gas:maryland-report-duty",
+      "current": "SG-010:gas:maryland-report-duty"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:gas:visible-installation",
+      "current": "SG-010:gas:visible-installation"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:gas_heat:normal-control-sequence",
+      "current": "SG-010:gas_heat:normal-control-sequence"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:gas_heat:two-air-paths",
+      "current": "SG-010:gas_heat:two-air-paths"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:gas_heat:warning-signs",
+      "current": "SG-010:gas_heat:warning-signs"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:heatpumps:backup-balance-point",
+      "current": "SG-010:heatpumps:backup-balance-point"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:heatpumps:cooling-heating",
+      "current": "SG-010:heatpumps:cooling-heating"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:heatpumps:mode-record",
+      "current": "SG-010:heatpumps:mode-record"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:load_paths:altered-load-paths",
+      "current": "SG-010:load_paths:altered-load-paths"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:load_paths:follow-the-interface",
+      "current": "SG-010:load_paths:follow-the-interface"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:load_paths:identify-before-sizing",
+      "current": "SG-010:load_paths:identify-before-sizing"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:method:choose-an-action",
+      "current": "SG-010:method:choose-an-action"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:method:keep-the-client-record",
+      "current": "SG-010:method:keep-the-client-record"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:method:make-the-limit-useful",
+      "current": "SG-010:method:make-the-limit-useful"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:method:separate-the-statements",
+      "current": "SG-010:method:separate-the-statements"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:method:set-the-route",
+      "current": "SG-010:method:set-the-route"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:method:use-the-right-level",
+      "current": "SG-010:method:use-the-right-level"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:movement:crack-pattern",
+      "current": "SG-010:movement:crack-pattern"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:movement:floor-vocabulary",
+      "current": "SG-010:movement:floor-vocabulary"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:movement:masonry-role",
+      "current": "SG-010:movement:masonry-role"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:movement:time-and-action",
+      "current": "SG-010:movement:time-and-action"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:movement:wall-shape",
+      "current": "SG-010:movement:wall-shape"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:openings:doors-and-exits",
+      "current": "SG-010:openings:doors-and-exits"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:openings:follow-water-support",
+      "current": "SG-010:openings:follow-water-support"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:openings:name-the-component",
+      "current": "SG-010:openings:name-the-component"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:openings:operate-appropriately",
+      "current": "SG-010:openings:operate-appropriately"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:openings:read-the-glazing",
+      "current": "SG-010:openings:read-the-glazing"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:roof_cover:beyond-the-gutter",
+      "current": "SG-010:roof_cover:beyond-the-gutter"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:roof_cover:chimney-parts",
+      "current": "SG-010:roof_cover:chimney-parts"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:roof_cover:cover-condition",
+      "current": "SG-010:roof_cover:cover-condition"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:roof_cover:flashing-sequence",
+      "current": "SG-010:roof_cover:flashing-sequence"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:roof_cover:form-slope-access",
+      "current": "SG-010:roof_cover:form-slope-access"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:roof_cover:penetrations",
+      "current": "SG-010:roof_cover:penetrations"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:roof_structure:deck-and-loading",
+      "current": "SG-010:roof_structure:deck-and-loading"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:roof_structure:ridge-and-ties",
+      "current": "SG-010:roof_structure:ridge-and-ties"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:roof_structure:terminations-and-wetting",
+      "current": "SG-010:roof_structure:terminations-and-wetting"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:roof_structure:thermal-boundary",
+      "current": "SG-010:roof_structure:thermal-boundary"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:roof_structure:trusses",
+      "current": "SG-010:roof_structure:trusses"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:service:before-panel-access",
+      "current": "SG-010:service:before-panel-access"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:service:conductor-selection",
+      "current": "SG-010:service:conductor-selection"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:service:neutral-and-grounding",
+      "current": "SG-010:service:neutral-and-grounding"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:service:read-the-assembly",
+      "current": "SG-010:service:read-the-assembly"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:service:report-precisely",
+      "current": "SG-010:service:report-precisely"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:service:trace-the-service",
+      "current": "SG-010:service:trace-the-service"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:site_decks:deck-porch-balcony",
+      "current": "SG-010:site_decks:deck-porch-balcony"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:site_decks:grade-and-paving",
+      "current": "SG-010:site_decks:grade-and-paving"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:site_decks:ledger-and-lateral-path",
+      "current": "SG-010:site_decks:ledger-and-lateral-path"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:site_decks:retaining-walls",
+      "current": "SG-010:site_decks:retaining-walls"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:site_decks:stairs-handrails-guards",
+      "current": "SG-010:site_decks:stairs-handrails-guards"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:site_decks:window-wells",
+      "current": "SG-010:site_decks:window-wells"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:walls:roof-wall-junction",
+      "current": "SG-010:walls:roof-wall-junction"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:walls:stucco-and-eifs",
+      "current": "SG-010:walls:stucco-and-eifs"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:walls:trim-and-coatings",
+      "current": "SG-010:walls:trim-and-coatings"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:walls:veneer-and-openings",
+      "current": "SG-010:walls:veneer-and-openings"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:walls:wall-assembly",
+      "current": "SG-010:walls:wall-assembly"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:walls:wood-panels-vinyl-metal",
+      "current": "SG-010:walls:wood-panels-vinyl-metal"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:water_heat:distinct-devices",
+      "current": "SG-010:water_heat:distinct-devices"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:water_heat:distribution-controls",
+      "current": "SG-010:water_heat:distribution-controls"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:water_heat:identity-and-date",
+      "current": "SG-010:water_heat:identity-and-date"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:water_heat:installation-context",
+      "current": "SG-010:water_heat:installation-context"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "fact": "SG-009:water_heat:relief-function",
+      "current": "SG-010:water_heat:relief-function"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-001",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-002",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-004",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-007",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-008",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-009",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-010",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-013",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-014",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-016",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-017",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-018",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-019",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-024",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-025",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-026",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-028",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-029",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-033",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-034",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-035",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-039",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-042",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-048",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-049",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-057",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-058",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-059",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-060",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-061",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-062",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-063",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance-SG009-crosswalk.json",
+      "card": "QC-064",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:cooling:air-water-power",
+      "current": "SG-010:cooling:air-water-power"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:cooling:operating-conditions",
+      "current": "SG-010:cooling:operating-conditions"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:cooling:temperature-evidence",
+      "current": "SG-010:cooling:temperature-evidence"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:dwv:before-and-during-flow",
+      "current": "SG-010:dwv:before-and-during-flow"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:dwv:different-pumps",
+      "current": "SG-010:dwv:different-pumps"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:dwv:safe-response-check",
+      "current": "SG-010:dwv:safe-response-check"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:dwv:trap-and-vent",
+      "current": "SG-010:dwv:trap-and-vent"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:dwv:visible-dwv",
+      "current": "SG-010:dwv:visible-dwv"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:foundation_water:follow-drainage",
+      "current": "SG-010:foundation_water:follow-drainage"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:foundation_water:identify-the-construction",
+      "current": "SG-010:foundation_water:identify-the-construction"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:foundation_water:identify-the-crawl-strategy",
+      "current": "SG-010:foundation_water:identify-the-crawl-strategy"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:foundation_water:inspect-interfaces",
+      "current": "SG-010:foundation_water:inspect-interfaces"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:foundation_water:read-moisture-evidence",
+      "current": "SG-010:foundation_water:read-moisture-evidence"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:foundation_water:respect-what-is-hidden",
+      "current": "SG-010:foundation_water:respect-what-is-hidden"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:garage:appliance-protection",
+      "current": "SG-010:garage:appliance-protection"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:garage:dwelling-separation",
+      "current": "SG-010:garage:dwelling-separation"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:garage:mechanism-first",
+      "current": "SG-010:garage:mechanism-first"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:garage:passage-door",
+      "current": "SG-010:garage:passage-door"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:garage:record-the-result",
+      "current": "SG-010:garage:record-the-result"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:garage:two-reversal-functions",
+      "current": "SG-010:garage:two-reversal-functions"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:gas:bonding-evidence",
+      "current": "SG-010:gas:bonding-evidence"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:gas:identify-the-product",
+      "current": "SG-010:gas:identify-the-product"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:gas:maryland-report-duty",
+      "current": "SG-010:gas:maryland-report-duty"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:gas:visible-installation",
+      "current": "SG-010:gas:visible-installation"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:gas_heat:normal-control-sequence",
+      "current": "SG-010:gas_heat:normal-control-sequence"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:gas_heat:two-air-paths",
+      "current": "SG-010:gas_heat:two-air-paths"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:gas_heat:warning-signs",
+      "current": "SG-010:gas_heat:warning-signs"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:heatpumps:backup-balance-point",
+      "current": "SG-010:heatpumps:backup-balance-point"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:heatpumps:cooling-heating",
+      "current": "SG-010:heatpumps:cooling-heating"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:heatpumps:mode-record",
+      "current": "SG-010:heatpumps:mode-record"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:load_paths:altered-load-paths",
+      "current": "SG-010:load_paths:altered-load-paths"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:load_paths:follow-the-interface",
+      "current": "SG-010:load_paths:follow-the-interface"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:load_paths:identify-before-sizing",
+      "current": "SG-010:load_paths:identify-before-sizing"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:method:choose-an-action",
+      "current": "SG-010:method:choose-an-action"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:method:keep-the-client-record",
+      "current": "SG-010:method:keep-the-client-record"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:method:make-the-limit-useful",
+      "current": "SG-010:method:make-the-limit-useful"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:method:separate-the-statements",
+      "current": "SG-010:method:separate-the-statements"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:method:set-the-route",
+      "current": "SG-010:method:set-the-route"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:method:use-the-right-level",
+      "current": "SG-010:method:use-the-right-level"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:movement:crack-pattern",
+      "current": "SG-010:movement:crack-pattern"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:movement:floor-vocabulary",
+      "current": "SG-010:movement:floor-vocabulary"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:movement:masonry-role",
+      "current": "SG-010:movement:masonry-role"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:movement:time-and-action",
+      "current": "SG-010:movement:time-and-action"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:movement:wall-shape",
+      "current": "SG-010:movement:wall-shape"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:openings:doors-and-exits",
+      "current": "SG-010:openings:doors-and-exits"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:openings:follow-water-support",
+      "current": "SG-010:openings:follow-water-support"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:openings:name-the-component",
+      "current": "SG-010:openings:name-the-component"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:openings:operate-appropriately",
+      "current": "SG-010:openings:operate-appropriately"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:openings:read-the-glazing",
+      "current": "SG-010:openings:read-the-glazing"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:roof_cover:beyond-the-gutter",
+      "current": "SG-010:roof_cover:beyond-the-gutter"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:roof_cover:chimney-parts",
+      "current": "SG-010:roof_cover:chimney-parts"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:roof_cover:cover-condition",
+      "current": "SG-010:roof_cover:cover-condition"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:roof_cover:flashing-sequence",
+      "current": "SG-010:roof_cover:flashing-sequence"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:roof_cover:form-slope-access",
+      "current": "SG-010:roof_cover:form-slope-access"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:roof_cover:penetrations",
+      "current": "SG-010:roof_cover:penetrations"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:roof_structure:deck-and-loading",
+      "current": "SG-010:roof_structure:deck-and-loading"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:roof_structure:ridge-and-ties",
+      "current": "SG-010:roof_structure:ridge-and-ties"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:roof_structure:terminations-and-wetting",
+      "current": "SG-010:roof_structure:terminations-and-wetting"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:roof_structure:thermal-boundary",
+      "current": "SG-010:roof_structure:thermal-boundary"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:roof_structure:trusses",
+      "current": "SG-010:roof_structure:trusses"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:service:before-panel-access",
+      "current": "SG-010:service:before-panel-access"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:service:conductor-selection",
+      "current": "SG-010:service:conductor-selection"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:service:neutral-and-grounding",
+      "current": "SG-010:service:neutral-and-grounding"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:service:read-the-assembly",
+      "current": "SG-010:service:read-the-assembly"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:service:report-precisely",
+      "current": "SG-010:service:report-precisely"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:service:trace-the-service",
+      "current": "SG-010:service:trace-the-service"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:site_decks:deck-porch-balcony",
+      "current": "SG-010:site_decks:deck-porch-balcony"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:site_decks:grade-and-paving",
+      "current": "SG-010:site_decks:grade-and-paving"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:site_decks:ledger-and-lateral-path",
+      "current": "SG-010:site_decks:ledger-and-lateral-path"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:site_decks:retaining-walls",
+      "current": "SG-010:site_decks:retaining-walls"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:site_decks:stairs-handrails-guards",
+      "current": "SG-010:site_decks:stairs-handrails-guards"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:site_decks:window-wells",
+      "current": "SG-010:site_decks:window-wells"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:walls:roof-wall-junction",
+      "current": "SG-010:walls:roof-wall-junction"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:walls:stucco-and-eifs",
+      "current": "SG-010:walls:stucco-and-eifs"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:walls:trim-and-coatings",
+      "current": "SG-010:walls:trim-and-coatings"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:walls:veneer-and-openings",
+      "current": "SG-010:walls:veneer-and-openings"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:walls:wall-assembly",
+      "current": "SG-010:walls:wall-assembly"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:walls:wood-panels-vinyl-metal",
+      "current": "SG-010:walls:wood-panels-vinyl-metal"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:water_heat:distinct-devices",
+      "current": "SG-010:water_heat:distinct-devices"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:water_heat:distribution-controls",
+      "current": "SG-010:water_heat:distribution-controls"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:water_heat:identity-and-date",
+      "current": "SG-010:water_heat:identity-and-date"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:water_heat:installation-context",
+      "current": "SG-010:water_heat:installation-context"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "fact": "SG-009:water_heat:relief-function",
+      "current": "SG-010:water_heat:relief-function"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-001",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-002",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-004",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-007",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-008",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-009",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-010",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-013",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-014",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-016",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-017",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-018",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-019",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-024",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-025",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-026",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-028",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-029",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-033",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-034",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-035",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-039",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-042",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-048",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-049",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-057",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-058",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-059",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-060",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-061",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-062",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-063",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\concordance.json",
+      "card": "QC-064",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-001",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-002",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-004",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-007",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-008",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-009",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-010",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-013",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-014",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-016",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-017",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-018",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-019",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-024",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-025",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-026",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-028",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-029",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-033",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-034",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-035",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-039",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-042",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-048",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-049",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-057",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-058",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-059",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-060",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-061",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-062",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-063",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\property-presentation-map-S32-C1-2026-09-21.json",
+      "card": "QC-064",
+      "preserved": true
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:foundation_water:follow-drainage",
+      "current": "SG-010:foundation_water:follow-drainage"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:foundation_water:identify-the-construction",
+      "current": "SG-010:foundation_water:identify-the-construction"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:foundation_water:identify-the-crawl-strategy",
+      "current": "SG-010:foundation_water:identify-the-crawl-strategy"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:foundation_water:inspect-interfaces",
+      "current": "SG-010:foundation_water:inspect-interfaces"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:foundation_water:read-moisture-evidence",
+      "current": "SG-010:foundation_water:read-moisture-evidence"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:foundation_water:respect-what-is-hidden",
+      "current": "SG-010:foundation_water:respect-what-is-hidden"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:load_paths:altered-load-paths",
+      "current": "SG-010:load_paths:altered-load-paths"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:load_paths:follow-the-interface",
+      "current": "SG-010:load_paths:follow-the-interface"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:load_paths:identify-before-sizing",
+      "current": "SG-010:load_paths:identify-before-sizing"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:method:choose-an-action",
+      "current": "SG-010:method:choose-an-action"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:method:keep-the-client-record",
+      "current": "SG-010:method:keep-the-client-record"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:method:make-the-limit-useful",
+      "current": "SG-010:method:make-the-limit-useful"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:method:separate-the-statements",
+      "current": "SG-010:method:separate-the-statements"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:method:set-the-route",
+      "current": "SG-010:method:set-the-route"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:method:use-the-right-level",
+      "current": "SG-010:method:use-the-right-level"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:movement:crack-pattern",
+      "current": "SG-010:movement:crack-pattern"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:movement:floor-vocabulary",
+      "current": "SG-010:movement:floor-vocabulary"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:movement:masonry-role",
+      "current": "SG-010:movement:masonry-role"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:movement:time-and-action",
+      "current": "SG-010:movement:time-and-action"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:movement:wall-shape",
+      "current": "SG-010:movement:wall-shape"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:roof_cover:beyond-the-gutter",
+      "current": "SG-010:roof_cover:beyond-the-gutter"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:roof_cover:chimney-parts",
+      "current": "SG-010:roof_cover:chimney-parts"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:roof_cover:cover-condition",
+      "current": "SG-010:roof_cover:cover-condition"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:roof_cover:flashing-sequence",
+      "current": "SG-010:roof_cover:flashing-sequence"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:roof_cover:form-slope-access",
+      "current": "SG-010:roof_cover:form-slope-access"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:roof_cover:penetrations",
+      "current": "SG-010:roof_cover:penetrations"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:roof_structure:deck-and-loading",
+      "current": "SG-010:roof_structure:deck-and-loading"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:roof_structure:ridge-and-ties",
+      "current": "SG-010:roof_structure:ridge-and-ties"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:roof_structure:terminations-and-wetting",
+      "current": "SG-010:roof_structure:terminations-and-wetting"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:roof_structure:thermal-boundary",
+      "current": "SG-010:roof_structure:thermal-boundary"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:roof_structure:trusses",
+      "current": "SG-010:roof_structure:trusses"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:service:before-panel-access",
+      "current": "SG-010:service:before-panel-access"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:service:conductor-selection",
+      "current": "SG-010:service:conductor-selection"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:service:neutral-and-grounding",
+      "current": "SG-010:service:neutral-and-grounding"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:service:read-the-assembly",
+      "current": "SG-010:service:read-the-assembly"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:service:report-precisely",
+      "current": "SG-010:service:report-precisely"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:service:trace-the-service",
+      "current": "SG-010:service:trace-the-service"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:site_decks:deck-porch-balcony",
+      "current": "SG-010:site_decks:deck-porch-balcony"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:site_decks:grade-and-paving",
+      "current": "SG-010:site_decks:grade-and-paving"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:site_decks:ledger-and-lateral-path",
+      "current": "SG-010:site_decks:ledger-and-lateral-path"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:site_decks:retaining-walls",
+      "current": "SG-010:site_decks:retaining-walls"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:site_decks:stairs-handrails-guards",
+      "current": "SG-010:site_decks:stairs-handrails-guards"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:site_decks:window-wells",
+      "current": "SG-010:site_decks:window-wells"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:walls:roof-wall-junction",
+      "current": "SG-010:walls:roof-wall-junction"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:walls:stucco-and-eifs",
+      "current": "SG-010:walls:stucco-and-eifs"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:walls:trim-and-coatings",
+      "current": "SG-010:walls:trim-and-coatings"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:walls:veneer-and-openings",
+      "current": "SG-010:walls:veneer-and-openings"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:walls:wall-assembly",
+      "current": "SG-010:walls:wall-assembly"
+    },
+    {
+      "file": "F:\\SEED BANK\\DATA_ARCHIVE\\HOME_INSPECTION\\Working Evidence\\sg010-20260921\\baseline\\505 Walker Ave\\visual-evidence-manifest.json",
+      "fact": "SG-009:walls:wood-panels-vinyl-metal",
+      "current": "SG-010:walls:wood-panels-vinyl-metal"
+    }
+  ],
+  "stranded": []
+}

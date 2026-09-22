@@ -1,0 +1,304 @@
+{
+  "$schema": "https://design-tokens.github.io/community-group/format/",
+  "$description": "BBDF typography roles. Source: BBDF_DESIGN_SYSTEM.md (canonical copy lives at BB_DOCS/__ROBOT__WORK__/BBDF_DESIGN_SYSTEM.md, NOT in this directory -- this folder holds the assets, that file holds the rules) §2. System font: Helvetica family (Helvetica, Helvetica-Bold, Helvetica-Oblique). Reportlab built-in; no external font loading required. Sizes are in points (pt) — canonical for PDF.",
+  "font": {
+    "family": {
+      "system": {
+        "$value": "Helvetica, Arial, sans-serif",
+        "$type": "fontFamily",
+        "$description": "System-wide font stack for PDF rendering. Helvetica is a reportlab built-in (always present server-side, never substituted). Arial is the Windows fallback."
+      },
+      "office": {
+        "$value": "Arial",
+        "$type": "fontFamily",
+        "$description": "BINDING for documents opened in a Windows application -- .pptx, .docx, .xlsx and their Google conversions. Ben ruling 2026-08-18 (MANDY-267): \"move the system to Arial for windows documents.\" Windows does not ship Helvetica, so a template naming it renders differently on every machine that opens it; Arial is metrically compatible, so no layout moves. PDFs keep Helvetica -- reportlab has it built in and does not substitute, so the two surfaces stay visually near-identical rather than diverging."
+      }
+    },
+    "weight": {
+      "regular": {
+        "$value": 400,
+        "$type": "fontWeight"
+      },
+      "bold": {
+        "$value": 700,
+        "$type": "fontWeight"
+      }
+    },
+    "style": {
+      "regular": {
+        "$value": "normal",
+        "$type": "fontStyle"
+      },
+      "oblique": {
+        "$value": "italic",
+        "$type": "fontStyle"
+      }
+    }
+  },
+  "role": {
+    "document-title": {
+      "$type": "typography",
+      "$description": "Cover page + INDEXED title. Centered on cover below logo.",
+      "$value": {
+        "fontFamily": "{font.family.system}",
+        "fontWeight": 700,
+        "fontStyle": "normal",
+        "fontSize": "24pt",
+        "lineHeight": "28pt",
+        "color": "{color.navy.primary}"
+      }
+    },
+    "section-title-h1": {
+      "$type": "typography",
+      "$description": "Section heading. ALWAYS followed by crimson-accent rule (1pt × content-width).",
+      "$value": {
+        "fontFamily": "{font.family.system}",
+        "fontWeight": 700,
+        "fontStyle": "normal",
+        "fontSize": "14pt",
+        "lineHeight": "18pt",
+        "color": "{color.navy.primary}"
+      }
+    },
+    "section-subtitle-h2": {
+      "$type": "typography",
+      "$description": "Within-section subheading. No rule. Retained for back-compat with Round 1/2 templates; new INDEXED work uses role.section-title-h2 below (same metrics, scoped name).",
+      "$value": {
+        "fontFamily": "{font.family.system}",
+        "fontWeight": 700,
+        "fontStyle": "normal",
+        "fontSize": "11pt",
+        "lineHeight": "14pt",
+        "color": "{color.navy.primary}"
+      }
+    },
+    "section-title-h2": {
+      "$type": "typography",
+      "$description": "INDEXED §4.3.1 second-level numbered section (1.1, 2.3, etc). Same metrics as section-subtitle-h2 -- alias under the section-title.* family so depth-forked styling reads naturally (h1 / h2 / h3) in templates.",
+      "$value": {
+        "fontFamily": "{font.family.system}",
+        "fontWeight": 700,
+        "fontStyle": "normal",
+        "fontSize": "11pt",
+        "lineHeight": "14pt",
+        "color": "{color.navy.primary}"
+      }
+    },
+    "section-title-h3": {
+      "$type": "typography",
+      "$description": "INDEXED §4.3.1 third-level numbered section (1.1.1, 2.3.2). Smaller than H2; same bold weight. Used for table-breakdown sub-sub-sections inside a numbered subsection. Spec called this out as 'rarely used; flag if going deeper' -- this token exists so the depth is renderable when needed, not encouraging it.",
+      "$value": {
+        "fontFamily": "{font.family.system}",
+        "fontWeight": 700,
+        "fontStyle": "normal",
+        "fontSize": "10pt",
+        "lineHeight": "13pt",
+        "color": "{color.navy.primary}"
+      }
+    },
+    "description": {
+      "$type": "typography",
+      "$description": "Italic intro text under a title — 6pt below the crimson rule.",
+      "$value": {
+        "fontFamily": "{font.family.system}",
+        "fontWeight": 400,
+        "fontStyle": "italic",
+        "fontSize": "10pt",
+        "lineHeight": "13pt",
+        "color": "{color.structural.muted}"
+      }
+    },
+    "body": {
+      "$type": "typography",
+      "$description": "Default body paragraph. No first-line indent.",
+      "$value": {
+        "fontFamily": "{font.family.system}",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": "10pt",
+        "lineHeight": "13pt",
+        "color": "{color.navy.primary}"
+      }
+    },
+    "table-header": {
+      "$type": "typography",
+      "$description": "Table header row — white text on navy fill, 6pt padding top/bottom.",
+      "$value": {
+        "fontFamily": "{font.family.system}",
+        "fontWeight": 700,
+        "fontStyle": "normal",
+        "fontSize": "9pt",
+        "lineHeight": "11pt",
+        "color": "{color.structural.white}"
+      }
+    },
+    "table-body": {
+      "$type": "typography",
+      "$description": "Table body cells — navy text, 4pt padding, alternating row fills.",
+      "$value": {
+        "fontFamily": "{font.family.system}",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": "9pt",
+        "lineHeight": "11pt",
+        "color": "{color.navy.primary}"
+      }
+    },
+    "footer": {
+      "$type": "typography",
+      "$description": "Footer-band text — `Generated YYYY-MM-DD | CONFIDENTIAL` left, `benballdesign.com | Page N` right.",
+      "$value": {
+        "fontFamily": "{font.family.system}",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": "7pt",
+        "lineHeight": "9pt",
+        "color": "{color.footer.text}"
+      }
+    },
+    "section-number": {
+      "$type": "typography",
+      "$description": "INDEXED section numbers (1., 1.1, 1.1.1). Hanging-indent preserves title eye-line.",
+      "$value": {
+        "fontFamily": "{font.family.system}",
+        "fontWeight": 700,
+        "fontStyle": "normal",
+        "fontSize": "11pt",
+        "lineHeight": "14pt",
+        "color": "{color.navy.primary}"
+      }
+    },
+    "cross-reference": {
+      "$type": "typography",
+      "$description": "INDEXED cross-refs -- `§2.3 (p. 7)` format. NEVER crimson. Standalone block-level form.",
+      "$value": {
+        "fontFamily": "{font.family.system}",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": "9pt",
+        "lineHeight": "11pt",
+        "color": "{color.structural.muted}"
+      }
+    },
+    "cross-reference-inline": {
+      "$type": "typography",
+      "$description": "INDEXED §4.3.3 inline cross-ref appearing inside running body text -- `(see §1.2 Cash Position)`. Italic muted-gray; matches the block form's color/size but italicizes so it reads as a parenthetical aside in flowing prose. NEVER crimson.",
+      "$value": {
+        "fontFamily": "{font.family.system}",
+        "fontWeight": 400,
+        "fontStyle": "italic",
+        "fontSize": "9pt",
+        "lineHeight": "11pt",
+        "color": "{color.structural.muted}"
+      }
+    },
+    "toc-entry-title": {
+      "$type": "typography",
+      "$description": "INDEXED §4.3.2 TOC entry section title -- left-aligned, takes the natural width of its content; the dot leader fills between this and the right-aligned page number.",
+      "$value": {
+        "fontFamily": "{font.family.system}",
+        "fontWeight": 700,
+        "fontStyle": "normal",
+        "fontSize": "10pt",
+        "lineHeight": "16pt",
+        "color": "{color.navy.primary}"
+      }
+    },
+    "toc-entry-page": {
+      "$type": "typography",
+      "$description": "INDEXED §4.3.2 TOC entry page number -- right-aligned column, tabular-nums.",
+      "$value": {
+        "fontFamily": "{font.family.system}",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": "10pt",
+        "lineHeight": "16pt",
+        "color": "{color.structural.muted}"
+      }
+    },
+    "toc-leader": {
+      "$type": "typography",
+      "$description": "INDEXED §4.3.2 TOC dot leader between section title and page number -- rule-gray 8pt regular. Implemented in HTML via a flexed dotted underline on a connector span; in reportlab via a DotLeader style on the Paragraph.",
+      "$value": {
+        "fontFamily": "{font.family.system}",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": "8pt",
+        "lineHeight": "16pt",
+        "color": "{color.structural.rule}"
+      }
+    },
+    "logo-name-primary": {
+      "$type": "typography",
+      "$description": "Top of name stack — 'BEN BALL'.",
+      "$value": {
+        "fontFamily": "{font.family.system}",
+        "fontWeight": 700,
+        "fontStyle": "normal",
+        "fontSize": "11pt",
+        "lineHeight": "13pt",
+        "color": "{color.navy.primary}"
+      }
+    },
+    "logo-name-primary-tracked": {
+      "$type": "dimension",
+      "$description": "Letter-spacing applied to row 1 ('BEN BALL') to match the right-edge of row 2 ('DESIGN & FABRICATION'). Calibrated target ~0.5em; tune to whatever achieves visual alignment.",
+      "$value": "0.5em"
+    },
+    "logo-name-secondary": {
+      "$type": "typography",
+      "$description": "Row 2 of name stack — 'DESIGN & FABRICATION'. Helvetica regular all-caps, footer-dark (NOT navy — contrast hierarchy against navy 'BEN BALL' above; re-uses the existing footer-dark token instead of minting a new color, keeping the palette at 11). +0.1em tracking, institutional feel.",
+      "$value": {
+        "fontFamily": "{font.family.system}",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": "7pt",
+        "lineHeight": "10pt",
+        "color": "{color.footer.dark}",
+        "letterSpacing": "0.1em",
+        "textTransform": "uppercase"
+      }
+    },
+    "logo-name-contact": {
+      "$type": "typography",
+      "$description": "Rows 3–5 of name stack — email/web, mailing address, phone. Three rows, all Helvetica regular 7pt muted-gray. Pipe separators use single-space padding either side.",
+      "$value": {
+        "fontFamily": "{font.family.system}",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": "7pt",
+        "lineHeight": "10pt",
+        "color": "{color.structural.muted}"
+      }
+    },
+    "logo-name-stack-baseline": {
+      "$type": "dimension",
+      "$description": "Baseline-to-baseline gap between rows in the 5-row name stack. Whole stack vertically centered within 84pt header band.",
+      "$value": "10pt"
+    },
+    "header-doctype": {
+      "$type": "typography",
+      "$description": "Header right-aligned doc-type label — INVESTOR UPDATE / PERSONAL UPDATE / APPLICATION FOR PAYMENT.",
+      "$value": {
+        "fontFamily": "{font.family.system}",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontSize": "8pt",
+        "lineHeight": "10pt",
+        "color": "{color.navy.primary}"
+      }
+    },
+    "header-period": {
+      "$type": "typography",
+      "$description": "Header right-aligned period/span — MAY 2026 / INV-003.",
+      "$value": {
+        "fontFamily": "{font.family.system}",
+        "fontWeight": 700,
+        "fontStyle": "normal",
+        "fontSize": "16pt",
+        "lineHeight": "18pt",
+        "color": "{color.navy.primary}"
+      }
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "schema": "performance-team-code-carry/1",
+  "recorded_at": "2026-09-22T03:43:46.839338+00:00",
+  "owner": "THE PERFORMANCE TEAM",
+  "purpose": "Ben ruling 2026-09-22: the BB_CODE tools written for the home-inspection work are recorded here, byte-exact, for inclusion in a future commit of THE PERFORMANCE TEAM as its own repository (BB_SEED separation). They are NOT committed in BB_CODE and this is not a BBDF filing.",
+  "tools": [
+    {
+      "file": "bb_code/tools/home_inspection_library.py",
+      "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\tools\\home_inspection_library.py",
+      "sha256": "8da4513a016d8b57a263e0d0990ef1003e620c63d6f3b54b179d75016efb259e",
+      "bytes": 18641,
+      "git_status": "?? tools/home_inspection_library.py",
+      "copied_at": "2026-09-22T03:43:46.635846+00:00"
+    },
+    {
+      "file": "bb_code/tools/home_inspection_storage.py",
+      "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\tools\\home_inspection_storage.py",
+      "sha256": "59055c9b01cfe8da2f07e47129dfbf6efc0267155407d935cc9b54a683d9dc06",
+      "bytes": 4512,
+      "git_status": "?? tools/home_inspection_storage.py",
+      "copied_at": "2026-09-22T03:43:46.668274+00:00"
+    },
+    {
+      "file": "bb_code/tools/home_inspection_page_frame.py",
+      "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\tools\\home_inspection_page_frame.py",
+      "sha256": "43acd9c88aff857e08a772c17a736d2df41b2d37a221c5643bd3e18be8250c9e",
+      "bytes": 3378,
+      "git_status": "?? tools/home_inspection_page_frame.py",
+      "copied_at": "2026-09-22T03:43:46.702216+00:00"
+    },
+    {
+      "file": "bb_code/tools/recording_archive.py",
+      "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\tools\\recording_archive.py",
+      "sha256": "56ef564d24c17c4e2422da504ded42a0a55c91413c5aa98bc375354eb3eed4f4",
+      "bytes": 9690,
+      "git_status": "?? tools/recording_archive.py",
+      "copied_at": "2026-09-22T03:43:46.734687+00:00"
+    },
+    {
+      "file": "bb_code/tools/HOME_INSPECTION_STORAGE.md",
+      "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\tools\\HOME_INSPECTION_STORAGE.md",
+      "sha256": "8e428fbfc145b8d25f73ad3b24ff2869a37633e2fa81d670acd6b2fa5ffefa75",
+      "bytes": 2067,
+      "git_status": "?? tools/HOME_INSPECTION_STORAGE.md",
+      "copied_at": "2026-09-22T03:43:46.768112+00:00"
+    },
+    {
+      "file": "bb_code/tests/test_recording_archive.py",
+      "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\tests\\test_recording_archive.py",
+      "sha256": "e27970a1b7439b33da231a010c6e73d19ac7a82660a1bd087c1985dbe1e32c2b",
+      "bytes": 2519,
+      "git_status": "?? tests/test_recording_archive.py"
+    }
+  ],
+  "builder_modules_imported_by_production": [
+    {
+      "module": "atlas_brand",
+      "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\property-505-r2\\atlas_brand.py",
+      "sha256": "ad20bc60bdb09e66e49110679782442bfd1a5684c9446387a852c429b3b4e25a",
+      "in_builder_snapshot": false,
+      "snapshot_differs": false,
+      "carried_copy": "bb_code\\property-505-r2\\atlas_brand.py"
+    },
+    {
+      "module": "card_brand",
+      "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\card_brand.py",
+      "sha256": "4e994587f68526fcdd18b0c7206aa8621d7d28d39b8cc1a9a26e95ef48b01ee8",
+      "in_builder_snapshot": true,
+      "snapshot_differs": false
+    },
+    {
+      "module": "card_inspection_layer",
+      "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\card_inspection_layer.py",
+      "sha256": "783b9f59828465724d17d618543636f5c8a0b6ed494f93a141c0422bc50bb8e6",
+      "in_builder_snapshot": true,
+      "snapshot_differs": false
+    },
+    {
+      "module": "content_s33",
+      "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\content_s33.py",
+      "sha256": "c94e20252ebf3c0e6c08efc0526e951a8db630612360ea1440cbc52d2f546e3e",
+      "in_builder_snapshot": true,
+      "snapshot_differs": false
+    },
+    {
+      "module": "content_s38",
+      "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\content_s38.py",
+      "sha256": "0bce7cd6ad6d3ef9b4431d639c557094a81cf4196da6e434b9fc5567496f2bf9",
+      "in_builder_snapshot": true,
+      "snapshot_differs": false
+    },
+    {
+      "module": "design_language",
+      "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\design_language.py",
+      "sha256": "1ff9243de768ce22d24b1db0d66a6a1f5b4e38ad970529df0e480d00ad437412",
+      "in_builder_snapshot": true,
+      "snapshot_differs": false
+    },
+    {
+      "module": "edition_inspection_layer",
+      "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\edition_inspection_layer.py",
+      "sha256": "ac69c53183a2c85569f922f0d2a662a5bbbcb563f71580b9b8342f26f342a8e0",
+      "in_builder_snapshot": true,
+      "snapshot_differs": false
+    },
+    {
+      "module": "field_card_bindings",
+      "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\field_card_bindings.py",
+      "sha256": "580268223ba5ed1881cb33e0741b925833e3e15beb93ff71bb1fe3644d6a4ea7",
+      "in_builder_snapshot": true,
+      "snapshot_differs": false
+    },
+    {
+      "module": "field_card_concordance",
+      "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\field_card_concordance.py",
+      "sha256": "10bcaeaa9b9455d8d2c2eed512ff900b03221d359a977c9fe65088726cbb84ae",
+      "in_builder_snapshot": true,
+      "snapshot_differs": false
+    },
+    {
+      "module": "field_cards_64",
+      "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\field_cards_64.py",
+      "sha256": "ea9aec03a3ab8f07d48f49f747481c5302155fde874be4918d03c90c569705fb",
+      "in_builder_snapshot": true,
+      "snapshot_differs": false
+    },
+    {
+      "module": "field_cards_64_content",
+      "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\field_cards_64_content.py",
+      "sha256": "74c4ab24b700f9a4dced6d8def671eae049f89b4e614398a4ded1f7a8f9e6a01",
+      "in_builder_snapshot": true,
+      "snapshot_differs": false
+    },
+    {
+      "module": "field_cards_layer2",
+      "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\field_cards_layer2.py",
+      "sha256": "5efd900bb9703ce1d979f4c7212aa648cbe88c03d1f41765f32ece51a7b29dc6",
+      "in_builder_snapshot": true,
+      "snapshot_differs": false
+    },
+    {
+      "module": "housing",
+      "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\housing.py",
+      "sha256": "f9693d624a63bbd08448e7ff09fab3a386a056078eb6707ea7de71d856d208da",
+      "in_builder_snapshot": true,
+      "snapshot_differs": false
+    },
+    {
+      "module": "mark_maryland",
+      "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\mark_maryland.py",
+      "sha256": "50bb98df426425a093d53f66005a7485ac035ba3688968e69a2ac50bcc1c9036",
+      "in_builder_snapshot": true,
+      "snapshot_differs": false
+    },
+    {
+      "module": "maryland_marker",
+      "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\maryland_marker.py",
+      "sha256": "8b65ffdaff8290684533c35cfda71dfde8044223d578de9f18cc309387ef448d",
+      "in_builder_snapshot": true,
+      "snapshot_differs": false
+    },
+    {
+      "module": "navigation",
+      "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\navigation.py",
+      "sha256": "9a77724adaae99b8f4159e86a7cb729bf84c7106876cdcdc12f8e0832f8deb3b",
+      "in_builder_snapshot": true,
+      "snapshot_differs": false
+    },
+    {
+      "module": "paint",
+      "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg009-color-language\\paint.py",
+      "sha256": "de47d55df0423ece7b200574cfb74dd3ba63811366021273f9762dd7e83a7478",
+      "in_builder_snapshot": false,
+      "snapshot_differs": false,
+      "carried_copy": "bb_code\\sg009-color-language\\paint.py"
+    },
+    {
+      "module": "prepare",
+      "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\prepare.py",
+      "sha256": "00d59c00a726763ea3bd1dcda9bd534d6bc1926da9bf0cd5149fbddc466de685",
+      "in_builder_snapshot": true,
+      "snapshot_differs": false
+    },
+    {
+      "module": "supplements",
+      "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\supplements.py",
+      "sha256": "aaafcd231d120cb0f521cee338cf9302b649db5d0f77dd08bcdd945cdec9c72b",
+      "in_builder_snapshot": true,
+      "snapshot_differs": false
+    },
+    {
+      "module": "walking",
+      "origin": "C:\\Users\\benja\\Dropbox\\BEN_BALL\\BB_CODE\\.scratch\\sg010\\walking.py",
+      "sha256": "0b70ee2010ac3acbe862835ba9923ecf7717a37f9438246b42d9c9fde793f1b7",
+      "in_builder_snapshot": true,
+      "snapshot_differs": false
+    }
+  ],
+  "notes": [
+    "home_inspection_library.py carries the SG-010 parameterization (build(..., edition=, glossary=, current=)); the copy in Library/SG-010-2026-09-21 is the same bytes.",
+    "Builder modules are reference copies; the Builder Snapshot in SG-010 Handoff already holds most of them. Modules that differ from the snapshot, or are outside .scratch/sg010, are copied here too.",
+    "bbdf_core.paths (BB_CODE package) is imported by card_brand.py and contents_sg010.py to resolve the BB design-system logo and palette; the split needs a local resolver or a vendored copy of BENBALL_A_CANONICAL.svg and palette.json.",
+    "No BB_CODE git operation was performed."
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "release": "portable-v1.2",
+  "files": {
+    "README.md": "18df9d6fcec992863e81422b97cb500efac39f34a859a78c865277da7f16ba7d",
+    "local_runtime.py": "e96083c6c0312918e95275183a31306964a5f3829f49c85f2cfc2822d4748222",
+    "local-settings.example.json": "a82bb1ccc8c6ec2a675f47d4c58b6139304dbca3716d6fbb21670ba7c3d5a270",
+    "requirements.txt": "70999ec66f7de8da028b82dd5b745de0964485e8355d5f43926aa54bfbdba13e",
+    "tests/test_runtime.py": "5ee3e35f80570261c96f2d25aebcab309890383ec4f40c9bc2edf9c00abb327b",
+    "recording-notes/SKILL.md": "ad052b657fac9c66df49227d729f26fb599117fda7326303925f5f925ee3f690",
+    "recording-notes/scripts/export_recordings.py": "23a71a5a9e8b49f973dc43c5d06f0740596bb0237cd4b5d718775bbbba581676",
+    "recording-notes/scripts/publish_notes.py": "02f980c66edc3bd2840835065c2edffb4328cadf4e204ddb20b029c704335138",
+    "audio-notes/SKILL.md": "7fba5ad11ba2a95a6ac3f2bde8845ea45eb61a42992a4b51264bad0b9eb6c163",
+    "audio-notes/scripts/export_audio.py": "9d52c367b7a6bf919794bcd90f29ba3628fe46a314e48693979e154b33829442"
+  }
+}

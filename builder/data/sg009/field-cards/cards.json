@@ -1,0 +1,289 @@
+{
+  "status": "internal appendix prototype",
+  "title": "Quick charts and tables",
+  "date": "2026-09-20",
+  "size_inches": [
+    5,
+    7
+  ],
+  "faces": 8,
+  "duplex_cards": 4,
+  "working_type_pt": 14,
+  "handwriting_area": "Unfilled strip, two rules 33 pt apart; about 1.4 inches high",
+  "formal_appendix_id": null,
+  "base_edition_unchanged": true,
+  "conference_room_action": "none",
+  "source_sha256": "ee8fd6b48260c31e435d4d4d52dfe2d886d4fa1356299c979cc6220ebd247582",
+  "cards": [
+    {
+      "id": "1A",
+      "title": [
+        "BASEMENT",
+        "FIRST PASS"
+      ],
+      "kind": "routes",
+      "refs": [
+        "foundation_water",
+        "load_paths",
+        "service",
+        "gas_heat"
+      ],
+      "source": "SG-008 pp. 5-6, 18, 21",
+      "cue": "Four paths. Mark what needs a return.",
+      "rows": [
+        [
+          "WATER",
+          "Entry > travel > collection > outlet"
+        ],
+        [
+          "LOAD",
+          "Floor > support > base > ground"
+        ],
+        [
+          "SERVICES",
+          "Supply > equipment > discharge"
+        ],
+        [
+          "EVIDENCE",
+          "Location > condition > photo > action"
+        ]
+      ],
+      "note": "Accessible evidence sets the route.",
+      "write": "SPOT / PHOTO / RETURN TO"
+    },
+    {
+      "id": "1B",
+      "title": [
+        "WATER",
+        "READ THE CLUE"
+      ],
+      "kind": "table",
+      "refs": [
+        "foundation_water",
+        "water"
+      ],
+      "source": "SG-008 pp. 5, 14 / APP-D terms",
+      "cue": "Present condition and past evidence differ.",
+      "headers": [
+        "YOU SEE",
+        "CHECK NEXT"
+      ],
+      "rows": [
+        [
+          "Wet now",
+          "Joint, surface, route;\nwhat is operating?"
+        ],
+        [
+          "Dry stain /\nsalts",
+          "Extent and context;\ncurrent wetting unknown."
+        ],
+        [
+          "Cold, wet\npipe",
+          "Condensation or leak?\nTrace the wet surface."
+        ]
+      ],
+      "note": "Salts alone do not prove a live leak.",
+      "write": "WET / DRY / LOCATION / PHOTO"
+    },
+    {
+      "id": "2A",
+      "title": [
+        "STRUCTURE",
+        "FOLLOW THE LOAD"
+      ],
+      "kind": "load",
+      "refs": [
+        "load_paths"
+      ],
+      "source": "SG-008 p. 6 / APP-D terms",
+      "cue": "Read the interfaces, not only the member.",
+      "rows": [
+        [
+          "FLOOR / JOISTS",
+          "Bearing and alterations"
+        ],
+        [
+          "BEAM / POST",
+          "Contact and connection"
+        ],
+        [
+          "BASE / FOOTING",
+          "Visible support and condition"
+        ],
+        [
+          "GROUND",
+          "What is known? What is concealed?"
+        ]
+      ],
+      "note": "Engineered members need their own details.",
+      "write": "SUPPORT / GAP / HIDDEN / PHOTO"
+    },
+    {
+      "id": "2B",
+      "title": [
+        "MOVEMENT",
+        "NAME THE SHAPE"
+      ],
+      "kind": "table",
+      "refs": [
+        "movement"
+      ],
+      "source": "SG-008 p. 7 / APP-D terms",
+      "cue": "Record geometry before assigning cause.",
+      "headers": [
+        "TERM",
+        "WHAT IT DESCRIBES"
+      ],
+      "rows": [
+        [
+          "Unlevel",
+          "Overall slope"
+        ],
+        [
+          "Uneven",
+          "Local variation"
+        ],
+        [
+          "Sagging",
+          "Downward deformation"
+        ],
+        [
+          "Bounce",
+          "Response to load"
+        ]
+      ],
+      "note": "Cracks: record width, offset, direction.\nOne visit rarely establishes movement rate.",
+      "write": "LOCATION / DIMENSION / PHOTO"
+    },
+    {
+      "id": "3A",
+      "title": [
+        "PIPES",
+        "KEEP ROUTES APART"
+      ],
+      "kind": "pipes",
+      "refs": [
+        "water",
+        "dwv",
+        "water_heat"
+      ],
+      "source": "SG-008 pp. 14-16 / APP-D terms",
+      "cue": "Identify the function before the material.",
+      "rows": [
+        [
+          "SUPPLY",
+          "Water to fixtures"
+        ],
+        [
+          "DRAIN / WASTE",
+          "Wastewater away"
+        ],
+        [
+          "VENT",
+          "Air path / trap-seal protection"
+        ]
+      ],
+      "note": "Relief discharge is a separate route.\nA draining fixture does not prove hidden pipe.",
+      "write": "ORIGIN / DESTINATION / UNKNOWN"
+    },
+    {
+      "id": "3B",
+      "title": [
+        "HEAT",
+        "TRACE BOTH SIDES"
+      ],
+      "kind": "heat",
+      "refs": [
+        "gas_heat",
+        "oil_heat"
+      ],
+      "source": "SG-008 pp. 21-22 / APP-D terms",
+      "cue": "Warm air does not prove safe combustion.",
+      "rows": [
+        [
+          "COMBUSTION",
+          "Fuel + air > burner > vent"
+        ],
+        [
+          "ROOM HEAT",
+          "Blower > ducts > rooms"
+        ]
+      ],
+      "note": "Soot / rollout / damaged vent: stop affected\noperation; record and refer. Do not bypass\nsafety controls or reset an oil-burner lockout.",
+      "write": "APPLIANCE / CONCERN / PHOTO"
+    },
+    {
+      "id": "4A",
+      "title": [
+        "ELECTRICAL",
+        "DIFFERENT JOBS"
+      ],
+      "kind": "table",
+      "refs": [
+        "service",
+        "devices"
+      ],
+      "source": "SG-008 pp. 18, 20 / APP-D terms",
+      "cue": "One protection does not replace another.",
+      "headers": [
+        "FUNCTION",
+        "PURPOSE"
+      ],
+      "rows": [
+        [
+          "Grounding",
+          "Connection to earth"
+        ],
+        [
+          "Bonding",
+          "Electrical continuity /\nfault-current path"
+        ],
+        [
+          "GFCI",
+          "Certain ground-fault\nshock protection"
+        ],
+        [
+          "AFCI",
+          "Certain arc-fault\nprotection"
+        ]
+      ],
+      "note": "A noncontact indicator does not\nestablish a safe panel.",
+      "write": "PANEL / DEVICE / LOCATION"
+    },
+    {
+      "id": "4B",
+      "title": [
+        "SLOPE",
+        "READ THE NUMBER"
+      ],
+      "kind": "slope",
+      "refs": [],
+      "source": "Math reference / dimensions in same units",
+      "cue": "Conversion only. No acceptance threshold.",
+      "headers": [
+        "RISE PER FOOT",
+        "SLOPE"
+      ],
+      "rows": [
+        [
+          "1/8 in.",
+          "1.0%"
+        ],
+        [
+          "1/4 in.",
+          "2.1%"
+        ],
+        [
+          "1/2 in.",
+          "4.2%"
+        ],
+        [
+          "1 in.",
+          "8.3%"
+        ]
+      ],
+      "note": "Slope % = 100 x rise / horizontal run.\nRecord direction, span and units.",
+      "write": "RISE / RUN / DIRECTION / LOCATION"
+    }
+  ]
+}

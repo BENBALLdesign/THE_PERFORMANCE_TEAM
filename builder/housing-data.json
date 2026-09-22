@@ -1,0 +1,840 @@
+{
+  "dataset": "2024 ACS 1-Year Estimates, DP04 housing characteristics, as published by Maryland Department of Planning",
+  "universe": "Total housing units, including occupied and vacant units, all structure types; not unique buildings or inspection jobs",
+  "retrieved_on": "2026-09-19",
+  "counties": [
+    {
+      "fips": "24510",
+      "name": "Baltimore city",
+      "source_url": "https://planning.maryland.gov/MSDC/SiteAssets/ACS_Tables/1-Year/2024/Reports/CNTY_24510_ACS_2024.aspx",
+      "total": {
+        "label": "Total housing units",
+        "estimate": 297571,
+        "moe": 95,
+        "percent": 100,
+        "percent_moe": 0
+      },
+      "ages": [
+        {
+          "label": "Built 2020 or later",
+          "estimate": 4520,
+          "moe": 1951,
+          "percent": 1.5,
+          "percent_moe": 0.7
+        },
+        {
+          "label": "Built 2010 to 2019",
+          "estimate": 11390,
+          "moe": 2477,
+          "percent": 3.8,
+          "percent_moe": 0.8
+        },
+        {
+          "label": "Built 2000 to 2009",
+          "estimate": 11901,
+          "moe": 2517,
+          "percent": 4,
+          "percent_moe": 0.8
+        },
+        {
+          "label": "Built 1990 to 1999",
+          "estimate": 11025,
+          "moe": 2341,
+          "percent": 3.7,
+          "percent_moe": 0.8
+        },
+        {
+          "label": "Built 1980 to 1989",
+          "estimate": 15131,
+          "moe": 2859,
+          "percent": 5.1,
+          "percent_moe": 1
+        },
+        {
+          "label": "Built 1970 to 1979",
+          "estimate": 18752,
+          "moe": 3125,
+          "percent": 6.3,
+          "percent_moe": 1.1
+        },
+        {
+          "label": "Built 1960 to 1969",
+          "estimate": 22891,
+          "moe": 3191,
+          "percent": 7.7,
+          "percent_moe": 1.1
+        },
+        {
+          "label": "Built 1950 to 1959",
+          "estimate": 39590,
+          "moe": 3534,
+          "percent": 13.3,
+          "percent_moe": 1.2
+        },
+        {
+          "label": "Built 1940 to 1949",
+          "estimate": 38825,
+          "moe": 3785,
+          "percent": 13,
+          "percent_moe": 1.3
+        },
+        {
+          "label": "Built 1939 or earlier",
+          "estimate": 123546,
+          "moe": 5924,
+          "percent": 41.5,
+          "percent_moe": 2
+        }
+      ],
+      "structure": [
+        {
+          "label": "1-unit, detached",
+          "estimate": 45426,
+          "moe": 3525,
+          "percent": 15.3,
+          "percent_moe": 1.2
+        },
+        {
+          "label": "1-unit, attached",
+          "estimate": 149214,
+          "moe": 5697,
+          "percent": 50.1,
+          "percent_moe": 1.9
+        }
+      ],
+      "groups": [
+        {
+          "label": "Before 1940",
+          "estimate": 123546,
+          "percent": 41.51815869153916
+        },
+        {
+          "label": "1940-1959",
+          "estimate": 78415,
+          "percent": 26.351694217514474
+        },
+        {
+          "label": "1960-1979",
+          "estimate": 41643,
+          "percent": 13.99430724096098
+        },
+        {
+          "label": "1980-1999",
+          "estimate": 26156,
+          "percent": 8.7898350309674
+        },
+        {
+          "label": "2000-2009",
+          "estimate": 11901,
+          "percent": 3.9993816601752186
+        },
+        {
+          "label": "2010-2019",
+          "estimate": 11390,
+          "percent": 3.827657937097365
+        },
+        {
+          "label": "2020 onward",
+          "estimate": 4520,
+          "percent": 1.5189652217453986
+        }
+      ]
+    },
+    {
+      "fips": "24003",
+      "name": "Anne Arundel County",
+      "source_url": "https://planning.maryland.gov/MSDC/SiteAssets/ACS_Tables/1-Year/2024/Reports/CNTY_24003_ACS_2024.aspx",
+      "total": {
+        "label": "Total housing units",
+        "estimate": 238392,
+        "moe": 88,
+        "percent": 100,
+        "percent_moe": 0
+      },
+      "ages": [
+        {
+          "label": "Built 2020 or later",
+          "estimate": 6730,
+          "moe": 1544,
+          "percent": 2.8,
+          "percent_moe": 0.6
+        },
+        {
+          "label": "Built 2010 to 2019",
+          "estimate": 29164,
+          "moe": 3562,
+          "percent": 12.2,
+          "percent_moe": 1.5
+        },
+        {
+          "label": "Built 2000 to 2009",
+          "estimate": 26750,
+          "moe": 2755,
+          "percent": 11.2,
+          "percent_moe": 1.2
+        },
+        {
+          "label": "Built 1990 to 1999",
+          "estimate": 33216,
+          "moe": 3584,
+          "percent": 13.9,
+          "percent_moe": 1.5
+        },
+        {
+          "label": "Built 1980 to 1989",
+          "estimate": 35395,
+          "moe": 3255,
+          "percent": 14.8,
+          "percent_moe": 1.4
+        },
+        {
+          "label": "Built 1970 to 1979",
+          "estimate": 36464,
+          "moe": 3002,
+          "percent": 15.3,
+          "percent_moe": 1.3
+        },
+        {
+          "label": "Built 1960 to 1969",
+          "estimate": 25680,
+          "moe": 2749,
+          "percent": 10.8,
+          "percent_moe": 1.2
+        },
+        {
+          "label": "Built 1950 to 1959",
+          "estimate": 25150,
+          "moe": 3058,
+          "percent": 10.5,
+          "percent_moe": 1.3
+        },
+        {
+          "label": "Built 1940 to 1949",
+          "estimate": 8684,
+          "moe": 1640,
+          "percent": 3.6,
+          "percent_moe": 0.7
+        },
+        {
+          "label": "Built 1939 or earlier",
+          "estimate": 11159,
+          "moe": 1782,
+          "percent": 4.7,
+          "percent_moe": 0.7
+        }
+      ],
+      "structure": [
+        {
+          "label": "1-unit, detached",
+          "estimate": 139614,
+          "moe": 3965,
+          "percent": 58.6,
+          "percent_moe": 1.7
+        },
+        {
+          "label": "1-unit, attached",
+          "estimate": 52495,
+          "moe": 4196,
+          "percent": 22,
+          "percent_moe": 1.8
+        }
+      ],
+      "groups": [
+        {
+          "label": "Before 1940",
+          "estimate": 11159,
+          "percent": 4.6809456693177625
+        },
+        {
+          "label": "1940-1959",
+          "estimate": 33834,
+          "percent": 14.192590355381054
+        },
+        {
+          "label": "1960-1979",
+          "estimate": 62144,
+          "percent": 26.067988858686533
+        },
+        {
+          "label": "1980-1999",
+          "estimate": 68611,
+          "percent": 28.780747676096514
+        },
+        {
+          "label": "2000-2009",
+          "estimate": 26750,
+          "percent": 11.221014127990872
+        },
+        {
+          "label": "2010-2019",
+          "estimate": 29164,
+          "percent": 12.233632001073861
+        },
+        {
+          "label": "2020 onward",
+          "estimate": 6730,
+          "percent": 2.8230813114534046
+        }
+      ]
+    },
+    {
+      "fips": "24005",
+      "name": "Baltimore County",
+      "source_url": "https://planning.maryland.gov/MSDC/SiteAssets/ACS_Tables/1-Year/2024/Reports/CNTY_24005_ACS_2024.aspx",
+      "total": {
+        "label": "Total housing units",
+        "estimate": 351367,
+        "moe": 156,
+        "percent": 100,
+        "percent_moe": 0
+      },
+      "ages": [
+        {
+          "label": "Built 2020 or later",
+          "estimate": 4092,
+          "moe": 1365,
+          "percent": 1.2,
+          "percent_moe": 0.4
+        },
+        {
+          "label": "Built 2010 to 2019",
+          "estimate": 17382,
+          "moe": 2739,
+          "percent": 4.9,
+          "percent_moe": 0.8
+        },
+        {
+          "label": "Built 2000 to 2009",
+          "estimate": 30390,
+          "moe": 3548,
+          "percent": 8.6,
+          "percent_moe": 1
+        },
+        {
+          "label": "Built 1990 to 1999",
+          "estimate": 45353,
+          "moe": 3291,
+          "percent": 12.9,
+          "percent_moe": 0.9
+        },
+        {
+          "label": "Built 1980 to 1989",
+          "estimate": 43526,
+          "moe": 3303,
+          "percent": 12.4,
+          "percent_moe": 0.9
+        },
+        {
+          "label": "Built 1970 to 1979",
+          "estimate": 51767,
+          "moe": 4953,
+          "percent": 14.7,
+          "percent_moe": 1.4
+        },
+        {
+          "label": "Built 1960 to 1969",
+          "estimate": 50909,
+          "moe": 4659,
+          "percent": 14.5,
+          "percent_moe": 1.3
+        },
+        {
+          "label": "Built 1950 to 1959",
+          "estimate": 63749,
+          "moe": 4035,
+          "percent": 18.1,
+          "percent_moe": 1.1
+        },
+        {
+          "label": "Built 1940 to 1949",
+          "estimate": 20054,
+          "moe": 2405,
+          "percent": 5.7,
+          "percent_moe": 0.7
+        },
+        {
+          "label": "Built 1939 or earlier",
+          "estimate": 24145,
+          "moe": 2795,
+          "percent": 6.9,
+          "percent_moe": 0.8
+        }
+      ],
+      "structure": [
+        {
+          "label": "1-unit, detached",
+          "estimate": 166962,
+          "moe": 5193,
+          "percent": 47.5,
+          "percent_moe": 1.5
+        },
+        {
+          "label": "1-unit, attached",
+          "estimate": 84662,
+          "moe": 4329,
+          "percent": 24.1,
+          "percent_moe": 1.2
+        }
+      ],
+      "groups": [
+        {
+          "label": "Before 1940",
+          "estimate": 24145,
+          "percent": 6.871732405149032
+        },
+        {
+          "label": "1940-1959",
+          "estimate": 83803,
+          "percent": 23.850560809637788
+        },
+        {
+          "label": "1960-1979",
+          "estimate": 102676,
+          "percent": 29.22186773373709
+        },
+        {
+          "label": "1980-1999",
+          "estimate": 88879,
+          "percent": 25.295204159753194
+        },
+        {
+          "label": "2000-2009",
+          "estimate": 30390,
+          "percent": 8.649076321908431
+        },
+        {
+          "label": "2010-2019",
+          "estimate": 17382,
+          "percent": 4.946964285206066
+        },
+        {
+          "label": "2020 onward",
+          "estimate": 4092,
+          "percent": 1.164594284608401
+        }
+      ]
+    },
+    {
+      "fips": "24013",
+      "name": "Carroll County",
+      "source_url": "https://planning.maryland.gov/MSDC/SiteAssets/ACS_Tables/1-Year/2024/Reports/CNTY_24013_ACS_2024.aspx",
+      "total": {
+        "label": "Total housing units",
+        "estimate": 67469,
+        "moe": 55,
+        "percent": 100,
+        "percent_moe": 0
+      },
+      "ages": [
+        {
+          "label": "Built 2020 or later",
+          "estimate": 1667,
+          "moe": 732,
+          "percent": 2.5,
+          "percent_moe": 1.1
+        },
+        {
+          "label": "Built 2010 to 2019",
+          "estimate": 2524,
+          "moe": 822,
+          "percent": 3.7,
+          "percent_moe": 1.2
+        },
+        {
+          "label": "Built 2000 to 2009",
+          "estimate": 9983,
+          "moe": 1362,
+          "percent": 14.8,
+          "percent_moe": 2
+        },
+        {
+          "label": "Built 1990 to 1999",
+          "estimate": 10931,
+          "moe": 1528,
+          "percent": 16.2,
+          "percent_moe": 2.3
+        },
+        {
+          "label": "Built 1980 to 1989",
+          "estimate": 10640,
+          "moe": 1548,
+          "percent": 15.8,
+          "percent_moe": 2.3
+        },
+        {
+          "label": "Built 1970 to 1979",
+          "estimate": 12829,
+          "moe": 1680,
+          "percent": 19,
+          "percent_moe": 2.5
+        },
+        {
+          "label": "Built 1960 to 1969",
+          "estimate": 6244,
+          "moe": 1474,
+          "percent": 9.3,
+          "percent_moe": 2.2
+        },
+        {
+          "label": "Built 1950 to 1959",
+          "estimate": 2961,
+          "moe": 850,
+          "percent": 4.4,
+          "percent_moe": 1.3
+        },
+        {
+          "label": "Built 1940 to 1949",
+          "estimate": 1151,
+          "moe": 590,
+          "percent": 1.7,
+          "percent_moe": 0.9
+        },
+        {
+          "label": "Built 1939 or earlier",
+          "estimate": 8539,
+          "moe": 1537,
+          "percent": 12.7,
+          "percent_moe": 2.3
+        }
+      ],
+      "structure": [
+        {
+          "label": "1-unit, detached",
+          "estimate": 54886,
+          "moe": 1465,
+          "percent": 81.3,
+          "percent_moe": 2.2
+        },
+        {
+          "label": "1-unit, attached",
+          "estimate": 6636,
+          "moe": 1370,
+          "percent": 9.8,
+          "percent_moe": 2
+        }
+      ],
+      "groups": [
+        {
+          "label": "Before 1940",
+          "estimate": 8539,
+          "percent": 12.6561828395263
+        },
+        {
+          "label": "1940-1959",
+          "estimate": 4112,
+          "percent": 6.094650876698928
+        },
+        {
+          "label": "1960-1979",
+          "estimate": 19073,
+          "percent": 28.26927922453275
+        },
+        {
+          "label": "1980-1999",
+          "estimate": 21571,
+          "percent": 31.97172034564022
+        },
+        {
+          "label": "2000-2009",
+          "estimate": 9983,
+          "percent": 14.796425024826217
+        },
+        {
+          "label": "2010-2019",
+          "estimate": 2524,
+          "percent": 3.7409773377402957
+        },
+        {
+          "label": "2020 onward",
+          "estimate": 1667,
+          "percent": 2.47076435103529
+        }
+      ]
+    },
+    {
+      "fips": "24025",
+      "name": "Harford County",
+      "source_url": "https://planning.maryland.gov/MSDC/SiteAssets/ACS_Tables/1-Year/2024/Reports/CNTY_24025_ACS_2024.aspx",
+      "total": {
+        "label": "Total housing units",
+        "estimate": 107636,
+        "moe": 63,
+        "percent": 100,
+        "percent_moe": 0
+      },
+      "ages": [
+        {
+          "label": "Built 2020 or later",
+          "estimate": 2804,
+          "moe": 1100,
+          "percent": 2.6,
+          "percent_moe": 1
+        },
+        {
+          "label": "Built 2010 to 2019",
+          "estimate": 9560,
+          "moe": 1658,
+          "percent": 8.9,
+          "percent_moe": 1.5
+        },
+        {
+          "label": "Built 2000 to 2009",
+          "estimate": 18048,
+          "moe": 2193,
+          "percent": 16.8,
+          "percent_moe": 2
+        },
+        {
+          "label": "Built 1990 to 1999",
+          "estimate": 17514,
+          "moe": 1918,
+          "percent": 16.3,
+          "percent_moe": 1.8
+        },
+        {
+          "label": "Built 1980 to 1989",
+          "estimate": 19080,
+          "moe": 1948,
+          "percent": 17.7,
+          "percent_moe": 1.8
+        },
+        {
+          "label": "Built 1970 to 1979",
+          "estimate": 13839,
+          "moe": 2114,
+          "percent": 12.9,
+          "percent_moe": 2
+        },
+        {
+          "label": "Built 1960 to 1969",
+          "estimate": 13392,
+          "moe": 2443,
+          "percent": 12.4,
+          "percent_moe": 2.3
+        },
+        {
+          "label": "Built 1950 to 1959",
+          "estimate": 6476,
+          "moe": 1802,
+          "percent": 6,
+          "percent_moe": 1.7
+        },
+        {
+          "label": "Built 1940 to 1949",
+          "estimate": 2084,
+          "moe": 900,
+          "percent": 1.9,
+          "percent_moe": 0.8
+        },
+        {
+          "label": "Built 1939 or earlier",
+          "estimate": 4839,
+          "moe": 1166,
+          "percent": 4.5,
+          "percent_moe": 1.1
+        }
+      ],
+      "structure": [
+        {
+          "label": "1-unit, detached",
+          "estimate": 63777,
+          "moe": 2923,
+          "percent": 59.3,
+          "percent_moe": 2.7
+        },
+        {
+          "label": "1-unit, attached",
+          "estimate": 21374,
+          "moe": 1930,
+          "percent": 19.9,
+          "percent_moe": 1.8
+        }
+      ],
+      "groups": [
+        {
+          "label": "Before 1940",
+          "estimate": 4839,
+          "percent": 4.495707755769446
+        },
+        {
+          "label": "1940-1959",
+          "estimate": 8560,
+          "percent": 7.952729570032331
+        },
+        {
+          "label": "1960-1979",
+          "estimate": 27231,
+          "percent": 25.299156416068975
+        },
+        {
+          "label": "1980-1999",
+          "estimate": 36594,
+          "percent": 33.99791891188821
+        },
+        {
+          "label": "2000-2009",
+          "estimate": 18048,
+          "percent": 16.76762421494667
+        },
+        {
+          "label": "2010-2019",
+          "estimate": 9560,
+          "percent": 8.881786762793118
+        },
+        {
+          "label": "2020 onward",
+          "estimate": 2804,
+          "percent": 2.605076368501245
+        }
+      ]
+    },
+    {
+      "fips": "24027",
+      "name": "Howard County",
+      "source_url": "https://planning.maryland.gov/MSDC/SiteAssets/ACS_Tables/1-Year/2024/Reports/CNTY_24027_ACS_2024.aspx",
+      "total": {
+        "label": "Total housing units",
+        "estimate": 126789,
+        "moe": 53,
+        "percent": 100,
+        "percent_moe": 0
+      },
+      "ages": [
+        {
+          "label": "Built 2020 or later",
+          "estimate": 3648,
+          "moe": 918,
+          "percent": 2.9,
+          "percent_moe": 0.7
+        },
+        {
+          "label": "Built 2010 to 2019",
+          "estimate": 18101,
+          "moe": 2071,
+          "percent": 14.3,
+          "percent_moe": 1.6
+        },
+        {
+          "label": "Built 2000 to 2009",
+          "estimate": 20900,
+          "moe": 2602,
+          "percent": 16.5,
+          "percent_moe": 2.1
+        },
+        {
+          "label": "Built 1990 to 1999",
+          "estimate": 24565,
+          "moe": 2984,
+          "percent": 19.4,
+          "percent_moe": 2.4
+        },
+        {
+          "label": "Built 1980 to 1989",
+          "estimate": 27137,
+          "moe": 2154,
+          "percent": 21.4,
+          "percent_moe": 1.7
+        },
+        {
+          "label": "Built 1970 to 1979",
+          "estimate": 17359,
+          "moe": 2020,
+          "percent": 13.7,
+          "percent_moe": 1.6
+        },
+        {
+          "label": "Built 1960 to 1969",
+          "estimate": 8802,
+          "moe": 1345,
+          "percent": 6.9,
+          "percent_moe": 1.1
+        },
+        {
+          "label": "Built 1950 to 1959",
+          "estimate": 3686,
+          "moe": 1089,
+          "percent": 2.9,
+          "percent_moe": 0.9
+        },
+        {
+          "label": "Built 1940 to 1949",
+          "estimate": 167,
+          "moe": 208,
+          "percent": 0.1,
+          "percent_moe": 0.2
+        },
+        {
+          "label": "Built 1939 or earlier",
+          "estimate": 2424,
+          "moe": 791,
+          "percent": 1.9,
+          "percent_moe": 0.6
+        }
+      ],
+      "structure": [
+        {
+          "label": "1-unit, detached",
+          "estimate": 63578,
+          "moe": 2508,
+          "percent": 50.1,
+          "percent_moe": 2
+        },
+        {
+          "label": "1-unit, attached",
+          "estimate": 29116,
+          "moe": 2351,
+          "percent": 23,
+          "percent_moe": 1.9
+        }
+      ],
+      "groups": [
+        {
+          "label": "Before 1940",
+          "estimate": 2424,
+          "percent": 1.911837777725197
+        },
+        {
+          "label": "1940-1959",
+          "estimate": 3853,
+          "percent": 3.038907160715835
+        },
+        {
+          "label": "1960-1979",
+          "estimate": 26161,
+          "percent": 20.633493441860097
+        },
+        {
+          "label": "1980-1999",
+          "estimate": 51702,
+          "percent": 40.777985471925795
+        },
+        {
+          "label": "2000-2009",
+          "estimate": 20900,
+          "percent": 16.484079849198274
+        },
+        {
+          "label": "2010-2019",
+          "estimate": 18101,
+          "percent": 14.276475088532917
+        },
+        {
+          "label": "2020 onward",
+          "estimate": 3648,
+          "percent": 2.877221210041881
+        }
+      ]
+    }
+  ],
+  "grouping": [
+    "Before 1940",
+    "1940-1959",
+    "1960-1979",
+    "1980-1999",
+    "2000-2009",
+    "2010-2019",
+    "2020 onward"
+  ],
+  "method": "Sum published count estimates within each band, then divide by the jurisdiction total. Percentages are rounded for display; source-row margins of error are retained. No interpolation at 2015 or 2024.",
+  "inference": "Study priorities are editorial judgments based on housing age and form, not measured defect rates or the distribution of future inspection jobs."
+}

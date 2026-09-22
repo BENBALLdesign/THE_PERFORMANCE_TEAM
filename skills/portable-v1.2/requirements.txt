@@ -1,0 +1,4 @@
+Pillow>=9
+numpy>=1.24
+openai-whisper>=20250625
+torch>=2
