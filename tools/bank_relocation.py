@@ -226,11 +226,22 @@ class Migration:
                     assert (index, row['file']) in intents
                 done += 1
             # Empty folders only; the source root stays as a small landing point (kept files stay in place).
+            left_empty = []
             for folder, dirs, names in os.walk(src, topdown=False):
                 p = Path(folder)
                 if p != src and not any(p.iterdir()):
                     bounded(p, src)
-                    p.rmdir()
+                    for attempt in range(8):   # Dropbox briefly holds handles on folders it just watched empty
+                        try:
+                            p.rmdir()
+                            break
+                        except PermissionError:
+                            if attempt == 7:
+                                left_empty.append(p.relative_to(src).as_posix())
+                            else:
+                                time.sleep(.5 * (attempt + 1))
+            if left_empty:
+                print('Empty folders left in place (locked by another process):', len(left_empty), src.name, flush=True)
             pointer = dict(schema='seed-bank-location/1', vault_id=storage.VAULT_ID, original_root=str(src), bank_root=str(dst),
                            migration=self.id, kind=group['kind'], files=len(group['files']),
                            bytes=sum(f['bytes'] for f in group['files']),
