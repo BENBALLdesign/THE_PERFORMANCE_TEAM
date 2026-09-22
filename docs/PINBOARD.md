@@ -1,0 +1,9 @@
+# Pinboard
+
+Findings that are true, bounded, and only matter to whoever next touches the thing named. Not a backlog: a pin that has been read and ignored several times gets dropped or promoted to an issue. Once the GitHub remote exists, open items move to Issues on `BENBALLdesign/THE_PERFORMANCE_TEAM` and this file keeps the record.
+
+| Pinned | Anchor | Severity | Trigger | Note | Status |
+| --- | --- | --- | --- | --- | --- |
+| 2026-09-22 | `production/sg010/publish_sg010.py` `verify()` | note | anyone running `verify` after `finish()`, or writing the next edition's publisher from this script | `verify()` asserts every plan removal is absent, but the plan removed the parent's `_Maintenance/publication-receipt.json` and `finish()` writes the new receipt at that same path, so `verify` only passes before the receipt exists. Fails identically from the pre-separation location. Fix: skip receipt paths in the removal assertion (or exclude the receipt from removals at `plan()`). | open |
+| 2026-09-22 | `docs/CARRY-MANIFEST.json` | note | anyone reconciling the carry manifest against `builder/` | Three modules the manifest lists as builder imports were not carried: `edition_inspection_layer`, `mark_maryland`, `card_inspection_drawings`. Nothing in `production/sg010` imports them (AST closure plus `cards_sg010.load` calls checked) and two create folders at import time. They remain in `BB_CODE/.scratch/sg010` and the Builder Snapshot. | open |
+| 2026-09-22 | `production/sg010/prepare_content.py` | note | the next re-render of an edition's data | `source_location_catalog` records the absolute path of the catalog that was read. SG-010 carried the Dropbox path; a re-render now carries the checkout `registries/` path. Content unchanged; the field is provenance only. Consider recording a checkout-relative path. | open |
