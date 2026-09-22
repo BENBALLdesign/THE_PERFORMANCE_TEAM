@@ -1,0 +1,856 @@
+{
+ "C:\\Users\\benja\\Dropbox\\ABSTRACTION nft": {
+  "bytes": 270903579293,
+  "files": 64662,
+  "seconds": 6.6,
+  "markers": [
+   "CODE STRUCTURE\\GEN-ABSTractors\\.venv"
+  ],
+  "level1": [
+   {
+    "path": "CODE STRUCTURE",
+    "bytes": 253788707662,
+    "files": 61400
+   },
+   {
+    "path": "FRAKT launch",
+    "bytes": 13561238261,
+    "files": 2607
+   },
+   {
+    "path": "NFT Collection",
+    "bytes": 3105521611,
+    "files": 560
+   },
+   {
+    "path": "ImageGenerationCode",
+    "bytes": 161394436,
+    "files": 16
+   },
+   {
+    "path": "LOGOs",
+    "bytes": 155672636,
+    "files": 9
+   },
+   {
+    "path": "(root files)",
+    "bytes": 75703974,
+    "files": 6
+   },
+   {
+    "path": "PHYSICAL",
+    "bytes": 54831616,
+    "files": 1
+   },
+   {
+    "path": ".Rproj.user",
+    "bytes": 384593,
+    "files": 48
+   },
+   {
+    "path": "OLDSCHOOL",
+    "bytes": 75793,
+    "files": 13
+   },
+   {
+    "path": "Accounting",
+    "bytes": 48711,
+    "files": 2
+   }
+  ],
+  "level2": [
+   {
+    "path": "CODE STRUCTURE/GEN-dataPROT",
+    "bytes": 97973614536,
+    "files": 4657
+   },
+   {
+    "path": "CODE STRUCTURE/__~CURRENT~OUTPUT~__keep_clean",
+    "bytes": 87723005302,
+    "files": 3014
+   },
+   {
+    "path": "CODE STRUCTURE/SOURCE-IMAGES",
+    "bytes": 53204866155,
+    "files": 1902
+   },
+   {
+    "path": "FRAKT launch/hres",
+    "bytes": 13128578123,
+    "files": 1298
+   },
+   {
+    "path": "CODE STRUCTURE/Dataset-Warehouse",
+    "bytes": 7193297263,
+    "files": 37581
+   },
+   {
+    "path": "CODE STRUCTURE/~~MINT~~",
+    "bytes": 5103850132,
+    "files": 705
+   },
+   {
+    "path": "NFT Collection/personal artwork",
+    "bytes": 2829579005,
+    "files": 437
+   },
+   {
+    "path": "CODE STRUCTURE/PY Toolbox",
+    "bytes": 2061173847,
+    "files": 64
+   },
+   {
+    "path": "CODE STRUCTURE/GEN-ABSTractors",
+    "bytes": 516411494,
+    "files": 13175
+   },
+   {
+    "path": "NFT Collection/collected artwork",
+    "bytes": 275821238,
+    "files": 122
+   },
+   {
+    "path": "FRAKT launch/yearreview",
+    "bytes": 215992566,
+    "files": 649
+   },
+   {
+    "path": "ImageGenerationCode/Deletedfolder",
+    "bytes": 161394436,
+    "files": 16
+   },
+   {
+    "path": "LOGOs/(files)",
+    "bytes": 155672636,
+    "files": 9
+   },
+   {
+    "path": "FRAKT launch/charts",
+    "bytes": 111244418,
+    "files": 649
+   },
+   {
+    "path": "FRAKT launch/SOUNDsignals",
+    "bytes": 104367667,
+    "files": 3
+   },
+   {
+    "path": "(root files)",
+    "bytes": 75703974,
+    "files": 6
+   },
+   {
+    "path": "PHYSICAL/(files)",
+    "bytes": 54831616,
+    "files": 1
+   },
+   {
+    "path": "CODE STRUCTURE/Color Lab",
+    "bytes": 12365184,
+    "files": 292
+   },
+   {
+    "path": "FRAKT launch/(files)",
+    "bytes": 1055487,
+    "files": 8
+   },
+   {
+    "path": ".Rproj.user/E05F895B",
+    "bytes": 383291,
+    "files": 46
+   },
+   {
+    "path": "NFT Collection/(files)",
+    "bytes": 121368,
+    "files": 1
+   },
+   {
+    "path": "CODE STRUCTURE/__base_classes",
+    "bytes": 118699,
+    "files": 8
+   },
+   {
+    "path": "OLDSCHOOL/(files)",
+    "bytes": 75793,
+    "files": 13
+   },
+   {
+    "path": "Accounting/(files)",
+    "bytes": 48711,
+    "files": 2
+   },
+   {
+    "path": "CODE STRUCTURE/Twitter",
+    "bytes": 3298,
+    "files": 1
+   },
+   {
+    "path": "CODE STRUCTURE/GEN-Gcoder",
+    "bytes": 1752,
+    "files": 1
+   },
+   {
+    "path": ".Rproj.user/shared",
+    "bytes": 1302,
+    "files": 2
+   }
+  ],
+  "ext": [
+   {
+    "ext": "png",
+    "bytes": 164316646752,
+    "files": 11387
+   },
+   {
+    "ext": "csv",
+    "bytes": 100050141168,
+    "files": 35824
+   },
+   {
+    "ext": "pdn",
+    "bytes": 3135416572,
+    "files": 77
+   },
+   {
+    "ext": "jpg",
+    "bytes": 886157760,
+    "files": 243
+   },
+   {
+    "ext": "zip",
+    "bytes": 576807884,
+    "files": 2762
+   },
+   {
+    "ext": "jpeg",
+    "bytes": 162297601,
+    "files": 681
+   },
+   {
+    "ext": "xlsm",
+    "bytes": 154168687,
+    "files": 5
+   },
+   {
+    "ext": "xlsx",
+    "bytes": 153096337,
+    "files": 34
+   },
+   {
+    "ext": "dll",
+    "bytes": 148986608,
+    "files": 6
+   },
+   {
+    "ext": "pdnsave",
+    "bytes": 145153767,
+    "files": 3
+   },
+   {
+    "ext": "kra",
+    "bytes": 141673582,
+    "files": 1
+   },
+   {
+    "ext": "pyc",
+    "bytes": 125006273,
+    "files": 5283
+   }
+  ],
+  "big": [
+   {
+    "bytes": 1235638289,
+    "path": "CODE STRUCTURE\\GEN-dataPROT\\PROTclass\\PROTdata\\clouds\\29dc78775799ff3c.csv"
+   },
+   {
+    "bytes": 1231384719,
+    "path": "CODE STRUCTURE\\GEN-dataPROT\\PROTclass\\PROTdata\\clouds\\afba9272d3cab348.csv"
+   },
+   {
+    "bytes": 1230783556,
+    "path": "CODE STRUCTURE\\GEN-dataPROT\\PROTclass\\PROTdata\\clouds\\2aef3e38bac7912d.csv"
+   },
+   {
+    "bytes": 1229440931,
+    "path": "CODE STRUCTURE\\GEN-dataPROT\\PROTclass\\PROTdata\\clouds\\a0a62ce5f712558f.csv"
+   },
+   {
+    "bytes": 1229432658,
+    "path": "CODE STRUCTURE\\GEN-dataPROT\\PROTclass\\PROTdata\\clouds\\cdf7b1851d8862cd.csv"
+   },
+   {
+    "bytes": 1229098959,
+    "path": "CODE STRUCTURE\\GEN-dataPROT\\PROTclass\\PROTdata\\clouds\\db8c1e5ef6911b3a.csv"
+   },
+   {
+    "bytes": 1228069765,
+    "path": "CODE STRUCTURE\\GEN-dataPROT\\PROTclass\\PROTdata\\clouds\\3fcba9cdc8aa4f9c.csv"
+   },
+   {
+    "bytes": 1226997633,
+    "path": "CODE STRUCTURE\\GEN-dataPROT\\PROTclass\\PROTdata\\clouds\\751b6448f06ffd95.csv"
+   },
+   {
+    "bytes": 1226741946,
+    "path": "CODE STRUCTURE\\GEN-dataPROT\\PROTclass\\PROTdata\\clouds\\e917ff2733025f75.csv"
+   },
+   {
+    "bytes": 808488380,
+    "path": "CODE STRUCTURE\\PY Toolbox\\Image Adjustments\\Kitra Point Clouds\\99c32316a7511a30.csv"
+   },
+   {
+    "bytes": 582076911,
+    "path": "CODE STRUCTURE\\GEN-dataPROT\\PROTclass\\PROTdata\\clouds\\b9a9330fd31629bc.csv"
+   },
+   {
+    "bytes": 581362527,
+    "path": "CODE STRUCTURE\\GEN-dataPROT\\PROTclass\\PROTdata\\clouds\\dec832f8b828d709.csv"
+   },
+   {
+    "bytes": 581098740,
+    "path": "CODE STRUCTURE\\GEN-dataPROT\\PROTclass\\PROTdata\\clouds\\df3ed270a23e05bd.csv"
+   },
+   {
+    "bytes": 580593573,
+    "path": "CODE STRUCTURE\\GEN-dataPROT\\PROTclass\\PROTdata\\clouds\\b03d56aea488b59b.csv"
+   },
+   {
+    "bytes": 579763268,
+    "path": "CODE STRUCTURE\\GEN-dataPROT\\PROTclass\\PROTdata\\clouds\\d298ca1d60718f68.csv"
+   },
+   {
+    "bytes": 579475432,
+    "path": "CODE STRUCTURE\\GEN-dataPROT\\PROTclass\\PROTdata\\clouds\\fe85937a014509bf.csv"
+   },
+   {
+    "bytes": 579156830,
+    "path": "CODE STRUCTURE\\GEN-dataPROT\\PROTclass\\PROTdata\\clouds\\9c7d28c1e6d00b01.csv"
+   },
+   {
+    "bytes": 578819108,
+    "path": "CODE STRUCTURE\\GEN-dataPROT\\PROTclass\\PROTdata\\clouds\\76a49e02beb0777b.csv"
+   },
+   {
+    "bytes": 578387064,
+    "path": "CODE STRUCTURE\\GEN-dataPROT\\PROTclass\\PROTdata\\clouds\\7799e58f01b7a42d.csv"
+   },
+   {
+    "bytes": 578357846,
+    "path": "CODE STRUCTURE\\GEN-dataPROT\\PROTclass\\PROTdata\\clouds\\bd7632f9352aa2cb.csv"
+   },
+   {
+    "bytes": 577126290,
+    "path": "CODE STRUCTURE\\GEN-dataPROT\\PROTclass\\PROTdata\\clouds\\be15dda89795505a.csv"
+   },
+   {
+    "bytes": 576304679,
+    "path": "CODE STRUCTURE\\GEN-dataPROT\\PROTclass\\PROTdata\\clouds\\448c806f08fd5e07.csv"
+   },
+   {
+    "bytes": 576195685,
+    "path": "CODE STRUCTURE\\GEN-dataPROT\\PROTclass\\PROTdata\\clouds\\f436015092d85659.csv"
+   },
+   {
+    "bytes": 576080214,
+    "path": "CODE STRUCTURE\\GEN-dataPROT\\PROTclass\\PROTdata\\clouds\\4b6119cf010abb53.csv"
+   },
+   {
+    "bytes": 575529950,
+    "path": "CODE STRUCTURE\\GEN-dataPROT\\PROTclass\\PROTdata\\clouds\\935a3d9511deae0f.csv"
+   }
+  ]
+ },
+ "C:\\Users\\benja\\Dropbox\\BB_SEED": {
+  "bytes": 1250870577102,
+  "files": 314939,
+  "seconds": 26.1,
+  "markers": [
+   ".git",
+   "_runtime",
+   "BB_BOOKS",
+   "BB_DESIGN",
+   "BB_BOOKS\\library\\Sources\\ABSTRACTION nft\\CODE STRUCTURE\\GEN-ABSTractors\\.venv",
+   "BB_BOOKS\\reference\\architecture-clarifications\\20260910T081756Z\\before\\BB_BOOKS",
+   "BB_BOOKS\\reference\\architecture-clarifications\\seed-purpose-20260910T082739Z\\before\\BB_BOOKS",
+   "BB_BOOKS\\reference\\architecture-clarifications\\seed-to-trunk-20260914\\before\\BB_BOOKS",
+   "BB_BOOKS\\reference\\architecture-clarifications\\seed-to-trunk-20260914\\before\\BB_DESIGN",
+   "BB_BOOKS\\reference\\architecture-clarifications\\shared-substrate-20260910T082410Z\\before\\BB_BOOKS",
+   "BB_BOOKS\\reference\\completion\\abstractors-20260910\\before\\BB_BOOKS",
+   "BB_BOOKS\\reference\\completion\\equation-controls-20260910\\before\\BB_DESIGN",
+   "BB_BOOKS\\reference\\gui-feedback\\focus-20260910T084225Z\\before\\BB_BOOKS",
+   "BB_BOOKS\\reference\\implementation\\the-stable-working-tools-20260914\\isolated-smoke\\BB_BOOKS",
+   "BB_BOOKS\\reference\\lexicon-delivery\\final-0538cd08eaa14f9bad0bd83f61c48cf5\\BB_BOOKS",
+   "BB_BOOKS\\reference\\lexicon-feedback\\neutral-growth-20260910T072903Z\\before\\BB_BOOKS",
+   "BB_BOOKS\\reference\\lexicon-research-validation\\d9a5b89427794ff68afe2386e2dc2614\\fixture\\BB_BOOKS",
+   "BB_BOOKS\\reference\\lexicon-research-validation\\f02f32357c9a4a189ebdbd97cb2d766d\\fixture\\BB_BOOKS",
+   "BB_BOOKS\\reference\\lexicon-validation\\2b38f233c2d945bea51a09f3f6434cc2\\fixture\\BB_BOOKS",
+   "BB_BOOKS\\reference\\lexicon-validation\\8d042fdb80b0479bb9a8801e70b280cf\\fixture\\BB_BOOKS",
+   "BB_BOOKS\\reference\\lexicon-validation\\9f03c19ff5774e608a6f98b2412564f3\\fixture\\BB_BOOKS",
+   "BB_BOOKS\\reference\\root-workspace\\96a9e3bf-5ca0-4ba4-a9ef-bf3e5ffad74c\\fixture\\BB_BOOKS",
+   "BB_BOOKS\\reference\\root-workspace\\b5ad4d1e-701f-45ed-a436-3e9e62cd181d\\fixture\\BB_BOOKS",
+   "trials\\library-stress-2026-09-07\\BB_BOOKS",
+   "work\\clean-checkout-2f9c76c6\\BB_BOOKS",
+   "work\\clean-checkout-2f9c76c6\\BB_DESIGN",
+   "work\\clean-checkout-88369dcf\\BB_BOOKS",
+   "work\\clean-checkout-88369dcf\\BB_DESIGN",
+   "work\\clean-checkout-886a5e45\\BB_BOOKS",
+   "work\\clean-checkout-cc160875\\BB_BOOKS",
+   "work\\clean-checkout-cc160875\\BB_DESIGN",
+   "work\\git-clone-f5baac1c\\.git",
+   "work\\git-clone-f5baac1c\\BB_BOOKS",
+   "work\\git-video-check-911b082d\\.git",
+   "work\\git-video-check-911b082d\\BB_BOOKS",
+   "work\\git-video-check-911b082d\\BB_DESIGN",
+   "work\\release-tests\\activity-01\\test_activity_gui_filters_and_0\\seed\\BB_BOOKS",
+   "work\\release-tests\\activity-01\\test_activity_lists_latest_ver0\\seed\\BB_BOOKS",
+   "work\\release-tests\\activity-01\\test_activity_reads_saved_prog0\\seed\\BB_BOOKS",
+   "work\\release-tests\\activity-01\\test_activity_refreshes_change0\\seed\\BB_BOOKS"
+  ],
+  "level1": [
+   {
+    "path": "BB_BOOKS",
+    "bytes": 1246735426345,
+    "files": 296750
+   },
+   {
+    "path": "_runtime",
+    "bytes": 2942558171,
+    "files": 11569
+   },
+   {
+    "path": "work",
+    "bytes": 749714508,
+    "files": 4869
+   },
+   {
+    "path": "trials",
+    "bytes": 237213185,
+    "files": 555
+   },
+   {
+    "path": "BB_DESIGN",
+    "bytes": 201187544,
+    "files": 161
+   },
+   {
+    "path": "src",
+    "bytes": 2093496,
+    "files": 199
+   },
+   {
+    "path": ".git",
+    "bytes": 1150621,
+    "files": 611
+   },
+   {
+    "path": "tests",
+    "bytes": 329239,
+    "files": 50
+   },
+   {
+    "path": "docs",
+    "bytes": 280082,
+    "files": 42
+   },
+   {
+    "path": "pipelines",
+    "bytes": 208361,
+    "files": 20
+   },
+   {
+    "path": "BB_CODE",
+    "bytes": 134539,
+    "files": 50
+   },
+   {
+    "path": "engines",
+    "bytes": 95993,
+    "files": 21
+   },
+   {
+    "path": "assets",
+    "bytes": 93781,
+    "files": 1
+   },
+   {
+    "path": "(root files)",
+    "bytes": 75056,
+    "files": 35
+   },
+   {
+    "path": ".agents",
+    "bytes": 16063,
+    "files": 5
+   },
+   {
+    "path": "_REGISTRY",
+    "bytes": 118,
+    "files": 1
+   }
+  ],
+  "level2": [
+   {
+    "path": "BB_BOOKS/library",
+    "bytes": 1240668986411,
+    "files": 287599
+   },
+   {
+    "path": "BB_BOOKS/reference",
+    "bytes": 5765269757,
+    "files": 5351
+   },
+   {
+    "path": "_runtime/gpu",
+    "bytes": 2589492924,
+    "files": 4422
+   },
+   {
+    "path": "_runtime/datashader-proof",
+    "bytes": 350930445,
+    "files": 7029
+   },
+   {
+    "path": "work/release-tests",
+    "bytes": 259765531,
+    "files": 843
+   },
+   {
+    "path": "trials/library-stress-2026-09-07",
+    "bytes": 237213185,
+    "files": 555
+   },
+   {
+    "path": "BB_DESIGN/02_PROJECTS",
+    "bytes": 201164583,
+    "files": 151
+   },
+   {
+    "path": "BB_BOOKS/state",
+    "bytes": 198225996,
+    "files": 18
+   },
+   {
+    "path": "work/tree-review-gui-test",
+    "bytes": 133182763,
+    "files": 3
+   },
+   {
+    "path": "BB_BOOKS/dispatches",
+    "bytes": 51457799,
+    "files": 2115
+   },
+   {
+    "path": "work/test-run-11",
+    "bytes": 32838312,
+    "files": 193
+   },
+   {
+    "path": "work/test-run-12",
+    "bytes": 32838311,
+    "files": 193
+   },
+   {
+    "path": "work/test-run-10",
+    "bytes": 32837499,
+    "files": 185
+   },
+   {
+    "path": "work/test-run-09",
+    "bytes": 31612520,
+    "files": 174
+   },
+   {
+    "path": "work/test-run-07",
+    "bytes": 31612519,
+    "files": 174
+   },
+   {
+    "path": "work/test-run-08",
+    "bytes": 31612519,
+    "files": 174
+   },
+   {
+    "path": "work/test-run-06",
+    "bytes": 27964656,
+    "files": 153
+   },
+   {
+    "path": "work/test-run-05",
+    "bytes": 21026031,
+    "files": 131
+   },
+   {
+    "path": "work/test-temp",
+    "bytes": 18176051,
+    "files": 435
+   },
+   {
+    "path": "BB_BOOKS/backups",
+    "bytes": 13676544,
+    "files": 12
+   },
+   {
+    "path": "work/test-run-03",
+    "bytes": 12257087,
+    "files": 87
+   },
+   {
+    "path": "work/test-run-04",
+    "bytes": 12257086,
+    "files": 87
+   },
+   {
+    "path": "BB_BOOKS/press",
+    "bytes": 10626544,
+    "files": 78
+   },
+   {
+    "path": "work/ar_assessment",
+    "bytes": 10437661,
+    "files": 12
+   },
+   {
+    "path": "BB_BOOKS/attractor-searches",
+    "bytes": 10238605,
+    "files": 80
+   },
+   {
+    "path": "BB_BOOKS/sequence-runs",
+    "bytes": 8546649,
+    "files": 900
+   },
+   {
+    "path": "work/git-video-check-911b082d",
+    "bytes": 7913461,
+    "files": 478
+   },
+   {
+    "path": "work/git-clone-f5baac1c",
+    "bytes": 7811006,
+    "files": 445
+   },
+   {
+    "path": "work/clean-checkout-cc160875",
+    "bytes": 7612934,
+    "files": 213
+   },
+   {
+    "path": "work/clean-checkout-2f9c76c6",
+    "bytes": 7605946,
+    "files": 210
+   }
+  ],
+  "ext": [
+   {
+    "ext": "png",
+    "bytes": 1236721528975,
+    "files": 274755
+   },
+   {
+    "ext": "sqlite3",
+    "bytes": 6273724416,
+    "files": 1679
+   },
+   {
+    "ext": "dll",
+    "bytes": 2672413584,
+    "files": 25
+   },
+   {
+    "ext": "pdn",
+    "bytes": 1757404941,
+    "files": 31
+   },
+   {
+    "ext": "mp4",
+    "bytes": 1680613533,
+    "files": 42
+   },
+   {
+    "ext": "jpg",
+    "bytes": 365712596,
+    "files": 2654
+   },
+   {
+    "ext": "pyd",
+    "bytes": 293410816,
+    "files": 417
+   },
+   {
+    "ext": "pyc",
+    "bytes": 211845677,
+    "files": 9193
+   },
+   {
+    "ext": "py",
+    "bytes": 177422487,
+    "files": 11228
+   },
+   {
+    "ext": "sqlite3-wal",
+    "bytes": 164350952,
+    "files": 3
+   },
+   {
+    "ext": "json",
+    "bytes": 130676199,
+    "files": 5664
+   },
+   {
+    "ext": "npy",
+    "bytes": 97462906,
+    "files": 166
+   }
+  ],
+  "big": [
+   {
+    "bytes": 691863552,
+    "path": "BB_BOOKS\\reference\\third-pass.sqlite3"
+   },
+   {
+    "bytes": 691863552,
+    "path": "BB_BOOKS\\reference\\import-plans\\20260908T163730-9e4151\\third-pass.sqlite3"
+   },
+   {
+    "bytes": 688115712,
+    "path": "BB_BOOKS\\reference\\provenance.sqlite3"
+   },
+   {
+    "bytes": 688115712,
+    "path": "BB_BOOKS\\reference\\import-plans\\20260908T163730-9e4151\\provenance.sqlite3"
+   },
+   {
+    "bytes": 668673536,
+    "path": "_runtime\\gpu\\nvidia\\cublas\\bin\\cublasLt64_12.dll"
+   },
+   {
+    "bytes": 477564928,
+    "path": "_runtime\\gpu\\nvidia\\cusparse\\bin\\cusparse64_12.dll"
+   },
+   {
+    "bytes": 348520448,
+    "path": "BB_BOOKS\\reference\\before-second-pass.sqlite3"
+   },
+   {
+    "bytes": 292237312,
+    "path": "BB_BOOKS\\reference\\import-plans\\20260908T163730-9e4151\\execution.sqlite3"
+   },
+   {
+    "bytes": 287136768,
+    "path": "_runtime\\gpu\\nvidia\\cufft\\bin\\cufft64_11.dll"
+   },
+   {
+    "bytes": 283129856,
+    "path": "_runtime\\gpu\\nvidia\\cusolver\\bin\\cusolver64_11.dll"
+   },
+   {
+    "bytes": 239397649,
+    "path": "BB_BOOKS\\library\\Sources\\IMAGES\\DataSetNFT Outputs\\VideoPlots\\FunctionData\\Loop Vids\\000decimaloneplus-time-over-cosx-v-sqrtx-loop.mp4"
+   },
+   {
+    "bytes": 235327488,
+    "path": "trials\\library-stress-2026-09-07\\reference_catalog.sqlite3"
+   },
+   {
+    "bytes": 212602601,
+    "path": "BB_BOOKS\\library\\Sources\\MINTS\\URScrown\\03Mar2022-Circumstance\\Backup\\BASEAlternateColor.pdn"
+   },
+   {
+    "bytes": 207298560,
+    "path": "BB_BOOKS\\reference\\tree-review.sqlite3"
+   },
+   {
+    "bytes": 195014656,
+    "path": "BB_BOOKS\\reference\\vault-move\\journal.sqlite3"
+   },
+   {
+    "bytes": 188575744,
+    "path": "BB_BOOKS\\reference\\import-plans\\20260908T163730-9e4151\\manifest.sqlite3"
+   },
+   {
+    "bytes": 188477440,
+    "path": "BB_BOOKS\\reference\\import-plans\\20260908T163730-9e4151\\manifest-before-cloud-exclusion.sqlite3"
+   },
+   {
+    "bytes": 187460096,
+    "path": "_runtime\\gpu\\nvidia\\cusolver\\bin\\cusolverMg64_11.dll"
+   },
+   {
+    "bytes": 177397760,
+    "path": "BB_BOOKS\\state\\card-catalog.sqlite3"
+   },
+   {
+    "bytes": 171569152,
+    "path": "BB_BOOKS\\reference\\vault-move\\cards-before.sqlite3"
+   },
+   {
+    "bytes": 170536960,
+    "path": "BB_BOOKS\\reference\\representative-selection\\20260910T025549Z\\cards-before.sqlite3"
+   },
+   {
+    "bytes": 164350952,
+    "path": "BB_BOOKS\\reference\\provenance.sqlite3-wal"
+   },
+   {
+    "bytes": 160424592,
+    "path": "BB_BOOKS\\library\\Sources\\IMAGES\\DataSetNFT Outputs\\FullPlots\\BPBRotDataImg\\DemPlots\\PolyQuantLables.png"
+   },
+   {
+    "bytes": 133132288,
+    "path": "work\\tree-review-gui-test\\tree-review.sqlite3"
+   },
+   {
+    "bytes": 120369664,
+    "path": "_runtime\\datashader-proof\\Lib\\site-packages\\llvmlite\\binding\\llvmlite.dll"
+   }
+  ]
+ },
+ "C:\\Users\\benja\\Dropbox\\DATABSTRACT": {
+  "bytes": 95347,
+  "files": 8,
+  "seconds": 0.0,
+  "markers": [],
+  "level1": [
+   {
+    "path": "FLEET_STATISTICS_DATAPATHS",
+    "bytes": 95347,
+    "files": 8
+   }
+  ],
+  "level2": [
+   {
+    "path": "FLEET_STATISTICS_DATAPATHS/findings",
+    "bytes": 70198,
+    "files": 4
+   },
+   {
+    "path": "FLEET_STATISTICS_DATAPATHS/(files)",
+    "bytes": 14479,
+    "files": 3
+   },
+   {
+    "path": "FLEET_STATISTICS_DATAPATHS/probes",
+    "bytes": 10670,
+    "files": 1
+   }
+  ],
+  "ext": [
+   {
+    "ext": "md",
+    "bytes": 69964,
+    "files": 6
+   },
+   {
+    "ext": "json",
+    "bytes": 14713,
+    "files": 1
+   },
+   {
+    "ext": "py",
+    "bytes": 10670,
+    "files": 1
+   }
+  ],
+  "big": []
+ }
+}

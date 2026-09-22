@@ -1,0 +1,1803 @@
+{
+ "roots": {
+  "D": {
+   "root": "D:\\\\",
+   "bytes": 717916628137,
+   "files": 41145,
+   "seconds": 4.4,
+   "level2": [
+    {
+     "path": "Strange Attractors/Vault",
+     "bytes": 141495553619,
+     "files": 14801
+    },
+    {
+     "path": "CLOUDS",
+     "bytes": 80936079390,
+     "files": 67
+    },
+    {
+     "path": "OUTPUT for filing/PLEASUREtoBURN~",
+     "bytes": 80337441376,
+     "files": 1072
+    },
+    {
+     "path": "SignalBOOST/CLOUDS",
+     "bytes": 74438565282,
+     "files": 209
+    },
+    {
+     "path": "DAM/~DAM~",
+     "bytes": 66721496592,
+     "files": 2764
+    },
+    {
+     "path": "DAM/~HELLO~",
+     "bytes": 64103842517,
+     "files": 2360
+    },
+    {
+     "path": "URSMonthly/GEMATRIAtesting",
+     "bytes": 40595034663,
+     "files": 1475
+    },
+    {
+     "path": "OUTPUT for filing/~LOSTBurn~",
+     "bytes": 39356244050,
+     "files": 2249
+    },
+    {
+     "path": "SoundSignals/year2021_FTT_Candle_1hr",
+     "bytes": 24719665428,
+     "files": 1598
+    },
+    {
+     "path": "SoundSignals/month11_ETHvUSDT_15min",
+     "bytes": 5676958929,
+     "files": 1197
+    },
+    {
+     "path": "SoundSignals/week01_SOLvUSDT_5min",
+     "bytes": 4815646531,
+     "files": 1065
+    },
+    {
+     "path": "SoundSignals/week02_SOLvUSDT_5min",
+     "bytes": 4734618447,
+     "files": 798
+    },
+    {
+     "path": "SoundSignals/month10_ETHvUSDT_15min",
+     "bytes": 4472777231,
+     "files": 399
+    },
+    {
+     "path": "SoundSignals/month01_ETHvUSDT_15min",
+     "bytes": 4470767806,
+     "files": 399
+    },
+    {
+     "path": "SoundSignals/month12_ETHvUSDT_15min",
+     "bytes": 4465424173,
+     "files": 399
+    },
+    {
+     "path": "SoundSignals/month03_ETHvUSDT_15min",
+     "bytes": 4274671573,
+     "files": 399
+    },
+    {
+     "path": "SoundSignals/month08_ETHvUSDT_15min",
+     "bytes": 4232512796,
+     "files": 399
+    },
+    {
+     "path": "SoundSignals/month09_ETHvUSDT_15min",
+     "bytes": 4215534859,
+     "files": 399
+    },
+    {
+     "path": "SoundSignals/month05_ETHvUSDT-15min",
+     "bytes": 4161039137,
+     "files": 399
+    },
+    {
+     "path": "SoundSignals/month06_ETHvUSDT_15min",
+     "bytes": 4092896682,
+     "files": 399
+    },
+    {
+     "path": "SoundSignals/month07_ETHvUSDT_15min",
+     "bytes": 3944888516,
+     "files": 399
+    },
+    {
+     "path": "SoundSignals/month02_ETHvUSDT_15min",
+     "bytes": 3905427345,
+     "files": 399
+    },
+    {
+     "path": "SoundSignals/week37_BTCvUSDT-5min",
+     "bytes": 3614202907,
+     "files": 800
+    },
+    {
+     "path": "DAM/~sIgnALs~",
+     "bytes": 3300205415,
+     "files": 261
+    },
+    {
+     "path": "OUTPUT for filing/macheteSCROG~",
+     "bytes": 2886729243,
+     "files": 540
+    },
+    {
+     "path": "SoundSignals/month04_ETHvUSDT-15min",
+     "bytes": 2570764198,
+     "files": 399
+    },
+    {
+     "path": "SoundSignals/week05_SOLvUSDT_5min",
+     "bytes": 2523870379,
+     "files": 399
+    },
+    {
+     "path": "SoundSignals/week06_SOLvUSDT_5min",
+     "bytes": 2491447500,
+     "files": 399
+    },
+    {
+     "path": "SoundSignals/week04_SOLvUSDT_5min",
+     "bytes": 2488256660,
+     "files": 399
+    },
+    {
+     "path": "SoundSignals/week08_SOLvUSDT_5min",
+     "bytes": 2425711961,
+     "files": 399
+    },
+    {
+     "path": "SoundSignals/week03_SOLvUSDT_5min",
+     "bytes": 2425250188,
+     "files": 399
+    },
+    {
+     "path": "SoundSignals/week14_SOLvUSDT_5min",
+     "bytes": 2407317727,
+     "files": 399
+    },
+    {
+     "path": "SoundSignals/week09_SOLvUSDT_5min",
+     "bytes": 2397377503,
+     "files": 399
+    },
+    {
+     "path": "SoundSignals/week10_SOLvUSDT_5min",
+     "bytes": 2376445317,
+     "files": 399
+    },
+    {
+     "path": "SoundSignals/week13_SOLvUSDT_5min",
+     "bytes": 2367609699,
+     "files": 399
+    },
+    {
+     "path": "SoundSignals/week11_SOLvUSDT_5min",
+     "bytes": 2366715492,
+     "files": 399
+    },
+    {
+     "path": "SoundSignals/week12_SOLvUSDT_5min",
+     "bytes": 2292424673,
+     "files": 399
+    },
+    {
+     "path": "SoundSignals/week07_SOLvUSDT_5min",
+     "bytes": 2276198671,
+     "files": 399
+    },
+    {
+     "path": "Project Bluebird/S0Ltoshi",
+     "bytes": 1932822855,
+     "files": 87
+    },
+    {
+     "path": "OUTPUT for filing/~LOST~",
+     "bytes": 1848996496,
+     "files": 418
+    }
+   ]
+  },
+  "F": {
+   "root": "F:\\\\",
+   "bytes": 1378108631011,
+   "files": 82086,
+   "seconds": 28.7,
+   "level2": [
+    {
+     "path": "SEED BANK/CLOUDS",
+     "bytes": 541361037767,
+     "files": 934
+    },
+    {
+     "path": "IMAGES/dataBLOCKS",
+     "bytes": 302156042259,
+     "files": 10135
+    },
+    {
+     "path": "IMAGES/burnout~",
+     "bytes": 201077791328,
+     "files": 5040
+    },
+    {
+     "path": "IMAGES/ColorTHIEF~",
+     "bytes": 91152990165,
+     "files": 2571
+    },
+    {
+     "path": "SEED BANK/RECORDINGS",
+     "bytes": 80554544129,
+     "files": 97
+    },
+    {
+     "path": "SEED BANK/GENERATED",
+     "bytes": 57341063717,
+     "files": 4433
+    },
+    {
+     "path": "IMAGES/~SOUNDsIgnALs~~",
+     "bytes": 51221763395,
+     "files": 6395
+    },
+    {
+     "path": "SEED BANK/IMAGE_ARCHIVE",
+     "bytes": 29439156777,
+     "files": 2772
+    },
+    {
+     "path": "MINTS/Resized",
+     "bytes": 10308465537,
+     "files": 650
+    },
+    {
+     "path": "SEED BANK/DATA_ARCHIVE",
+     "bytes": 8256633513,
+     "files": 48084
+    },
+    {
+     "path": "MINTS/signals",
+     "bytes": 2820112788,
+     "files": 649
+    },
+    {
+     "path": "MINTS/URScrown",
+     "bytes": 1434156298,
+     "files": 97
+    },
+    {
+     "path": "MINTS/DATAbstractors",
+     "bytes": 418288942,
+     "files": 96
+    },
+    {
+     "path": "MINTS/GEN0",
+     "bytes": 362085920,
+     "files": 95
+    },
+    {
+     "path": "(root)",
+     "bytes": 126040178,
+     "files": 4
+    },
+    {
+     "path": "MINTS/ONEoffs",
+     "bytes": 56665378,
+     "files": 7
+    },
+    {
+     "path": "MINTS/0000-Hashlists",
+     "bytes": 21792813,
+     "files": 26
+    },
+    {
+     "path": "SEED BANK/_REGISTRY",
+     "bytes": 107,
+     "files": 1
+    }
+   ]
+  },
+  "DBX-ABSTRACTION": {
+   "root": "C:\\Users\\benja\\Dropbox\\ABSTRACTION nft",
+   "bytes": 270387543829,
+   "files": 51497,
+   "seconds": 3.1,
+   "level2": [
+    {
+     "path": "CODE STRUCTURE/GEN-dataPROT",
+     "bytes": 97973481211,
+     "files": 4641
+    },
+    {
+     "path": "CODE STRUCTURE/__~CURRENT~OUTPUT~__keep_clean",
+     "bytes": 87723005302,
+     "files": 3014
+    },
+    {
+     "path": "CODE STRUCTURE/SOURCE-IMAGES",
+     "bytes": 53204866155,
+     "files": 1902
+    },
+    {
+     "path": "FRAKT launch/hres",
+     "bytes": 13128578123,
+     "files": 1298
+    },
+    {
+     "path": "CODE STRUCTURE/Dataset-Warehouse",
+     "bytes": 7193284725,
+     "files": 37577
+    },
+    {
+     "path": "CODE STRUCTURE/~~MINT~~",
+     "bytes": 5103850132,
+     "files": 705
+    },
+    {
+     "path": "NFT Collection/personal artwork",
+     "bytes": 2829579005,
+     "files": 437
+    },
+    {
+     "path": "CODE STRUCTURE/PY Toolbox",
+     "bytes": 2061168786,
+     "files": 63
+    },
+    {
+     "path": "NFT Collection/collected artwork",
+     "bytes": 275821238,
+     "files": 122
+    },
+    {
+     "path": "FRAKT launch/yearreview",
+     "bytes": 215992566,
+     "files": 649
+    },
+    {
+     "path": "ImageGenerationCode/Deletedfolder",
+     "bytes": 161394436,
+     "files": 16
+    },
+    {
+     "path": "LOGOs",
+     "bytes": 155672636,
+     "files": 9
+    },
+    {
+     "path": "FRAKT launch/charts",
+     "bytes": 111244418,
+     "files": 649
+    },
+    {
+     "path": "FRAKT launch/SOUNDsignals",
+     "bytes": 104367667,
+     "files": 3
+    },
+    {
+     "path": "(root)",
+     "bytes": 75703974,
+     "files": 6
+    },
+    {
+     "path": "PHYSICAL",
+     "bytes": 54831616,
+     "files": 1
+    },
+    {
+     "path": "CODE STRUCTURE/Color Lab",
+     "bytes": 12365184,
+     "files": 292
+    },
+    {
+     "path": "FRAKT launch",
+     "bytes": 1055487,
+     "files": 8
+    },
+    {
+     "path": "CODE STRUCTURE/GEN-ABSTractors",
+     "bytes": 614842,
+     "files": 37
+    },
+    {
+     "path": ".Rproj.user/E05F895B",
+     "bytes": 383291,
+     "files": 46
+    },
+    {
+     "path": "NFT Collection",
+     "bytes": 121368,
+     "files": 1
+    },
+    {
+     "path": "OLDSCHOOL",
+     "bytes": 75793,
+     "files": 13
+    },
+    {
+     "path": "Accounting",
+     "bytes": 48711,
+     "files": 2
+    },
+    {
+     "path": "CODE STRUCTURE/__base_classes",
+     "bytes": 30811,
+     "files": 2
+    },
+    {
+     "path": "CODE STRUCTURE/Twitter",
+     "bytes": 3298,
+     "files": 1
+    },
+    {
+     "path": "CODE STRUCTURE/GEN-Gcoder",
+     "bytes": 1752,
+     "files": 1
+    },
+    {
+     "path": ".Rproj.user/shared",
+     "bytes": 1302,
+     "files": 2
+    }
+   ]
+  },
+  "DBX-BB_SEED": {
+   "root": "C:\\Users\\benja\\Dropbox\\BB_SEED",
+   "bytes": 1247408400864,
+   "files": 289012,
+   "seconds": 16.6,
+   "level2": [
+    {
+     "path": "BB_BOOKS/library",
+     "bytes": 1240153101871,
+     "files": 274455
+    },
+    {
+     "path": "BB_BOOKS/reference",
+     "bytes": 5765269757,
+     "files": 5351
+    },
+    {
+     "path": "work/release-tests",
+     "bytes": 259765531,
+     "files": 843
+    },
+    {
+     "path": "trials/library-stress-2026-09-07",
+     "bytes": 237213185,
+     "files": 555
+    },
+    {
+     "path": "BB_DESIGN/02_PROJECTS",
+     "bytes": 201164583,
+     "files": 151
+    },
+    {
+     "path": "BB_BOOKS/state",
+     "bytes": 198225996,
+     "files": 18
+    },
+    {
+     "path": "work/tree-review-gui-test",
+     "bytes": 133182763,
+     "files": 3
+    },
+    {
+     "path": "BB_BOOKS/dispatches",
+     "bytes": 51457799,
+     "files": 2115
+    },
+    {
+     "path": "work/test-run-11",
+     "bytes": 32838312,
+     "files": 193
+    },
+    {
+     "path": "work/test-run-12",
+     "bytes": 32838311,
+     "files": 193
+    },
+    {
+     "path": "work/test-run-10",
+     "bytes": 32837499,
+     "files": 185
+    },
+    {
+     "path": "work/test-run-09",
+     "bytes": 31612520,
+     "files": 174
+    },
+    {
+     "path": "work/test-run-07",
+     "bytes": 31612519,
+     "files": 174
+    },
+    {
+     "path": "work/test-run-08",
+     "bytes": 31612519,
+     "files": 174
+    },
+    {
+     "path": "work/test-run-06",
+     "bytes": 27964656,
+     "files": 153
+    },
+    {
+     "path": "work/test-run-05",
+     "bytes": 21026031,
+     "files": 131
+    },
+    {
+     "path": "work/test-temp",
+     "bytes": 18176051,
+     "files": 435
+    },
+    {
+     "path": "BB_BOOKS/backups",
+     "bytes": 13676544,
+     "files": 12
+    },
+    {
+     "path": "work/test-run-03",
+     "bytes": 12257087,
+     "files": 87
+    },
+    {
+     "path": "work/test-run-04",
+     "bytes": 12257086,
+     "files": 87
+    },
+    {
+     "path": "BB_BOOKS/press",
+     "bytes": 10626544,
+     "files": 78
+    },
+    {
+     "path": "work/ar_assessment",
+     "bytes": 10437661,
+     "files": 12
+    },
+    {
+     "path": "BB_BOOKS/attractor-searches",
+     "bytes": 10238605,
+     "files": 80
+    },
+    {
+     "path": "BB_BOOKS/sequence-runs",
+     "bytes": 8546649,
+     "files": 900
+    },
+    {
+     "path": "work/clean-checkout-cc160875",
+     "bytes": 7612934,
+     "files": 213
+    },
+    {
+     "path": "work/clean-checkout-2f9c76c6",
+     "bytes": 7605946,
+     "files": 210
+    },
+    {
+     "path": "work/clean-checkout-88369dcf",
+     "bytes": 7460784,
+     "files": 207
+    },
+    {
+     "path": "work/git-video-check-911b082d",
+     "bytes": 7444781,
+     "files": 212
+    },
+    {
+     "path": "work/clean-checkout-886a5e45",
+     "bytes": 7392289,
+     "files": 199
+    },
+    {
+     "path": "work/git-clone-f5baac1c",
+     "bytes": 7375500,
+     "files": 201
+    },
+    {
+     "path": "work/test-run-02",
+     "bytes": 6510530,
+     "files": 68
+    },
+    {
+     "path": "work/test-run-01",
+     "bytes": 6510529,
+     "files": 68
+    },
+    {
+     "path": "BB_BOOKS/examples",
+     "bytes": 4799870,
+     "files": 19
+    },
+    {
+     "path": "BB_BOOKS/interface-versions",
+     "bytes": 1491639,
+     "files": 38
+    },
+    {
+     "path": "work/visual-check",
+     "bytes": 1258845,
+     "files": 11
+    },
+    {
+     "path": "src/seed_studio",
+     "bytes": 872327,
+     "files": 94
+    },
+    {
+     "path": "BB_BOOKS/releases",
+     "bytes": 824295,
+     "files": 9
+    },
+    {
+     "path": "work/studio",
+     "bytes": 656845,
+     "files": 83
+    },
+    {
+     "path": "work",
+     "bytes": 399675,
+     "files": 22
+    },
+    {
+     "path": "BB_BOOKS/attractor-galleries",
+     "bytes": 354922,
+     "files": 33
+    }
+   ]
+  },
+  "DBX-TEAM": {
+   "root": "C:\\Users\\benja\\Dropbox\\THE PERFORMANCE TEAM",
+   "bytes": 7059014056,
+   "files": 54579,
+   "seconds": 3.3,
+   "level2": [
+    {
+     "path": "Home Inspection Training/2026-09-17 to 2026-09-19 Intake",
+     "bytes": 2264496672,
+     "files": 644
+    },
+    {
+     "path": "Home Inspection Training/2026-09-11 Training Sessions",
+     "bytes": 1313774686,
+     "files": 15705
+    },
+    {
+     "path": "Home Inspection Training/2026-09-14 Late Sessions",
+     "bytes": 1290051684,
+     "files": 19044
+    },
+    {
+     "path": "Home Inspection Training/Study Guide Editions",
+     "bytes": 1008220203,
+     "files": 3884
+    },
+    {
+     "path": "Home Inspection Training/2026-09-14 Training Sessions",
+     "bytes": 952438974,
+     "files": 13373
+    },
+    {
+     "path": "Home Inspection Training/CURRENT EDITION",
+     "bytes": 90478274,
+     "files": 64
+    },
+    {
+     "path": "Home Inspection Training/2026-09-14 Exterior Session",
+     "bytes": 72686673,
+     "files": 1103
+    },
+    {
+     "path": "Property Reviews/505 Walker Ave",
+     "bytes": 23076881,
+     "files": 117
+    },
+    {
+     "path": "Home Inspection Training/Library",
+     "bytes": 14818625,
+     "files": 76
+    },
+    {
+     "path": "Home Inspection Training/2026-09-10 Structural Inspection",
+     "bytes": 11944344,
+     "files": 156
+    },
+    {
+     "path": "ADMINISTRATION/Evaluations",
+     "bytes": 10893896,
+     "files": 153
+    },
+    {
+     "path": "Home Inspection Training",
+     "bytes": 2639163,
+     "files": 14
+    },
+    {
+     "path": "Home Inspection Training/SG-010 Handoff",
+     "bytes": 1492917,
+     "files": 119
+    },
+    {
+     "path": "Sound Recordings",
+     "bytes": 587599,
+     "files": 5
+    },
+    {
+     "path": "Home Inspection Training/SG-010 Production",
+     "bytes": 541355,
+     "files": 34
+    },
+    {
+     "path": "Sound Recordings/GABE_BEN_7-28-26_TRANSCRIPT FILES",
+     "bytes": 314924,
+     "files": 50
+    },
+    {
+     "path": "Home Inspection Training/Examples",
+     "bytes": 169806,
+     "files": 1
+    },
+    {
+     "path": "(root)",
+     "bytes": 129831,
+     "files": 4
+    },
+    {
+     "path": "Sound Recordings/skills",
+     "bytes": 123745,
+     "files": 19
+    },
+    {
+     "path": "CODE CARRY/bb_code",
+     "bytes": 58266,
+     "files": 8
+    },
+    {
+     "path": "ADMINISTRATION/Certificates",
+     "bytes": 51658,
+     "files": 1
+    },
+    {
+     "path": "__SORT__",
+     "bytes": 12024,
+     "files": 2
+    },
+    {
+     "path": "CODE CARRY",
+     "bytes": 10140,
+     "files": 2
+    },
+    {
+     "path": "Sound Recordings/GABE_BEN_BBDF_5min_chunks",
+     "bytes": 1716,
+     "files": 1
+    }
+   ]
+  }
+ },
+ "redundancy": [
+  {
+   "a": "DBX-BB_SEED:BB_BOOKS",
+   "b": "F:IMAGES",
+   "bytes": 531257908690,
+   "files": 18978,
+   "samples": [
+    {
+     "name": "DATAblock6K-xSinxx-XY-barnBURN-WM.png",
+     "bytes": 33908304,
+     "where": [
+      "F:IMAGES/burnout~",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/burnout~"
+     ]
+    },
+    {
+     "name": "DATAblock6K-xSinxx-XY-barnBURNBlk-WM.png",
+     "bytes": 51332068,
+     "where": [
+      "F:IMAGES/burnout~",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/burnout~"
+     ]
+    },
+    {
+     "name": "DATAblock6K-xSinxx-XY-barnBURNBlkBlkBlk-WM.png",
+     "bytes": 35394984,
+     "where": [
+      "F:IMAGES/burnout~",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/burnout~"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "D:Strange Attractors",
+   "b": "DBX-BB_SEED:BB_BOOKS",
+   "bytes": 141495553619,
+   "files": 14801,
+   "samples": [
+    {
+     "name": "~AbstractPeople~0-b33bf940-blueBurst.png",
+     "bytes": 6667872,
+     "where": [
+      "D:Strange Attractors/Vault",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/Strange Attractors/Vault"
+     ]
+    },
+    {
+     "name": "~AbstractPeople~0-b33bf940-blueDwarf.png",
+     "bytes": 8454741,
+     "where": [
+      "D:Strange Attractors/Vault",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/Strange Attractors/Vault"
+     ]
+    },
+    {
+     "name": "~AbstractPeople~0-b33bf940-coastalBlk.png",
+     "bytes": 7971119,
+     "where": [
+      "D:Strange Attractors/Vault",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/Strange Attractors/Vault"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "D:DAM",
+   "b": "DBX-BB_SEED:BB_BOOKS",
+   "bytes": 131957140463,
+   "files": 5129,
+   "samples": [
+    {
+     "name": "hayfield6k50.jpg",
+     "bytes": 3558385,
+     "where": [
+      "D:DAM/DAM-This output",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/DAM/DAM-This output"
+     ]
+    },
+    {
+     "name": "STARCHILD1.jpg",
+     "bytes": 6855038,
+     "where": [
+      "D:DAM/DAM-This output",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/DAM/DAM-This output"
+     ]
+    },
+    {
+     "name": "STARCHILD100.jpg",
+     "bytes": 103356,
+     "where": [
+      "D:DAM/DAM-This output",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/DAM/DAM-This output"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "D:OUTPUT for filing",
+   "b": "DBX-BB_SEED:BB_BOOKS",
+   "bytes": 125610468815,
+   "files": 4353,
+   "samples": [
+    {
+     "name": "heavy sun.png",
+     "bytes": 8601564,
+     "where": [
+      "D:OUTPUT for filing",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/Unfiled"
+     ]
+    },
+    {
+     "name": "lightbug.jpg",
+     "bytes": 14132411,
+     "where": [
+      "D:OUTPUT for filing",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/Unfiled"
+     ]
+    },
+    {
+     "name": "lightningBUG.png.0.pdnSave",
+     "bytes": 5876032,
+     "where": [
+      "D:OUTPUT for filing",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/Unfiled"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "D:SoundSignals",
+   "b": "DBX-BB_SEED:BB_BOOKS",
+   "bytes": 117479978848,
+   "files": 14234,
+   "samples": [
+    {
+     "name": "0001-ZOOMmonth01_ETHvUSDT_15min-XZ-bruisedRevOwt-close_time-close-volume-WM.png",
+     "bytes": 1185718,
+     "where": [
+      "D:SoundSignals/month01_ETHvUSDT_15min",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/SoundSignals/month01_ETHvUSDT_15min"
+     ]
+    },
+    {
+     "name": "0002-ZOOMmonth01_ETHvUSDT_15min-XZ-bruisedRevOwt-close_time-close-volume-WM.png",
+     "bytes": 1228735,
+     "where": [
+      "D:SoundSignals/month01_ETHvUSDT_15min",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/SoundSignals/month01_ETHvUSDT_15min"
+     ]
+    },
+    {
+     "name": "0003-ZOOMmonth01_ETHvUSDT_15min-XZ-bruisedRevOwt-close_time-close-volume-WM.png",
+     "bytes": 1269902,
+     "where": [
+      "D:SoundSignals/month01_ETHvUSDT_15min",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/SoundSignals/month01_ETHvUSDT_15min"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "DBX-ABSTRACTION:CODE STRUCTURE",
+   "b": "DBX-BB_SEED:BB_BOOKS",
+   "bytes": 101804802583,
+   "files": 3717,
+   "samples": [
+    {
+     "name": "-XY-battlefield-x-Sinx-x-WM.png",
+     "bytes": 28370166,
+     "where": [
+      "F:IMAGES/dataBLOCKS/6k-zero-thirty-dataBLOCK~",
+      "DBX-ABSTRACTION:CODE STRUCTURE/SOURCE-IMAGES/6k-zero-thirty-dataBLOCK~",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/dataBLOCKS/6k-zero-thirty-dataBLOCK~"
+     ]
+    },
+    {
+     "name": "-XY-battlefieldBlk-x-Sinx-x-WM.png",
+     "bytes": 39496826,
+     "where": [
+      "F:IMAGES/dataBLOCKS/6k-zero-thirty-dataBLOCK~",
+      "DBX-ABSTRACTION:CODE STRUCTURE/SOURCE-IMAGES/6k-zero-thirty-dataBLOCK~",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/dataBLOCKS/6k-zero-thirty-dataBLOCK~"
+     ]
+    },
+    {
+     "name": "-XY-battlefieldBlkWhtBlk-x-Sinx-x-WM.png",
+     "bytes": 39222077,
+     "where": [
+      "F:IMAGES/dataBLOCKS/6k-zero-thirty-dataBLOCK~",
+      "DBX-ABSTRACTION:CODE STRUCTURE/SOURCE-IMAGES/6k-zero-thirty-dataBLOCK~",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/dataBLOCKS/6k-zero-thirty-dataBLOCK~"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "D:SignalBOOST",
+   "b": "DBX-ABSTRACTION:CODE STRUCTURE",
+   "bytes": 74438565282,
+   "files": 209,
+   "samples": [
+    {
+     "name": "01a8f32eff113196.csv",
+     "bytes": 250728279,
+     "where": [
+      "D:SignalBOOST/CLOUDS",
+      "DBX-ABSTRACTION:CODE STRUCTURE/GEN-dataPROT/PROTclass/PROTdata/clouds"
+     ]
+    },
+    {
+     "name": "01de2a2bdfbca641.csv",
+     "bytes": 468900825,
+     "where": [
+      "D:SignalBOOST/CLOUDS",
+      "DBX-ABSTRACTION:CODE STRUCTURE/GEN-dataPROT/PROTclass/PROTdata/clouds"
+     ]
+    },
+    {
+     "name": "0226507a75d9099a.csv",
+     "bytes": 261976831,
+     "where": [
+      "D:SignalBOOST/CLOUDS",
+      "DBX-ABSTRACTION:CODE STRUCTURE/GEN-dataPROT/PROTclass/PROTdata/clouds"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "D:CLOUDS",
+   "b": "F:SEED BANK",
+   "bytes": 70133651946,
+   "files": 57,
+   "samples": [
+    {
+     "name": "063d70c681f5165f.csv",
+     "bytes": 1333235868,
+     "where": [
+      "D:CLOUDS",
+      "F:SEED BANK/CLOUDS/F-DATA"
+     ]
+    },
+    {
+     "name": "17b9be0e44a9219c.csv",
+     "bytes": 2074140278,
+     "where": [
+      "D:CLOUDS",
+      "F:SEED BANK/CLOUDS/F-DATA"
+     ]
+    },
+    {
+     "name": "186487a3d7be83e3.csv",
+     "bytes": 912085042,
+     "where": [
+      "D:CLOUDS",
+      "F:SEED BANK/CLOUDS/F-DATA"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "DBX-ABSTRACTION:CODE STRUCTURE",
+   "b": "F:IMAGES",
+   "bytes": 53204831070,
+   "files": 1901,
+   "samples": [
+    {
+     "name": "-XY-battlefield-x-Sinx-x-WM.png",
+     "bytes": 28370166,
+     "where": [
+      "F:IMAGES/dataBLOCKS/6k-zero-thirty-dataBLOCK~",
+      "DBX-ABSTRACTION:CODE STRUCTURE/SOURCE-IMAGES/6k-zero-thirty-dataBLOCK~",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/dataBLOCKS/6k-zero-thirty-dataBLOCK~"
+     ]
+    },
+    {
+     "name": "-XY-battlefieldBlk-x-Sinx-x-WM.png",
+     "bytes": 39496826,
+     "where": [
+      "F:IMAGES/dataBLOCKS/6k-zero-thirty-dataBLOCK~",
+      "DBX-ABSTRACTION:CODE STRUCTURE/SOURCE-IMAGES/6k-zero-thirty-dataBLOCK~",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/dataBLOCKS/6k-zero-thirty-dataBLOCK~"
+     ]
+    },
+    {
+     "name": "-XY-battlefieldBlkWhtBlk-x-Sinx-x-WM.png",
+     "bytes": 39222077,
+     "where": [
+      "F:IMAGES/dataBLOCKS/6k-zero-thirty-dataBLOCK~",
+      "DBX-ABSTRACTION:CODE STRUCTURE/SOURCE-IMAGES/6k-zero-thirty-dataBLOCK~",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/dataBLOCKS/6k-zero-thirty-dataBLOCK~"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "D:URSMonthly",
+   "b": "DBX-BB_SEED:BB_BOOKS",
+   "bytes": 40595034663,
+   "files": 1475,
+   "samples": [
+    {
+     "name": "centered_count-letter-verse-XZ-fuzzySweaterBlk-WM.png",
+     "bytes": 28730252,
+     "where": [
+      "D:URSMonthly/GEMATRIAtesting/gematriaChoices",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/URSMonthly/GEMATRIAtesting/gematriaChoices"
+     ]
+    },
+    {
+     "name": "centered_count-letter-word-XY-coastalBlk-WM.png",
+     "bytes": 21968495,
+     "where": [
+      "D:URSMonthly/GEMATRIAtesting/gematriaChoices",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/URSMonthly/GEMATRIAtesting/gematriaChoices"
+     ]
+    },
+    {
+     "name": "ordered_count-letter-verse-XZ-grassOwt-WM.png",
+     "bytes": 49305864,
+     "where": [
+      "D:URSMonthly/GEMATRIAtesting/gematriaChoices",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/URSMonthly/GEMATRIAtesting/gematriaChoices"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "F:IMAGES",
+   "b": "F:SEED BANK",
+   "bytes": 29415907742,
+   "files": 2771,
+   "samples": [
+    {
+     "name": "0001-ZOOMyear2021_BLOCK_outtaTIME_5min-YZ-iceGlow-open-close-volume-WM.png",
+     "bytes": 579737,
+     "where": [
+      "F:IMAGES/~SOUNDsIgnALs~~/year2021_BLOCK_outtaTIME_5min",
+      "F:SEED BANK/IMAGE_ARCHIVE/~SOUNDsIgnALs~~/year2021_BLOCK_outtaTIME_5min"
+     ]
+    },
+    {
+     "name": "0002-ZOOMyear2021_BLOCK_outtaTIME_5min-YZ-iceGlow-open-close-volume-WM.png",
+     "bytes": 585744,
+     "where": [
+      "F:IMAGES/~SOUNDsIgnALs~~/year2021_BLOCK_outtaTIME_5min",
+      "F:SEED BANK/IMAGE_ARCHIVE/~SOUNDsIgnALs~~/year2021_BLOCK_outtaTIME_5min"
+     ]
+    },
+    {
+     "name": "0003-ZOOMyear2021_BLOCK_outtaTIME_5min-YZ-iceGlow-open-close-volume-WM.png",
+     "bytes": 588324,
+     "where": [
+      "F:IMAGES/~SOUNDsIgnALs~~/year2021_BLOCK_outtaTIME_5min",
+      "F:SEED BANK/IMAGE_ARCHIVE/~SOUNDsIgnALs~~/year2021_BLOCK_outtaTIME_5min"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "DBX-BB_SEED:BB_BOOKS",
+   "b": "F:MINTS",
+   "bytes": 15421448653,
+   "files": 1593,
+   "samples": [
+    {
+     "name": "METADATA.xlsx",
+     "bytes": 80171,
+     "where": [
+      "F:MINTS/0000-Hashlists",
+      "DBX-ABSTRACTION:CODE STRUCTURE/~~MINT~~",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/MINTS/0000-Hashlists"
+     ]
+    },
+    {
+     "name": "lineup.png",
+     "bytes": 21612612,
+     "where": [
+      "F:MINTS/0000-Hashlists/DATAbstractors",
+      "DBX-ABSTRACTION:CODE STRUCTURE/~~MINT~~/DATAbstractors",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/MINTS/0000-Hashlists/DATAbstractors"
+     ]
+    },
+    {
+     "name": "01.png",
+     "bytes": 5156043,
+     "where": [
+      "F:MINTS/DATAbstractors",
+      "DBX-ABSTRACTION:CODE STRUCTURE/~~MINT~~/DATAbstractors/strange0",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/MINTS/DATAbstractors"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "DBX-ABSTRACTION:FRAKT launch",
+   "b": "DBX-BB_SEED:BB_BOOKS",
+   "bytes": 13128578123,
+   "files": 1298,
+   "samples": [
+    {
+     "name": "month01_ADAvUSDT_15min-XZ-neondrkoceanOwt-WM.png",
+     "bytes": 20910085,
+     "where": [
+      "F:MINTS/Resized/sIGnALs-HighRes",
+      "DBX-ABSTRACTION:FRAKT launch/hres/Images",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/MINTS/Resized/sIGnALs-HighRes"
+     ]
+    },
+    {
+     "name": "month01_AVAXvUSDT_15min-XZ-torchWht-WM.png",
+     "bytes": 24718399,
+     "where": [
+      "F:MINTS/Resized/sIGnALs-HighRes",
+      "DBX-ABSTRACTION:FRAKT launch/hres/Images",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/MINTS/Resized/sIGnALs-HighRes"
+     ]
+    },
+    {
+     "name": "month01_BTCvUSDT-15min-XZ-instaOwt-WM.png",
+     "bytes": 16725308,
+     "where": [
+      "F:MINTS/Resized/sIGnALs-HighRes",
+      "DBX-ABSTRACTION:FRAKT launch/hres/Images",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/MINTS/Resized/sIGnALs-HighRes"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "DBX-ABSTRACTION:FRAKT launch",
+   "b": "F:MINTS",
+   "bytes": 13128578123,
+   "files": 1298,
+   "samples": [
+    {
+     "name": "month01_ADAvUSDT_15min-XZ-neondrkoceanOwt-WM.png",
+     "bytes": 20910085,
+     "where": [
+      "F:MINTS/Resized/sIGnALs-HighRes",
+      "DBX-ABSTRACTION:FRAKT launch/hres/Images",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/MINTS/Resized/sIGnALs-HighRes"
+     ]
+    },
+    {
+     "name": "month01_AVAXvUSDT_15min-XZ-torchWht-WM.png",
+     "bytes": 24718399,
+     "where": [
+      "F:MINTS/Resized/sIGnALs-HighRes",
+      "DBX-ABSTRACTION:FRAKT launch/hres/Images",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/MINTS/Resized/sIGnALs-HighRes"
+     ]
+    },
+    {
+     "name": "month01_BTCvUSDT-15min-XZ-instaOwt-WM.png",
+     "bytes": 16725308,
+     "where": [
+      "F:MINTS/Resized/sIGnALs-HighRes",
+      "DBX-ABSTRACTION:FRAKT launch/hres/Images",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/MINTS/Resized/sIGnALs-HighRes"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "DBX-ABSTRACTION:CODE STRUCTURE",
+   "b": "F:MINTS",
+   "bytes": 2292870530,
+   "files": 295,
+   "samples": [
+    {
+     "name": "METADATA.xlsx",
+     "bytes": 80171,
+     "where": [
+      "F:MINTS/0000-Hashlists",
+      "DBX-ABSTRACTION:CODE STRUCTURE/~~MINT~~",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/MINTS/0000-Hashlists"
+     ]
+    },
+    {
+     "name": "lineup.png",
+     "bytes": 21612612,
+     "where": [
+      "F:MINTS/0000-Hashlists/DATAbstractors",
+      "DBX-ABSTRACTION:CODE STRUCTURE/~~MINT~~/DATAbstractors",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/MINTS/0000-Hashlists/DATAbstractors"
+     ]
+    },
+    {
+     "name": "01.png",
+     "bytes": 5156043,
+     "where": [
+      "F:MINTS/DATAbstractors",
+      "DBX-ABSTRACTION:CODE STRUCTURE/~~MINT~~/DATAbstractors/strange0",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/MINTS/DATAbstractors"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "D:Project Bluebird",
+   "b": "DBX-BB_SEED:BB_BOOKS",
+   "bytes": 1932822855,
+   "files": 87,
+   "samples": [
+    {
+     "name": "-XZ-bahamas-WM.png",
+     "bytes": 19356251,
+     "where": [
+      "D:Project Bluebird/S0Ltoshi",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/Project Bluebird/S0Ltoshi"
+     ]
+    },
+    {
+     "name": "-XZ-bahamasRev-WM.png",
+     "bytes": 18518643,
+     "where": [
+      "D:Project Bluebird/S0Ltoshi",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/Project Bluebird/S0Ltoshi"
+     ]
+    },
+    {
+     "name": "-XZ-coralBlkWhtBlk-WM.png",
+     "bytes": 20191606,
+     "where": [
+      "D:Project Bluebird/S0Ltoshi",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/Project Bluebird/S0Ltoshi"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "DBX-TEAM:Home Inspection Training",
+   "b": "F:SEED BANK",
+   "bytes": 918709084,
+   "files": 562,
+   "samples": [
+    {
+     "name": "STUDY GUIDE - SG-008-L1.pdf",
+     "bytes": 20063149,
+     "where": [
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Backups/Current Set History/20260920-040130",
+      "DBX-TEAM:Home Inspection Training/Study Guide Editions/SG-008/Presentation History/Before Inspection V2/Home Inspection Training/Study Guide Editions/SG-008-L1"
+     ]
+    },
+    {
+     "name": "STUDY GUIDE - SG-008.pdf",
+     "bytes": 300218,
+     "where": [
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Backups/Current Set History/20260920-040130",
+      "DBX-TEAM:Home Inspection Training/Study Guide Editions/SG-008/Presentation History/Before Inspection V2/Home Inspection Training/Study Guide Editions/SG-008"
+     ]
+    },
+    {
+     "name": "QUICK CHARTS - 64 CARDS - 5x7.pdf",
+     "bytes": 241372,
+     "where": [
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Backups/Current Set History/20260920-040130/Field Cards",
+      "DBX-TEAM:Home Inspection Training/Study Guide Editions/SG-008/Presentation History/Before Inspection V2/Home Inspection Training/Study Guide Editions/SG-008/Appendices/Quick Charts - 64 Cards"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "DBX-ABSTRACTION:CODE STRUCTURE",
+   "b": "DBX-ABSTRACTION:FRAKT launch",
+   "bytes": 193804349,
+   "files": 619,
+   "samples": [
+    {
+     "name": "BTCUSDT-5m-week1.csv",
+     "bytes": 299851,
+     "where": [
+      "DBX-ABSTRACTION:CODE STRUCTURE/Dataset-Warehouse/Datasets/BinanceAPI/processed",
+      "DBX-ABSTRACTION:CODE STRUCTURE/Dataset-Warehouse/Datasets/BinanceAPI/yearreview",
+      "DBX-ABSTRACTION:FRAKT launch/yearreview"
+     ]
+    },
+    {
+     "name": "BTCUSDT-5m-week10.csv",
+     "bytes": 299220,
+     "where": [
+      "DBX-ABSTRACTION:CODE STRUCTURE/Dataset-Warehouse/Datasets/BinanceAPI/processed",
+      "DBX-ABSTRACTION:CODE STRUCTURE/Dataset-Warehouse/Datasets/BinanceAPI/yearreview",
+      "DBX-ABSTRACTION:FRAKT launch/yearreview"
+     ]
+    },
+    {
+     "name": "BTCUSDT-5m-week11.csv",
+     "bytes": 300199,
+     "where": [
+      "DBX-ABSTRACTION:CODE STRUCTURE/Dataset-Warehouse/Datasets/BinanceAPI/processed",
+      "DBX-ABSTRACTION:CODE STRUCTURE/Dataset-Warehouse/Datasets/BinanceAPI/yearreview",
+      "DBX-ABSTRACTION:FRAKT launch/yearreview"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "DBX-ABSTRACTION:NFT Collection",
+   "b": "DBX-BB_SEED:BB_BOOKS",
+   "bytes": 62287229,
+   "files": 16,
+   "samples": [
+    {
+     "name": "29.png",
+     "bytes": 5446406,
+     "where": [
+      "F:MINTS/DATAbstractors",
+      "DBX-ABSTRACTION:CODE STRUCTURE/~~MINT~~/DATAbstractors/strange0",
+      "DBX-ABSTRACTION:NFT Collection/personal artwork/urs-submissions",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/MINTS/DATAbstractors"
+     ]
+    },
+    {
+     "name": "51.png",
+     "bytes": 2241306,
+     "where": [
+      "F:MINTS/DATAbstractors",
+      "DBX-ABSTRACTION:CODE STRUCTURE/~~MINT~~/DATAbstractors/strange0",
+      "DBX-ABSTRACTION:NFT Collection/personal artwork/crypto-candles/sushi-compare/ADA",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/MINTS/DATAbstractors"
+     ]
+    },
+    {
+     "name": "52.png",
+     "bytes": 4345561,
+     "where": [
+      "F:MINTS/DATAbstractors",
+      "DBX-ABSTRACTION:CODE STRUCTURE/~~MINT~~/DATAbstractors/strange0",
+      "DBX-ABSTRACTION:CODE STRUCTURE/~~MINT~~/DATAbstractors/strange0/New folder",
+      "DBX-ABSTRACTION:NFT Collection/personal artwork/crypto-candles/sushi-compare/ADA"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "DBX-ABSTRACTION:CODE STRUCTURE",
+   "b": "DBX-ABSTRACTION:NFT Collection",
+   "bytes": 59036246,
+   "files": 15,
+   "samples": [
+    {
+     "name": "29.png",
+     "bytes": 5446406,
+     "where": [
+      "F:MINTS/DATAbstractors",
+      "DBX-ABSTRACTION:CODE STRUCTURE/~~MINT~~/DATAbstractors/strange0",
+      "DBX-ABSTRACTION:NFT Collection/personal artwork/urs-submissions",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/MINTS/DATAbstractors"
+     ]
+    },
+    {
+     "name": "51.png",
+     "bytes": 2241306,
+     "where": [
+      "F:MINTS/DATAbstractors",
+      "DBX-ABSTRACTION:CODE STRUCTURE/~~MINT~~/DATAbstractors/strange0",
+      "DBX-ABSTRACTION:NFT Collection/personal artwork/crypto-candles/sushi-compare/ADA",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/MINTS/DATAbstractors"
+     ]
+    },
+    {
+     "name": "52.png",
+     "bytes": 4345561,
+     "where": [
+      "F:MINTS/DATAbstractors",
+      "DBX-ABSTRACTION:CODE STRUCTURE/~~MINT~~/DATAbstractors/strange0",
+      "DBX-ABSTRACTION:CODE STRUCTURE/~~MINT~~/DATAbstractors/strange0/New folder",
+      "DBX-ABSTRACTION:NFT Collection/personal artwork/crypto-candles/sushi-compare/ADA"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "DBX-ABSTRACTION:NFT Collection",
+   "b": "F:MINTS",
+   "bytes": 59036246,
+   "files": 15,
+   "samples": [
+    {
+     "name": "29.png",
+     "bytes": 5446406,
+     "where": [
+      "F:MINTS/DATAbstractors",
+      "DBX-ABSTRACTION:CODE STRUCTURE/~~MINT~~/DATAbstractors/strange0",
+      "DBX-ABSTRACTION:NFT Collection/personal artwork/urs-submissions",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/MINTS/DATAbstractors"
+     ]
+    },
+    {
+     "name": "51.png",
+     "bytes": 2241306,
+     "where": [
+      "F:MINTS/DATAbstractors",
+      "DBX-ABSTRACTION:CODE STRUCTURE/~~MINT~~/DATAbstractors/strange0",
+      "DBX-ABSTRACTION:NFT Collection/personal artwork/crypto-candles/sushi-compare/ADA",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/MINTS/DATAbstractors"
+     ]
+    },
+    {
+     "name": "52.png",
+     "bytes": 4345561,
+     "where": [
+      "F:MINTS/DATAbstractors",
+      "DBX-ABSTRACTION:CODE STRUCTURE/~~MINT~~/DATAbstractors/strange0",
+      "DBX-ABSTRACTION:CODE STRUCTURE/~~MINT~~/DATAbstractors/strange0/New folder",
+      "DBX-ABSTRACTION:NFT Collection/personal artwork/crypto-candles/sushi-compare/ADA"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "DBX-TEAM:Property Reviews",
+   "b": "F:SEED BANK",
+   "bytes": 22371721,
+   "files": 39,
+   "samples": [
+    {
+     "name": "concordance.json",
+     "bytes": 164806,
+     "where": [
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Backups/Current Set History/before-S32-N1-2026-09-21/Property Reviews/505 Walker Ave",
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Issues/SG-010-2026-09-21/Data/Library/SG-010-2026-09-21/owners/Property Reviews/505 Walker Ave",
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Issues/SG-010-2026-09-21/Data/Property",
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Issues/SG-010-P1-2026-09-22/Data/Library/SG-010-P1-2026-09-22/owners/Property Reviews/505 Walker Ave"
+     ]
+    },
+    {
+     "name": "concordance-SG009-crosswalk.json",
+     "bytes": 104999,
+     "where": [
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Issues/SG-010-2026-09-21/Data/Property",
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Issues/SG-010-P1-2026-09-22/Data/Property",
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Working Evidence/sg009-color-language/frozen-issue/Data/Property",
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Working Evidence/sg009-location-contents/frozen-issue/Data/Property"
+     ]
+    },
+    {
+     "name": "concordance-SG010-crosswalk.json",
+     "bytes": 80486,
+     "where": [
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Issues/SG-010-2026-09-21/Data/Property",
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Issues/SG-010-P1-2026-09-22/Data/Property",
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Working Evidence/sg010-20260921/publish/Property Reviews/505 Walker Ave",
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Working Evidence/sg010-20260921/walker-sg010/output"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "DBX-BB_SEED:BB_DESIGN",
+   "b": "F:SEED BANK",
+   "bytes": 20658373,
+   "files": 2,
+   "samples": [
+    {
+     "name": "state-000.png",
+     "bytes": 10329186,
+     "where": [
+      "F:SEED BANK/GENERATED/ABSTractors/c9ce188c-296e-46e4-9836-5834d8c3fdf9/FRAMES",
+      "DBX-BB_SEED:BB_DESIGN/02_PROJECTS/MOD_ABSTractors/07_PRODUCTION/dispatches/sequence-20260914T202420-aa1720cc/images",
+      "DBX-BB_SEED:BB_DESIGN/02_PROJECTS/MOD_ABSTractors/07_PRODUCTION/dispatches/sequence-20260914T202738-a23a1fef/images",
+      "DBX-BB_SEED:BB_DESIGN/02_PROJECTS/MOD_ABSTractors/07_PRODUCTION/dispatches/sequence-20260914T210753-5416e80c/images"
+     ]
+    },
+    {
+     "name": "state-000.png",
+     "bytes": 10329187,
+     "where": [
+      "F:SEED BANK/GENERATED/ABSTractors/ef3aae76-8c57-4cf6-8808-1073fd579f86/FRAMES",
+      "DBX-BB_SEED:BB_DESIGN/02_PROJECTS/MOD_ABSTractors/07_PRODUCTION/dispatches/sequence-20260914T203409-1bf98ccb/images",
+      "DBX-BB_SEED:BB_DESIGN/02_PROJECTS/MOD_ABSTractors/07_PRODUCTION/dispatches/sequence-20260914T211713-d7d98afa/images"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "DBX-TEAM:Home Inspection Training",
+   "b": "DBX-TEAM:Property Reviews",
+   "bytes": 12586997,
+   "files": 7,
+   "samples": [
+    {
+     "name": "concordance.json",
+     "bytes": 164806,
+     "where": [
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Backups/Current Set History/before-S32-N1-2026-09-21/Property Reviews/505 Walker Ave",
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Issues/SG-010-2026-09-21/Data/Library/SG-010-2026-09-21/owners/Property Reviews/505 Walker Ave",
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Issues/SG-010-2026-09-21/Data/Property",
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Issues/SG-010-P1-2026-09-22/Data/Library/SG-010-P1-2026-09-22/owners/Property Reviews/505 Walker Ave"
+     ]
+    },
+    {
+     "name": "concordance-SG009-crosswalk.json",
+     "bytes": 104999,
+     "where": [
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Issues/SG-010-2026-09-21/Data/Property",
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Issues/SG-010-P1-2026-09-22/Data/Property",
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Working Evidence/sg009-color-language/frozen-issue/Data/Property",
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Working Evidence/sg009-location-contents/frozen-issue/Data/Property"
+     ]
+    },
+    {
+     "name": "concordance-SG010-crosswalk.json",
+     "bytes": 80486,
+     "where": [
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Issues/SG-010-2026-09-21/Data/Property",
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Issues/SG-010-P1-2026-09-22/Data/Property",
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Working Evidence/sg010-20260921/publish/Property Reviews/505 Walker Ave",
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Working Evidence/sg010-20260921/walker-sg010/output"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "D:Ingrained",
+   "b": "DBX-BB_SEED:BB_BOOKS",
+   "bytes": 11445569,
+   "files": 2,
+   "samples": [
+    {
+     "name": "~AbstractPeople~1-9e55163a-smoothRevOwt.png",
+     "bytes": 4050946,
+     "where": [
+      "D:Ingrained",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/Ingrained"
+     ]
+    },
+    {
+     "name": "~AbstractPeople~71-80c562cd-drksaturnOwt.png",
+     "bytes": 7394623,
+     "where": [
+      "D:Ingrained",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/IMAGES/Ingrained"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "DBX-BB_SEED:BB_BOOKS",
+   "b": "DBX-TEAM:Home Inspection Training",
+   "bytes": 8030970,
+   "files": 78,
+   "samples": [
+    {
+     "name": "frame-0000001.jpg",
+     "bytes": 89104,
+     "where": [
+      "DBX-BB_SEED:BB_BOOKS/reference/class-recordings/2026-09-10/export-v1/R044a6c2cca64/frames",
+      "DBX-BB_SEED:BB_BOOKS/reference/class-recordings/2026-09-10/export-v3/R044a6c2cca64/frames",
+      "DBX-TEAM:Home Inspection Training/2026-09-10 Structural Inspection/references/R044a6c2cca64/frames"
+     ]
+    },
+    {
+     "name": "frame-0000006.jpg",
+     "bytes": 77492,
+     "where": [
+      "DBX-BB_SEED:BB_BOOKS/reference/class-recordings/2026-09-10/export-v1/R044a6c2cca64/frames",
+      "DBX-BB_SEED:BB_BOOKS/reference/class-recordings/2026-09-10/export-v3/R044a6c2cca64/frames",
+      "DBX-TEAM:Home Inspection Training/2026-09-10 Structural Inspection/references/R044a6c2cca64/frames"
+     ]
+    },
+    {
+     "name": "frame-0000011.jpg",
+     "bytes": 73879,
+     "where": [
+      "DBX-BB_SEED:BB_BOOKS/reference/class-recordings/2026-09-10/export-v1/R044a6c2cca64/frames",
+      "DBX-BB_SEED:BB_BOOKS/reference/class-recordings/2026-09-10/export-v3/R044a6c2cca64/frames",
+      "DBX-TEAM:Home Inspection Training/2026-09-10 Structural Inspection/references/R044a6c2cca64/frames"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "DBX-BB_SEED:BB_BOOKS",
+   "b": "F:SEED BANK",
+   "bytes": 3617747,
+   "files": 16,
+   "samples": [
+    {
+     "name": "frame-0000113.jpg",
+     "bytes": 98321,
+     "where": [
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Working Evidence/sg010-20260921/intake/S38/Visual/Rd37a7149f40e/frames",
+      "DBX-BB_SEED:BB_BOOKS/reference/class-recordings/2026-09-10/export-v1/R99dab593c0b0/frames",
+      "DBX-BB_SEED:BB_BOOKS/reference/class-recordings/2026-09-10/export-v3/R99dab593c0b0/frames"
+     ]
+    },
+    {
+     "name": "recipe.json",
+     "bytes": 99270,
+     "where": [
+      "F:SEED BANK/GENERATED/ABSTractors/0a7368e8-f9f7-4866-af60-6c4e4daba4c6",
+      "DBX-BB_SEED:BB_BOOKS/sequence-runs/sequence-20260914T182232-c156b13c"
+     ]
+    },
+    {
+     "name": "variation-001-density.npy",
+     "bytes": 131200,
+     "where": [
+      "F:SEED BANK/GENERATED/ABSTractors/58759032-79bd-409a-96ab-0adbd2c2ebbe",
+      "F:SEED BANK/GENERATED/ABSTractors/8963ff31-8411-403a-b4ac-c67d51f61f03",
+      "DBX-BB_SEED:BB_BOOKS/dispatches/ABSTractors/working/20260909-025356-d2a2-stop",
+      "DBX-BB_SEED:BB_BOOKS/dispatches/ABSTractors/working/20260909-030003-8dfc-stop"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "DBX-TEAM:Sound Recordings",
+   "b": "F:SEED BANK",
+   "bytes": 543739,
+   "files": 3,
+   "samples": [
+    {
+     "name": "RECORDING ARCHIVE - LEDGER.pdf",
+     "bytes": 114225,
+     "where": [
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Working Evidence/recordings-closeout-20260921/ledger",
+      "F:SEED BANK/RECORDINGS",
+      "DBX-TEAM:Sound Recordings"
+     ]
+    },
+    {
+     "name": "recordings-catalog.csv",
+     "bytes": 124982,
+     "where": [
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Working Evidence/recordings-closeout-20260921/ledger",
+      "F:SEED BANK/RECORDINGS",
+      "DBX-TEAM:Sound Recordings"
+     ]
+    },
+    {
+     "name": "recordings-catalog.json",
+     "bytes": 304532,
+     "where": [
+      "F:SEED BANK/RECORDINGS",
+      "DBX-TEAM:Sound Recordings"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "D:BOOGLE",
+   "b": "DBX-BB_SEED:BB_BOOKS",
+   "bytes": 448737,
+   "files": 1,
+   "samples": [
+    {
+     "name": "BOOGLE_Shareholder_Letter_001.pdf",
+     "bytes": 448737,
+     "where": [
+      "D:BOOGLE",
+      "DBX-BB_SEED:BB_BOOKS/library/Sources/DOCUMENTS/BOOGLE"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "DBX-BB_SEED:trials",
+   "b": "DBX-BB_SEED:work",
+   "bytes": 315392,
+   "files": 1,
+   "samples": [
+    {
+     "name": "seed.sqlite3",
+     "bytes": 315392,
+     "where": [
+      "DBX-BB_SEED:trials/library-stress-2026-09-07/BB_BOOKS/state",
+      "DBX-BB_SEED:work/test-run-05/test_backup_and_rollback0/app/BB_BOOKS/state",
+      "DBX-BB_SEED:work/test-run-05/test_cancel_rolls_back_transac0/app/BB_BOOKS/state",
+      "DBX-BB_SEED:work/test-run-05/test_changed_intent_refuses_ol0/app/BB_BOOKS/state"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "DBX-TEAM:(root)",
+   "b": "DBX-TEAM:Home Inspection Training",
+   "bytes": 72944,
+   "files": 1,
+   "samples": [
+    {
+     "name": "APPENDIX-VERSIONS.json",
+     "bytes": 72944,
+     "where": [
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Issues/SG-010-P1-2026-09-22/Data",
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Issues/SG-010-P1-2026-09-22/Data/SG-010",
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Working Evidence/sg010-20260921/publish",
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Working Evidence/sg010-20260921/publish/Home Inspection Training/Study Guide Editions/SG-010"
+     ]
+    }
+   ]
+  },
+  {
+   "a": "DBX-TEAM:(root)",
+   "b": "F:SEED BANK",
+   "bytes": 72944,
+   "files": 1,
+   "samples": [
+    {
+     "name": "APPENDIX-VERSIONS.json",
+     "bytes": 72944,
+     "where": [
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Issues/SG-010-P1-2026-09-22/Data",
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Issues/SG-010-P1-2026-09-22/Data/SG-010",
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Working Evidence/sg010-20260921/publish",
+      "F:SEED BANK/DATA_ARCHIVE/HOME_INSPECTION/Working Evidence/sg010-20260921/publish/Home Inspection Training/Study Guide Editions/SG-010"
+     ]
+    }
+   ]
+  }
+ ]
+}
